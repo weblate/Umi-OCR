@@ -6,62 +6,62 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
         <source>开源、免费的离线OCR软件</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">खुला स्रोत, मुफ्त अफार्म ओसीआर सॉफ्टवेयर</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">वर्तमान संस्करण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
         <source>项目链接</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">परियोजना लिंक</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>आधिकारिक वेबसाइट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>प्लग-इन विस्तार</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>समस्या प्रतिक्रिया</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रकाशित पता</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation type="unfinished"></translation>
+        <translation>लाइसेन्स समझौता</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
         <source>作者</source>
-        <translation type="unfinished"></translation>
+        <translation>लेखक</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="86"/>
         <source>译者</source>
-        <translation type="unfinished"></translation>
+        <translation>अनुवादक</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="112"/>
         <source>运行环境信息（如需请求协助，请提供给开发者）</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्य वातावरण जानकारी (यदि सहायता के लिए अनुरोध करना हो, तो विकासकर्ता को प्रदान करें)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="117"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>काटी-थकी</translation>
     </message>
 </context>
 <context>
@@ -70,7 +70,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/AsynFilesLoader.qml" line="9"/>
         <source>正在载入 %1 个文件：
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 फाइल लोड हो रही है:
+%2</translation>
     </message>
 </context>
 <context>
@@ -78,105 +79,107 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="48"/>
         <source>加密</source>
-        <translation type="unfinished"></translation>
+        <translation>एन्क्रिप्शन</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="60"/>
         <source>%1个加密文档</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 एन्क्रिप्ट डॉक्युमेंट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="61"/>
         <source>请点击文件名填写密码</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल नाम पर क्लिक गरीब जानकारी पासवर्ड भर्नुहोस</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>文档已加密</source>
-        <translation type="unfinished"></translation>
+        <translation>डाक सामग्री एन्क्रिप्ट गरिएको छ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>【%1】
 请点击文档名，设置密码</source>
-        <translation type="unfinished"></translation>
+        <translation>【%1】
+डक्यूमेन्ट नाम पर क्लिक गरीब, पासवर्ड सेट गरीब</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="174"/>
         <source>失败</source>
-        <translation type="unfinished"></translation>
+        <translation>राम</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="89"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>लाइन में लगना</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="127"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>अझै पनि बन्द</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="134"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्य चल रहेको छ।
+कार्य समाप्त गर्न र पृष्ठ बन्द गर्न चाहान छान्?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="243"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="252"/>
         <source>文档</source>
-        <translation type="unfinished"></translation>
+        <translation>दस्तावेज़</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="245"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>स्थिति</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="248"/>
         <source>打开文档</source>
-        <translation type="unfinished"></translation>
+        <translation>डकुमेन्ट खोल्नुहोस</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="250"/>
         <source>拖入文档或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>ड्रेग राइट डाकुमेन्ट वा फोल्डर</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="249"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>खाली गर्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="166"/>
         <source>文档识别异常</source>
-        <translation type="unfinished"></translation>
+        <translation>दस्तावेज़ पहचान असामान्य</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="180"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>बल पहचान पूर्ण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation type="unfinished"></translation>
+        <translation>पन्नाहर</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
         <source>请选择文档</source>
-        <translation type="unfinished"></translation>
+        <translation>कृपया दस्तावेज़ चुनें</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="281"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>सेटिंग</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="286"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>रिकॉर्ड</translation>
     </message>
 </context>
 <context>
@@ -184,83 +187,83 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR पाठ पश्चात उपचार</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="42"/>
         <source>文档处理</source>
-        <translation type="unfinished"></translation>
+        <translation>डस्टर प्रसंस्करण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="46"/>
         <source>内容提取模式</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्यवाही निष्कर्षण मोड</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
         <source>若一页文档既存在图片又存在文本，如何进行处理</source>
-        <translation type="unfinished"></translation>
+        <translation>यदि एक पृष्ठ में चित्र और पाठ दोनों हो, तो उसे कैसे संसाधित किया जाए</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="49"/>
         <source>混合OCR/原文本</source>
-        <translation type="unfinished"></translation>
+        <translation>मिश्रित OCR/मूल पाठ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="50"/>
         <source>整页强制OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>पूर्ण पृष्ठ अनिवार्य OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="51"/>
         <source>仅OCR图片</source>
-        <translation type="unfinished"></translation>
+        <translation>केवल OCR चित्र</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="52"/>
         <source>仅拷贝原有文本</source>
-        <translation type="unfinished"></translation>
+        <translation>केवल मूल पाठ की प्रतिलिपि</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="59"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>बैच कार्य</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="68"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>सेभ गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="70"/>
         <source>文档原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>दस्तावेज़को वास्तविक निर्दिष्टि</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="71"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="75"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>निर्दिष्ट निर्देशिका</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="76"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;संरक्षण निर्दिष्ट दिशा में&quot; निर्दिष्ट गर्म हुनु परिवर्तन लागू हुन्न</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="80"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR परिणाम सहेज्यालय</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल नाम फॉर्मेट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>दिनाङ्क एवं समय रूप</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -269,92 +272,96 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल नाम मा %date को तिथि फॉर्मेट। निम्नलिखित ठहरावहर इन्सर्ट गर्न सक्छ:
+%Y वर्ष, %m महिना, %d दिन, %H घन्टा,
+%M मिनट, %S सेकंड, %unix टाइमस्टप
+उदाहरण: %Y वर्ष %m महिना %d दिन _ %H-%M
+जनरेट: 2023-09-01_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="96"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल प्रकार सुरक्षित</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
         <source>layered.pdf 双层可搜索文档</source>
-        <translation type="unfinished"></translation>
+        <translation>layered.pdf दोहरी परत खोज सक्षम दस्तावेज़</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="107"/>
         <source>text.pdf 单层纯文本文档</source>
-        <translation type="unfinished"></translation>
+        <translation>text.pdf एकल परत शुद्ध पाठ दस्तावेज़</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="108"/>
         <source>创建空白PDF文档，只写入识别文字，不含图片</source>
-        <translation type="unfinished"></translation>
+        <translation>खाली पीडीएफ दस्तावेज़ बनाएं, केवल पहचान वाला पाठ लिखिए, चित्र शामिल नहीं</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt मानक प्रारूप</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="113"/>
         <source>含识别文字和页数信息</source>
-        <translation type="unfinished"></translation>
+        <translation>पाठ और पृष्ठ संख्या जानकारी समाहित</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="117"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt शुद्ध पाठ फार्माट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="118"/>
         <source>输出所有识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>सबै पहचान गरिएको टेक्स्ट आउटपुट गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="122"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>सीएसवी टेबल फाइल (एक्सेल)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>पन्नाक को जानकारी रूपान्तरित एवं पहचान सामग्री को csv टेबल फाइल में लिखें। इसे एक्सेल द्वारा खोला जा सकता है और xlsx प्रारूप में सहेजा जा सकता है।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl मूल जानकारी</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रत्येक पँक्ति एक json डेटा हो, तृतीय-पक्ष कार्यक्रम द्वारा पठन एवं संचालन सुविधा के लिए</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="134"/>
         <source>忽略空白页</source>
-        <translation type="unfinished"></translation>
+        <translation>खाली पृष्ठ नजरअंदाज गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
         <source>若某一页没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>यदि किसी पृष्ठ पर कोई पाठ नहीं है या पहचान विफल हो जाती है，तो त्रुटि सूचना भी नहीं दिखाई देगी।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>पुनरावृत्ति द्वारा उप-फोल्डर पढ़ना</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="23"/>
         <source>点击表格，可设置更多内容</source>
-        <translation type="unfinished"></translation>
+        <translation>तालिका मा क्लिक गरे, अधिक विवरण सेट गर्न सक्ने</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>फोल्डर आयात गर्दा, सबफोल्डर मा सबै दस्तावेज़हरू आयात गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -365,17 +372,23 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>विस्तार नाम भरने की आवश्यकता नहीं है। निम्नलिखित प्लेसहोल्डर्स को डालने का समर्थन करता है:
+तिथि एवं समय
+%name मूल दस्तावेज़ नाम
+%range पन्नाहरा पहचान गर्न। केवल पन्नाहरा पहचान कुल पन्नाहरा भन्दा कम हुनुहरुमा प्रदर्शित हुन्छ।
+उदाहरण: [OCR]_%name%range_%date
+OCR]_दस्तावेज़ A(p2-10)_20230901_1213.txt
+प्लेसहोल्डर थप्ने द्वारा पुराना फाइल नया फाइल द्वारा ओभराइट हुने बच्न सक्छ।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>मूल चित्र को बरकरार रख्ना, पारदर्शी पाठ की एक परत ओवरले करना, खोज और कॉपी करना संभव हो</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>अन्य</translation>
     </message>
 </context>
 <context>
@@ -383,84 +396,85 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>अझैपछि बन्द</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्य प्रगतिशील चल रहेको छ।
+कार्य समाप्त गर्नु र पृष्ठ बन्द गर्नु चाहानुअर्ह छ?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>कतार</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रसंस्करण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 चित्र चिह्न निर्धारण विफल!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>ब्लँक पहचान पूर्ण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>ब्लँक पहचान कार्य असामान्य</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="241"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="250"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>समय लागेका</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>स्थिति</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि खोल्नुहोस</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि वा फोल्डर खिँचकर गला खोल्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>खाली गर्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि चयन गर्नुहो स</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="279"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>सेटिंग</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>रिकॉर्ड</translation>
     </message>
 </context>
 <context>
@@ -468,53 +482,53 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR पाठ पश्चात प्रसंस्करण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>अनदेखी क्षेत्र</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>सेटिङ्गमा जानुहोस</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>बैच कार्य</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>सुरक्षित गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि मूल नाम</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>निर्दिष्ट निर्देशिका</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;संग्रहण निर्दिष्ट फोल्डर&quot; निर्दिष्ट गर्नु परिणामकारी हुन्छ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR परिणाम सहेज्ने को निर्देशिका</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल नाम प्रारूप</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -524,12 +538,17 @@
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>विस्तार नाम भर्ना आवश्यक नहीं। निम्नलिखित प्लेसहोल्डर डालने का समर्थन:
+%date तिथि समय
+%name मूल फोल्डर नाम/फाइल नाम
+उदाहरण: [OCR]_%name_%date
+जनरेट: [OCR]_मेरी तस्वीर_2023-09-01_12-13.txt
+प्लेसहोल्डर थप्ने द्वारा पुराना फाइल नया फाइल द्वारा ओभरवाइट भए बिरति गर्न सक्ने।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>तिथि आवृत्ति प्रारूप</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -538,97 +557,101 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल नाममा %date को तिथि फॉर्मेट। निम्नलिखित प्लेसहोल्डर समावेश गर्न सक्छ:
+%Y वर्ष, %m महिना, %d दिन, %H घन्टा,
+%M मिनेट, %S सेकेन्ड, %unix टाइमस्टम्प
+उदाहरण: %Y वर्ष %m महिना %d दिन _ %H-%M
+जनरेशन: 2023-09-01_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल प्रकार सहेज्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt मानक फॉर्मेट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
         <source>含原图片文件名和识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>मूल छवि फाइल नाम र ओरिएन्टेशन टेक्स्ट शामिल</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="84"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt शुद्ध पाठ फॉर्मेट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="85"/>
         <source>仅输出识别文字，不含图片标题</source>
-        <translation type="unfinished"></translation>
+        <translation>केवल पहचान गर्ने अक्षरहरू मात्र आउटपुट गर्नुहोस्, छवि शीर्षकहरू शामिल छैनन्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
         <source>txt 单独文件</source>
-        <translation type="unfinished"></translation>
+        <translation>txt अलग फाइल</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
         <source>对每张图片，生成同名txt文件，仅输出识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रत्येक चित्रका लागि, एकै नामक टेक्स्ट फाइल बनाउनुहोला, केवल पहचान भएको शब्दहरू प्रिन्ट गरुहोला</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation type="unfinished"></translation>
+        <translation>एमडी चित्र एवं पाठ मिश्रित</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation type="unfinished"></translation>
+        <translation>मार्कडाउन चित्र एवं पाठ मिश्रित प्रारूप, मार्कडाउन रीडर द्वारा फाइल परीक्षण किया जा सकता है</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>सीएसवी टेबल फाइल (एक्सेल)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
         <source>将图片信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>छवि जानकारी रेखीकरण सामग्री लेखन csv टेबल फाइल। एक्सेल मा खोल्न सकिन्छ, एक्सएलएक्सएक्स प्रारूपमा सहेज्न सकिन्छ।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl मूल जानकारी</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रत्येक पंक्ति एक json डेटा हो, जो तीसर पक्ष के प्रोग्राम द्वारा पढ़ने और संचालन के लिए सुविधाजनक बनाता है</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
         <source>输出忽略空白图片</source>
-        <translation type="unfinished"></translation>
+        <translation>आउटपुट खाली छविहर अनदेखा गर्ने</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
         <source>若图片没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>यदि चित्र में कोई पाठ नहीं है या पहचान विफल हो गई है，तो भी त्रुटि सूचना आउटपुट नहीं होगी।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>पुनरावर्ती रूप से उप-फ़ोल्डर पढ़ें</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
         <source>导入文件夹时，导入子文件夹中全部图片</source>
-        <translation type="unfinished"></translation>
+        <translation>फोल्डर आयात गर्दा, उप-फोल्डर मा सबै चित्र आयात गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>अन्य</translation>
     </message>
 </context>
 <context>
@@ -637,108 +660,110 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="186"/>
         <source>%1 处理配置项异常：
 %2枚举列表为空。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 कॉन्फ़िगरेशन आइटम असामान्यता संसाधित गर्मी:
+२ प्रश्न शून्य।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="472"/>
         <source>重置</source>
-        <translation type="unfinished"></translation>
+        <translation>रीसेट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="473"/>
         <source>重置本页上的设定</source>
-        <translation type="unfinished"></translation>
+        <translation>यह पृष्ठ पर सेटिङ्स को पुनः सेट करें</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="476"/>
         <source>重置设定</source>
-        <translation type="unfinished"></translation>
+        <translation>सेटिङ रीसेट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="478"/>
         <source>要重置本页的设定吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>यह पृष्ठ की सेटिंग्स को पुनः सेट करना चाहेंछोड़ना?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="486"/>
         <source>高级</source>
-        <translation type="unfinished"></translation>
+        <translation>उच्च</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="487"/>
         <source>显示更多高级选项。它们标有 * 号。
 请谨慎修改高级选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>अधिक उन्नत विकल्प प्रदर्शित गर्नुहोस। यी * चिह्न द्वारा चिह्नित गरिते हो।
+उन्नत विकल्पहरु को सावधानीपूर्वक संशोधन गर्नुहोला।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>展开</source>
-        <translation type="unfinished"></translation>
+        <translation>खोल्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>折叠</source>
-        <translation type="unfinished"></translation>
+        <translation>फोल्ड</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="802"/>
         <source>必须为整数</source>
-        <translation type="unfinished"></translation>
+        <translation>संख्या होनी चाहिए</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="806"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>अधिकतम नहीं हो सक्ता</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>न्यूनतम रूपमा</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>संख्यात्मक होना आवश्यक</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 का शॉर्टकट रद्द गर्ब।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>更新热键成功</source>
-        <translation type="unfinished"></translation>
+        <translation>हॉटकियर अपडेट यशस्वि भए</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>%1的快捷键为 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 का शॉर्टकट %2 हो</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1141"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 शॉर्टकट नियंत्रण %2 पहले से नियुक्त छिटकिट नियंत्रण, कृपया अर्ध-नियुक्त नियंत्रण पर आज़ादी दें।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1144"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 शॉर्टकट %2 पंजीकृत नहीं हो सकता, कृपया अन्य बटन संयोजन का प्रयास करें।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation type="unfinished"></translation>
+        <translation>कृपया शॉर्टकट की कम्बिनेशन दबाउँ। [Esc] दबाउँकि बाहिर जान्छु।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>वर्तमान में शॉर्टकट बटन रिकॉर्डिंग पहले से हो रही है, एक साथ रिकॉर्ड नहीं हो सकता!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1168"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>शॉर्टकट नियंत्रण रिकॉर्ड गर्न न आउनु</translation>
     </message>
 </context>
 <context>
@@ -746,7 +771,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>हात हटाएर फाइल डाल्नुहोस्</translation>
     </message>
 </context>
 <context>
@@ -754,24 +779,26 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="107"/>
         <source>界面</source>
-        <translation type="unfinished"></translation>
+        <translation>इंटरफ़ेस</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="115"/>
         <source>内容</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्यक्रम</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
         <source>界面字体：
 软件中大部分UI的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>इंटरफ़ेस फ़ॉन्ट:
+सॉफ्टवेयरमा अधिकांश UI को फोन्ट।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>कार्यक्रम फ़ॉन्ट:
+पहचान परिणाम सामग्रीको फोंट।</translation>
     </message>
 </context>
 <context>
@@ -779,62 +806,62 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="20"/>
         <source>快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>जल्दी रास्ता</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="24"/>
         <source>桌面</source>
-        <translation type="unfinished"></translation>
+        <translation>काम्याल</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="32"/>
         <source>开始菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>सुरुआती मेन्यू</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="40"/>
         <source>开机自启</source>
-        <translation type="unfinished"></translation>
+        <translation>पावर ऑन हुन तुरुन्तै</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="51"/>
         <source>界面和外观</source>
-        <translation type="unfinished"></translation>
+        <translation>इंटरफेस र बाह्य रूप</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="56"/>
         <source>主题</source>
-        <translation type="unfinished"></translation>
+        <translation>विषय</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
         <source>切换主题</source>
-        <translation type="unfinished"></translation>
+        <translation>थीम बदल्नु</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="65"/>
         <source>字体</source>
-        <translation type="unfinished"></translation>
+        <translation>फ़न्ट</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="68"/>
         <source>修改字体</source>
-        <translation type="unfinished"></translation>
+        <translation>फ़ॉन्ट बदलें</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="83"/>
         <source>界面与文字大小</source>
-        <translation type="unfinished"></translation>
+        <translation>इंटरफेस र पाठ आकार</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="99"/>
         <source>渲染器</source>
-        <translation type="unfinished"></translation>
+        <translation>रेन्डरर</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="103"/>
         <source>关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>हार्डवेयर एक्सेलेरेशन बन्द गर्नुहोस्</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
