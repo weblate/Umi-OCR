@@ -866,12 +866,12 @@ OCR]_दस्तावेज़ A(p2-10)_20230901_1213.txt
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>यदि इंटरफेस फ्लिकरिंग, तत्व गलत स्थिति आदि इंटरफेस असामान्यता होती है, तो रेंडरर को बदलने या हार्डवेयर एक्सेलरेशन बंद करने का प्रयास करें</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>सुंदर बनाने की प्रभाव निष्क्रिय</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
