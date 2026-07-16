@@ -361,13 +361,13 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished">No need to fill in the extension name. The following placeholders are supported:
-%date Date and time
-%name Original folder name/file name
-%range Page range. Only displayed when the OCR page count is less than the total page count.
-Example: [OCR]_%name%range_%date
-Generated: [OCR]_Document(p2-10)_2023-09-01_12-13.txt
-Adding placeholders can prevent old files from being overwritten by new files.</translation>
+        <translation>확장자는 입력할 필요가 없습니다. 다음 자리 표시자를 사용할 수 있습니다.
+%date 날짜 및 시간
+%name 원본 문서 이름
+%range 인식한 페이지 범위. 인식한 페이지 수가 전체 페이지 수보다 적을 때만 표시됩니다.
+예: [ocr]_%name%range_%date
+생성 결과: [ocr]_문서A(p2-10)_20230901_1213.txt
+자리 표시자를 추가하면 새 파일이 기존 파일을 덮어쓰는 것을 방지할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
@@ -1139,7 +1139,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Take screenshot</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1299,7 +1299,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
@@ -1687,12 +1687,12 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation type="unfinished">OCR page count</translation>
+        <translation>OCR 페이지 수</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
         <source>忽略区域页数（全局）</source>
-        <translation type="unfinished">Ignore Area page count (Global)</translation>
+        <translation>무시 영역 페이지 수(전역)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
@@ -1786,7 +1786,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="319"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste QR code image</translation>
+        <translation>Screenshot, drag and drop, or paste qr code image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
@@ -1835,7 +1835,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>스크린샷</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="24"/>
@@ -2165,7 +2165,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="142"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="252"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>스크린샷</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="143"/>
@@ -2218,7 +2218,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="430"/>
         <source>截图、拖入或粘贴图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste image</translation>
+        <translation>스크린샷을 찍거나 이미지를 드래그하거나 붙여넣으세요</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="454"/>
@@ -2246,7 +2246,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>스크린샷</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
@@ -2358,7 +2358,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
         <source>%1 系统暂不支持电源控制！</source>
-        <translation type="unfinished">%1 Linux system currently does not support power control!</translation>
+        <translation>%1 시스템은 현재 전원 제어를 지원하지 않습니다!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
