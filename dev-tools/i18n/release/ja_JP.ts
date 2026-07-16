@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation>最新バージョン</translation>
+        <translation>現在のバージョン</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
@@ -31,17 +31,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished">フィードバック</translation>
+        <translation>不具合報告</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation type="unfinished">リリースアドレス</translation>
+        <translation>リリースページ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation type="unfinished">オープンソースライセンス</translation>
+        <translation>オープンソースライセンス</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>ページ情報と認識内容をCSV表に書き込むファイル。Excelで開き、xlsx形式に保存することができます。</translation>
+        <translation>ページ情報と認識内容をcsv表に書き込むファイル。Excelで開き、xlsx形式に保存することができます。</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation>各行が 1 つの JSON データであり、サードパーティのプログラムが読み取り操作を行いやすい形式です</translation>
+        <translation>各行が 1 つの json データであり、サードパーティのプログラムが読み取り操作を行いやすい形式です</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="134"/>
@@ -626,7 +626,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation>各行が 1 つの JSON データであり、サードパーティのプログラムが読み取り操作を行いやすい形式です</translation>
+        <translation>各行が 1 つの json データであり、サードパーティのプログラムが読み取り操作を行いやすい形式です</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
@@ -1176,7 +1176,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished">スクリーンショット</translation>
+        <translation>スクリーンショットを撮る</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
@@ -1186,7 +1186,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>スクリーンショット</translation>
+        <translation>スクリーンショットを撮る</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1344,7 +1344,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>リンク（URL）</translation>
+        <translation>リンク（url）</translation>
     </message>
 </context>
 <context>
@@ -1668,7 +1668,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation>QR コード</translation>
+        <translation>qr コード</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1677,9 +1677,9 @@
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation># QR コード
+        <translation># qr コード
 
-QR コードやバーコードを識別、生成する。
+qr コードやバーコードを識別、生成する。
 
 サポートされているプロトコル：</translation>
     </message>
@@ -1838,7 +1838,7 @@ QR コードやバーコードを識別、生成する。
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="103"/>
         <source>生成二维码失败</source>
-        <translation>QRコードの生成に失敗しました</translation>
+        <translation>qrコードの生成に失敗しました</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="159"/>
@@ -1848,7 +1848,7 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="160"/>
         <source>识图完成</source>
-        <translation>OCR完了</translation>
+        <translation>ocr完了</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="163"/>
@@ -1863,12 +1863,12 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="192"/>
         <source>扫描二维码</source>
-        <translation>QRコードをスキャン</translation>
+        <translation>qrコードをスキャン</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation>スクリーンショット、ドラッグ＆ドロップ、またはQRコード画像を貼り付け</translation>
+        <translation>スクリーンショット、ドラッグ＆ドロップ、またはqrコード画像を貼り付け</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
@@ -1884,7 +1884,7 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="382"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation>テキストを変更すると、自動的にQRコード/バーコードが生成されます</translation>
+        <translation>テキストを変更すると、自動的にqrコード/バーコードが生成されます</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="395"/>
@@ -1894,7 +1894,7 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation>QRコード/バーコードの生成</translation>
+        <translation>qrコード/バーコードの生成</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
@@ -2010,7 +2010,7 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation>QRコード/バーコードの生成</translation>
+        <translation>qrコード/バーコードの生成</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
@@ -2020,7 +2020,7 @@ QR コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>デフォルト QRコード：</translation>
+        <translation>デフォルト qrコード：</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
