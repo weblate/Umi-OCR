@@ -1019,12 +1019,12 @@ Es wird gewartet, bis das Hauptfenster geschlossen ist, bevor der Screenshot ers
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation>Erlaubt Zugriff aus dem LAN. Bitte aktivieren Sie die entsprechenden Firewall-Berechtigungen!</translation>
+        <translation>Erlaubt Zugriff aus dem lan. Bitte aktivieren Sie die entsprechenden Firewall-Berechtigungen!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation>Deaktiviert den Zugriff aus dem LAN.</translation>
+        <translation>Deaktiviert den Zugriff aus dem lan.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
@@ -1176,7 +1176,7 @@ Wenn Sie diese Benachrichtigung nicht sehen möchten, deaktivieren Sie den erwei
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation>Screenshot</translation>
+        <translation>Bildschirmfoto aufnehmen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
@@ -1186,7 +1186,7 @@ Wenn Sie diese Benachrichtigung nicht sehen möchten, deaktivieren Sie den erwei
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>Screenshot</translation>
+        <translation>Screenshot erstellen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1344,7 +1344,7 @@ Wenn Sie zum Beispiel Screenshots von Bildern mit Wasserzeichen verarbeiten, kö
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>URL</translation>
+        <translation>url</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1357,7 @@ Wenn Sie zum Beispiel Screenshots von Bildern mit Wasserzeichen verarbeiten, kö
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation>OK</translation>
+        <translation>Fortfahren</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
@@ -1395,7 +1395,7 @@ Wenn Sie zum Beispiel Screenshots von Bildern mit Wasserzeichen verarbeiten, kö
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation>OK</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
@@ -1405,7 +1405,7 @@ Wenn Sie zum Beispiel Screenshots von Bildern mit Wasserzeichen verarbeiten, kö
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation>OK</translation>
+        <translation>Akzeptieren</translation>
     </message>
 </context>
 <context>
@@ -1650,7 +1650,7 @@ Unterstützte Formate:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation>Stapel-OCR für Dokumente</translation>
+        <translation>Stapel-ocr für Dokumente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
@@ -1659,16 +1659,16 @@ Unterstützte Formate:</translation>
 批量导入文档，提取文字，或生成双层可搜索PDF。
 
 支持格式：</source>
-        <translation># Stapel-OCR für Dokumente
+        <translation>Stapel-ocr für Dokumente
 
-Dokumente gesammelt importieren, Text extrahieren oder durchsuchbare PDFs mit zwei Ebenen erzeugen.
+Stapelweise importieren, Text extrahieren oder durchsuchbare PDFs mit zwei Ebenen erzeugen.
 
 Unterstützte Formate:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation>QR-Code</translation>
+        <translation>qr-code</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1677,9 +1677,9 @@ Unterstützte Formate:</translation>
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation># QR-Code
+        <translation># qr-code
 
-QR-Codes und Barcodes erkennen oder erzeugen.
+qr-codes und Barcodes erkennen oder erzeugen.
 
 Unterstützte Protokolle:</translation>
     </message>
@@ -1763,7 +1763,7 @@ Diese Einstellung ist für alle Dokumente aktiviert.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="270"/>
         <source>预览PDF时，是否预览OCR结果</source>
-        <translation>Soll bei der Vorschau einer PDF das OCR-Ergebnis angezeigt werden?</translation>
+        <translation>Bei der PDF-Vorschau das OCR-Ergebnis anzeigen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
@@ -1838,7 +1838,7 @@ Kann in den globalen Einstellungen standardmäßig deaktiviert werden</translati
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="103"/>
         <source>生成二维码失败</source>
-        <translation>QR-Code konnte nicht erzeugt werden</translation>
+        <translation>qr-code konnte nicht erzeugt werden</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="159"/>
@@ -1863,12 +1863,12 @@ Kann in den globalen Einstellungen standardmäßig deaktiviert werden</translati
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="192"/>
         <source>扫描二维码</source>
-        <translation>QR-Code scannen</translation>
+        <translation>qr-code scannen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation>Screenshot, Drag-and-drop oder QR-Code-Bild einfügen</translation>
+        <translation>Screenshot, Drag-and-drop oder qr-code-Bild einfügen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
@@ -1884,7 +1884,7 @@ Kann in den globalen Einstellungen standardmäßig deaktiviert werden</translati
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="382"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation>QR-Code nach Änderung des Textes automatisch erzeugen</translation>
+        <translation>qr-code nach Änderung des Textes automatisch erzeugen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="395"/>
@@ -1894,7 +1894,7 @@ Kann in den globalen Einstellungen standardmäßig deaktiviert werden</translati
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation>QR-Code erzeugen</translation>
+        <translation>qr-code erzeugen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
@@ -2010,7 +2010,7 @@ Wirksam, wenn Graustufen aktiviert ist und die Binarisierung &gt; -1 ist. Kann m
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation>QR-Code erzeugen</translation>
+        <translation>qr-code erzeugen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
@@ -2058,7 +2058,7 @@ Wirksam, wenn Graustufen aktiviert ist und die Binarisierung &gt; -1 ist. Kann m
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="159"/>
         <source>纠错等级</source>
-        <translation>Fehlerkorrektur-Codierung</translation>
+        <translation>Fehlerkorrekturstufe</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
@@ -2243,7 +2243,7 @@ Fehlermeldung: %1</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="112"/>
         <source>依然关闭</source>
-        <translation>Bestätigen</translation>
+        <translation>Weiterhin geschlossen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="120"/>
@@ -2267,7 +2267,7 @@ Möchten Sie die Aufgabe beenden und die Seite schließen?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="187"/>
         <source>截图识别任务异常</source>
-        <translation>Ausnahme bei der Screenshot-OCR-Aufgabe</translation>
+        <translation>Ausnahme bei der Screenshot-ocr-Aufgabe</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="210"/>
