@@ -41,7 +41,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation>Acuerdo de Licencia</translation>
+        <translation>Acuerdo de licencia</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
@@ -423,53 +423,53 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="170"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la tarea de reconocimiento por lotes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="256"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="265"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="258"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo empleado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="259"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="261"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="263"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastre imágenes o carpetas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="262"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaciar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="264"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, seleccione una imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="293"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="298"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro</translation>
     </message>
 </context>
 <context>
@@ -477,53 +477,53 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Posprocesamiento del texto OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar área</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir configuración</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Tareas por lotes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta original</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar carpeta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Primero debe seleccionar &quot;Guardar en la carpeta seleccionada&quot; para que esta opción tenga efecto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de guardado de los resultados del OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de nombre de archivo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -533,12 +533,17 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>No es necesario indicar la extensión. Se admiten los siguientes marcadores de posición:
+%date Fecha y hora
+%name Nombre de la carpeta original/nombre del archivo
+Ejemplo: [OCR]_%name_%date
+Generado: [OCR]_Mis imágenes_2023-09-01_12-13.txt
+Agregar marcadores de posición puede evitar que los archivos antiguos sean sobrescritos por archivos nuevos.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de fecha y hora</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -547,32 +552,36 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de fecha de %date en el nombre del archivo. Se admiten los siguientes marcadores de posición:
+%Y Año, %m Mes, %d Día, %H Hora,
+%M Minuto, %S Segundo, %unix Marca de tiempo Unix
+Ejemplo: %Y年%m月%d日_%H-%M
+Generado: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de archivo de salida</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato estándar de txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
         <source>含原图片文件名和识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluye el nombre del archivo de imagen original y el texto reconocido</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="84"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt formato de texto plano</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="85"/>
         <source>仅输出识别文字，不含图片标题</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo exporta el texto reconocido, sin incluir el título de la imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
@@ -587,17 +596,17 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto e imágenes combinados</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato Markdown con texto e imágenes combinados; el archivo se puede visualizar con un lector de Markdown</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de tabla csv (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
@@ -607,37 +616,37 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Información sin procesar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada línea contiene un registro de datos json, lo que facilita su lectura y procesamiento por programas de terceros</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
         <source>输出忽略空白图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar imágenes en blanco en la salida</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
         <source>若图片没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la imagen no contiene texto o el reconocimiento falla, tampoco se generará un mensaje de error</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Lectura recursiva de subcarpetas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
         <source>导入文件夹时，导入子文件夹中全部图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Al importar una carpeta, importar todas las imágenes de las subcarpetas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Otros</translation>
     </message>
 </context>
 <context>
@@ -687,7 +696,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="649"/>
         <source>折叠</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="787"/>
@@ -935,7 +944,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="184"/>
         <source>截图</source>
-        <translation>Captura</translation>
+        <translation>Herramienta captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
@@ -1136,7 +1145,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizar captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
@@ -1146,7 +1155,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>Captura de pantalla</translation>
+        <translation>Realizar una captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1306,12 +1315,12 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
@@ -1359,7 +1368,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar</translation>
     </message>
 </context>
 <context>
@@ -1601,7 +1610,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>Código qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1638,7 +1647,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/PopupManager.qml" line="13"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1710,7 +1719,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="394"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="403"/>
@@ -1824,7 +1833,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="428"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="433"/>
@@ -1916,12 +1925,12 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="80"/>
         <source>复制结果</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar resultado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="84"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar la ventana principal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="85"/>
@@ -1979,7 +1988,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="145"/>
         <source>纠错等级</source>
-        <translation type="unfinished"></translation>
+        <translation>Nivel de corrección de errores</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="146"/>
@@ -2160,7 +2169,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="109"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Permanece cerrado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="117"/>
@@ -2235,7 +2244,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial</translation>
     </message>
 </context>
 <context>
@@ -2243,7 +2252,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="17"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesamiento posterior del texto OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
@@ -2309,7 +2318,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="103"/>
         <source>打开主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir ventana principal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
