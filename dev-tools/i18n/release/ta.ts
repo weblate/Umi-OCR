@@ -179,7 +179,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="286"/>
         <source>记录</source>
-        <translation>பதிவு</translation>
+        <translation>வரலாறு</translation>
     </message>
 </context>
 <context>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
         <source>txt 标准格式</source>
-        <translation>TXT நிலையான வடிவம்</translation>
+        <translation>txt நிலையான வடிவம்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="113"/>
@@ -331,7 +331,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
         <source>jsonl 原始信息</source>
-        <translation>JSONL அசல் செய்தி</translation>
+        <translation>jsonl அசல் செய்தி</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
@@ -474,7 +474,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation>பதிவு</translation>
+        <translation>வரலாறு</translation>
     </message>
 </context>
 <context>
@@ -571,7 +571,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation>TXT நிலையான வடிவம்</translation>
+        <translation>txt நிலையான வடிவம்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
@@ -596,7 +596,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
         <source>对每张图片，生成同名txt文件，仅输出识别文字</source>
-        <translation>ஒவ்வொரு படத்திற்கும், அதே பெயரின் TXT கோப்பை உருவாக்கவும், அடையாளம் காணும் உரை மட்டுமே வெளியீடு</translation>
+        <translation>ஒவ்வொரு படத்திற்கும், அதே பெயரின் txt கோப்பை உருவாக்கவும், அடையாளம் காணும் உரை மட்டுமே வெளியீடு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
@@ -621,7 +621,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation>JSONL அசல் செய்தி</translation>
+        <translation>jsonl அசல் செய்தி</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation>குறுக்குவழி விசை கலவையை அழுத்தவும். வெளியேற [ESC] ஐ அழுத்தவும்.</translation>
+        <translation>குறுக்குவழி விசை கலவையை அழுத்தவும். வெளியேற [Esc] ஐ அழுத்தவும்.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
@@ -1034,7 +1034,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation>பதிவு</translation>
+        <translation>பதிவேடு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
@@ -1176,7 +1176,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation>திரை காட்சி</translation>
+        <translation>திரைப்பிடிப்பு எடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
@@ -1186,7 +1186,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>திரை காட்சி</translation>
+        <translation>ஸ்கிரீன்ஷாட் எடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1668,7 +1668,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation>QR குறியீடு</translation>
+        <translation>qr குறியீடு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1677,9 +1677,9 @@
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation># QR குறியீடு
+        <translation># qr குறியீடு
 
- QR குறியீடுகள் மற்றும் பார்கோடுகளை அடையாளம் காணவும் அல்லது உருவாக்கவும்.
+ qr குறியீடுகள் மற்றும் பார்கோடுகளை அடையாளம் காணவும் அல்லது உருவாக்கவும்.
 
  உதவி ஒப்பந்தம்:</translation>
     </message>
@@ -1838,7 +1838,7 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="103"/>
         <source>生成二维码失败</source>
-        <translation>QR குறியீட்டை உருவாக்குவதில் தோல்வி</translation>
+        <translation>qr குறியீட்டை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="159"/>
@@ -1863,12 +1863,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="192"/>
         <source>扫描二维码</source>
-        <translation>QR குறியீட்டை ச்கேன் செய்யுங்கள்</translation>
+        <translation>qr குறியீட்டை ச்கேன் செய்யுங்கள்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation>திரை காட்சி, QR குறியீடு படங்களை இழுக்கவும் அல்லது ஒட்டவும்</translation>
+        <translation>திரை காட்சி, qr குறியீடு படங்களை இழுக்கவும் அல்லது ஒட்டவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
@@ -1884,7 +1884,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="382"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation>உரையை மாற்றிய பின், QR குறியீடு/பார் குறியீடு தானாக உருவாக்கப்படும்</translation>
+        <translation>உரையை மாற்றிய பின், qr குறியீடு/பார் குறியீடு தானாக உருவாக்கப்படும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="395"/>
@@ -1894,12 +1894,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation>QR குறியீடு/பார்கோடு உருவாக்கவும்</translation>
+        <translation>qr குறியீடு/பார்கோடு உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
         <source>记录</source>
-        <translation>பதிவு</translation>
+        <translation>வரலாறு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="444"/>
@@ -2010,7 +2010,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation>QR குறியீடு/பார்கோடு உருவாக்கவும்</translation>
+        <translation>qr குறியீடு/பார்கோடு உருவாக்கவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
@@ -2020,7 +2020,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>இயல்புநிலை QR குறியீடு:</translation>
+        <translation>இயல்புநிலை qr குறியீடு:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
@@ -2058,7 +2058,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="159"/>
         <source>纠错等级</source>
-        <translation>பிழை திருத்தம் நிலை</translation>
+        <translation>பிழைத் திருத்த நிலை</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
@@ -2320,7 +2320,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="464"/>
         <source>记录</source>
-        <translation>பதிவு</translation>
+        <translation>பதிவுகள்</translation>
     </message>
 </context>
 <context>
