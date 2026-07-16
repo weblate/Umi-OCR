@@ -202,7 +202,7 @@ Möchten Sie die Aufgabe beenden und die Seite schließen?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
         <source>若一页文档既存在图片又存在文本，如何进行处理</source>
-        <translation>Wenn eine Dokumentseite sowohl Bilder als auch Text enthält, wie soll sie verarbeitet werden?</translation>
+        <translation>Verarbeitung von Dokumentseiten mit Bildern und Text</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="49"/>
@@ -326,7 +326,7 @@ Erzeugt: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>Schreibt Seitenzahlinformationen und erkannte Inhalte in eine CSV-Tabellendatei. Sie kann mit Excel geöffnet und im xlsx-Format gespeichert werden.</translation>
+        <translation>Schreibt Seitenzahlinformationen und erkannte Inhalte in eine csv-Tabellendatei. Sie kann mit Excel geöffnet und im xlsx-Format gespeichert werden.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
@@ -336,7 +336,7 @@ Erzeugt: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation>Jede Zeile enthält strukturierte JSON-Daten, gut lesbar für Drittprogramme</translation>
+        <translation>Jede Zeile enthält strukturierte json-Daten, gut lesbar für Drittprogramme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="134"/>
@@ -396,7 +396,7 @@ Durch Platzhalter kann verhindert werden, dass alte Dateien von neuen überschri
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation>Bestätigen</translation>
+        <translation>Geschlossen halten</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
@@ -616,7 +616,7 @@ Erzeugt: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
         <source>将图片信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>Schreibt Bildinformationen und Erkennungsergebnisse in eine CSV-Tabellendatei. Kann mit Excel in das xlsx-Format konvertiert werden.</translation>
+        <translation>Schreibt Bildinformationen und Erkennungsergebnisse in eine csv-Tabellendatei. Kann mit Excel in das xlsx-Format konvertiert werden.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
@@ -626,7 +626,7 @@ Erzeugt: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation>Jede Zeile enthält strukturierte JSON-Daten, gut lesbar für Drittprogramme</translation>
+        <translation>Jede Zeile enthält strukturierte Daten im json-Format, gut lesbar für Drittprogramme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
@@ -955,7 +955,7 @@ Um die Software vollständig zu beenden, beenden Sie den Prozess im Task-Manager
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>Screenshot</translation>
+        <translation>Aufnahme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
