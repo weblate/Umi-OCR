@@ -1152,7 +1152,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Take screenshot</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1705,12 +1705,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation type="unfinished">OCR page count</translation>
+        <translation>ocr sahifalar soni</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
         <source>忽略区域页数（全局）</source>
-        <translation type="unfinished">Ignore Area page count (Global)</translation>
+        <translation>Hudud sahifalari sonini e&apos;tiborsiz qoldirish (global)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
@@ -1804,7 +1804,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste QR code image</translation>
+        <translation>Skrinshot oling, sudrab olib keling yoki qr-kod rasmini joylashtiring</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
@@ -1853,7 +1853,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="20"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Ekran tasviri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="26"/>
@@ -2183,7 +2183,7 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="145"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="256"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Ekran tasviri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="146"/>
@@ -2236,7 +2236,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="433"/>
         <source>截图、拖入或粘贴图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste image</translation>
+        <translation>Skrinshot oling, sudrab olib keling yoki rasmni joylashtiring</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
@@ -2264,7 +2264,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Ekran tasviri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
@@ -2376,7 +2376,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
         <source>%1 系统暂不支持电源控制！</source>
-        <translation type="unfinished">%1 Linux system currently does not support power control!</translation>
+        <translation>%1 tizimi hozircha quvvat boshqaruvini qo‘llab-quvvatlamaydi!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
