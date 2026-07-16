@@ -197,7 +197,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
         <source>若一页文档既存在图片又存在文本，如何进行处理</source>
-        <translation>איך מעבדים מסמך שמכיל גם תמונות וגם טקסט?</translation>
+        <translation>איך מעבדים מסמך שמכיל גם תמונות וגם טקסט</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="49"/>
@@ -363,13 +363,13 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished">No need to fill in the extension name. The following placeholders are supported:
-%date Date and time
-%name Original folder name/file name
-%range Page range. Only displayed when the OCR page count is less than the total page count.
-Example: [OCR]_%name%range_%date
-Generated: [OCR]_Document(p2-10)_2023-09-01_12-13.txt
-Adding placeholders can prevent old files from being overwritten by new files.</translation>
+        <translation>אין צורך למלא סיומת קובץ. ניתן להוסיף את מצייני המיקום הבאים:
+%date תאריך ושעה
+%name שם המסמך המקורי
+%range טווח עמודי הזיהוי. יוצג רק כאשר מספר העמודים שזוהו קטן ממספר העמודים הכולל.
+דוגמה: [OCR]%name%range%date
+נוצר: [OCR]_מסמךA(p2-10)_20230901_1213.txt
+הוספת מצייני מיקום יכולה למנוע החלפה של קבצים ישנים בקבצים חדשים.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
@@ -1141,7 +1141,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>Take screenshot</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1301,7 +1301,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
@@ -1689,12 +1689,12 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation type="unfinished">OCR page count</translation>
+        <translation>מספר עמודי OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
         <source>忽略区域页数（全局）</source>
-        <translation type="unfinished">Ignore Area page count (Global)</translation>
+        <translation>מספר עמודי האזור המוחרג (גלובלי)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
@@ -1788,7 +1788,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="319"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste QR code image</translation>
+        <translation>צלם צילום מסך, גרור או הדבק תמונת קוד qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
@@ -1837,7 +1837,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>צילום מסך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="24"/>
@@ -2167,7 +2167,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="142"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="252"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>צילום מסך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="143"/>
@@ -2220,7 +2220,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="430"/>
         <source>截图、拖入或粘贴图片</source>
-        <translation type="unfinished">Screenshot, drag and drop, or paste image</translation>
+        <translation>צלם מסך, גרור או הדבק תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="454"/>
@@ -2248,7 +2248,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
         <source>屏幕截图</source>
-        <translation type="unfinished">Screenshot</translation>
+        <translation>צילום מסך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
@@ -2360,7 +2360,7 @@ Adding placeholders can prevent old files from being overwritten by new files.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
         <source>%1 系统暂不支持电源控制！</source>
-        <translation type="unfinished">%1 Linux system currently does not support power control!</translation>
+        <translation>%1 המערכת אינה תומכת כעת בבקרת צריכת חשמל!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
