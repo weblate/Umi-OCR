@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
         <source>开源、免费的离线OCR软件</source>
-        <translation>نرم‌افزار OCR آفلاین، متن‌باز و رایگان</translation>
+        <translation>نرم‌افزار ocr آفلاین، متن‌باز و رایگان</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
@@ -70,7 +70,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/AsynFilesLoader.qml" line="9"/>
         <source>正在载入 %1 个文件：
 %2</source>
-        <translation>در حال بارگذاری %1 فایل: %2</translation>
+        <translation>در حال بارگذاری %1 فایل:
+%2</translation>
     </message>
 </context>
 <context>
@@ -99,7 +100,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>【%1】
 请点击文档名，设置密码</source>
-        <translation>【%1】لطفاً روی نام سند کلیک کنید و رمز عبور را تنظیم کنید</translation>
+        <translation>【%1】
+لطفاً روی نام سند کلیک کنید و رمز عبور را تنظیم کنید</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="174"/>
