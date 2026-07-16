@@ -1142,7 +1142,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation>Tuṭṭfa n ugdil</translation>
+        <translation>Eṭṭef tuṭṭfa n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
@@ -1304,7 +1304,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>URL</translation>
+        <translation>aseɣwen</translation>
     </message>
 </context>
 <context>
