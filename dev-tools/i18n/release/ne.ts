@@ -6,17 +6,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
         <source>开源、免费的离线OCR软件</source>
-        <translation type="unfinished">खुला स्रोत, मुफ्त अफार्म ओसीआर सॉफ्टवेयर</translation>
+        <translation>खुला स्रोत, मुफ्त ऑफलाइन ocr सॉफ्टवेयर</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation type="unfinished">वर्तमान संस्करण</translation>
+        <translation>वर्तमान संस्करण</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
         <source>项目链接</source>
-        <translation type="unfinished">परियोजना लिंक</translation>
+        <translation>परियोजना का लिंक</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
         <source>若某一页没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation>यदि किसी पृष्ठ पर कोई पाठ नहीं है या पहचान विफल हो जाती है，तो त्रुटि सूचना भी नहीं दिखाई देगी।</translation>
+        <translation>यदि किसी पृष्ठ पर कोई पाठ नहीं है या पहचान विफल हो जाती है，तो त्रुटि सूचना भी नहीं दिखाई देगी</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
@@ -636,7 +636,7 @@ OCR]_दस्तावेज़ A(p2-10)_20230901_1213.txt
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
         <source>若图片没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation>यदि चित्र में कोई पाठ नहीं है या पहचान विफल हो गई है，तो भी त्रुटि सूचना आउटपुट नहीं होगी।</translation>
+        <translation>यदि चित्र में कोई पाठ नहीं है या पहचान विफल हो गई है，तो भी त्रुटि सूचना आउटपुट नहीं होगी</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
