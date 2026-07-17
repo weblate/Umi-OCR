@@ -1444,7 +1444,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
         <source>正在保存</source>
-        <translation>Poupança</translation>
+        <translation>Salvando</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
@@ -1510,7 +1510,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation>Feedback e pergunta</translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
@@ -1768,7 +1768,7 @@ A configuração da zona de ignorar entra em vigor para todos os documentos.</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation>Quantidade de páginas OCR</translation>
+        <translation>Número de páginas OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
