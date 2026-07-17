@@ -1395,7 +1395,8 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler la tâche
+Le contenu non terminé sera perdu.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="220"/>
@@ -1415,7 +1416,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="233"/>
         <source>任务停止</source>
-        <translation type="unfinished"></translation>
+        <translation>Tâche arrêtée</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="235"/>
@@ -1481,7 +1482,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
         <source>请打开对应标签页（如批量OCR、批量文档），再拖入文件。</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez ouvrir l’onglet correspondant (par exemple OCR par lots ou Documents par lots), puis faites glisser le fichier.</translation>
     </message>
 </context>
 <context>
@@ -1689,7 +1690,10 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
 右键拖拽，绘制矩形区域，包含在区域内的文字框将被忽略。可用于排除水印、页眉页脚。
 范围允许填写负数，表示倒数第x页。如-1表示最后一页，-2表示倒数第2页。
 忽略区域的设置对所有文档生效。</source>
-        <translation type="unfinished"></translation>
+        <translation>Description de la zone d’exclusion&#xa0;:
+Faites un clic droit et faites glisser pour dessiner une zone rectangulaire. Les blocs de texte inclus dans cette zone seront ignorés. Cette fonction peut être utilisée pour exclure les filigranes, les en-têtes et les pieds de page.
+La plage permet de saisir des nombres négatifs, qui indiquent la page numéro x en comptant depuis la fin. Par exemple, -1 indique la dernière page et -2 indique l’avant-dernière page.
+Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="217"/>
@@ -1709,12 +1713,12 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de pages OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
         <source>忽略区域页数（全局）</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de pages de la zone d’exclusion (Global)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
@@ -1757,7 +1761,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="46"/>
         <source>剪贴板中为文本</source>
-        <translation type="unfinished"></translation>
+        <translation>Le contenu du presse-papiers est du texte</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="67"/>
@@ -2137,7 +2141,8 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
         <source>显示器： %1
 错误信息： %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Moniteur&#xa0;: %1
+Message d’erreur&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="198"/>
