@@ -944,7 +944,7 @@ Generado: 2023年09月01日_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="184"/>
         <source>截图</source>
-        <translation>Herramienta captura de pantalla</translation>
+        <translation>Herramienta de captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
