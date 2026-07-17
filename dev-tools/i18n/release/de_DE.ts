@@ -955,7 +955,7 @@ Um die Software vollständig zu beenden, beenden Sie den Prozess im Task-Manager
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>Aufnahme</translation>
+        <translation>Werkzeug für Bildschirmaufnahmen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
