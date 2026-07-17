@@ -1387,7 +1387,7 @@ For example, when processing screenshots of watermarked images, you can add an i
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation>Issue a problem</translation>
+        <translation>Report a problem</translation>
     </message>
 </context>
 <context>
@@ -1427,7 +1427,7 @@ However, shutting down or exiting the software will discard the task content.</t
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation>Resume task</translation>
+        <translation>Resume Task</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
