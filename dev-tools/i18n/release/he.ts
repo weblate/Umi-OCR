@@ -1390,7 +1390,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
         <source>正在保存</source>
-        <translation type="unfinished"></translation>
+        <translation>שומר</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
@@ -1456,7 +1456,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>דיווח על בעיה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
@@ -1466,7 +1466,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
         <source>请打开对应标签页（如批量OCR、批量文档），再拖入文件。</source>
-        <translation type="unfinished"></translation>
+        <translation>פתח את הכרטיסייה המתאימה (לדוגמה OCR באצווה או מסמכים באצווה), ולאחר מכן גרור את הקובץ.</translation>
     </message>
 </context>
 <context>
@@ -1669,7 +1669,10 @@
 右键拖拽，绘制矩形区域，包含在区域内的文字框将被忽略。可用于排除水印、页眉页脚。
 范围允许填写负数，表示倒数第x页。如-1表示最后一页，-2表示倒数第2页。
 忽略区域的设置对所有文档生效。</source>
-        <translation type="unfinished"></translation>
+        <translation>תיאור אזור ההחרגה:
+לחץ באמצעות לחצן העכבר הימני וגרור כדי לצייר אזור מלבני. תיבות הטקסט הכלולות באזור זה יתעלמו. ניתן להשתמש בכך כדי לא לכלול סימני מים, כותרות עליונות וכותרות תחתונות.
+ניתן להזין מספרים שליליים בטווח, כאשר הם מציינים את מספר העמוד בספירה מהסוף. לדוגמה, ‎-1 מציין את העמוד האחרון ו־‎-2 מציין את העמוד השני מהסוף.
+הגדרות אזור ההחרגה חלות על כל המסמכים.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="217"/>
@@ -1737,7 +1740,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="43"/>
         <source>剪贴板中为文本</source>
-        <translation type="unfinished"></translation>
+        <translation>תוכן הלוח הוא טקסט</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="61"/>
@@ -2110,7 +2113,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
         <source>显示器： %1
 错误信息： %2</source>
-        <translation type="unfinished"></translation>
+        <translation>צג: %1
+הודעת שגיאה: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="107"/>
@@ -2304,7 +2308,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="103"/>
         <source>打开主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת החלון הראשי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
@@ -2317,7 +2321,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="47"/>
         <source>珍珠白</source>
-        <translation type="unfinished"></translation>
+        <translation>בהיר</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="62"/>
