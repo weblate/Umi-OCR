@@ -46,12 +46,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
         <source>作者</source>
-        <translation type="unfinished">ソフトウェア作者</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="86"/>
         <source>译者</source>
-        <translation type="unfinished">翻訳者</translation>
+        <translation>翻訳者</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="112"/>
@@ -70,7 +70,7 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/AsynFilesLoader.qml" line="9"/>
         <source>正在载入 %1 个文件：
 %2</source>
-        <translation type="unfinished">%1 個のファイルを読み込み中:
+        <translation>%1 個のファイルを読み込み中:&#xa0;
 %2</translation>
     </message>
 </context>
@@ -144,7 +144,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="250"/>
         <source>拖入文档或文件夹</source>
-        <translation type="unfinished">画像またはフォルダーをウィンドウにドラッグします</translation>
+        <translation>ドキュメントまたはフォルダーをドラッグします</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="249"/>
@@ -154,17 +154,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="166"/>
         <source>文档识别异常</source>
-        <translation type="unfinished">ドキュメント認識エラー</translation>
+        <translation>ドキュメント認識エラー</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="180"/>
         <source>批量识别完成</source>
-        <translation type="unfinished">一括認識が完了しました</translation>
+        <translation>一括認識が完了しました</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation type="unfinished">ページ数</translation>
+        <translation>ページ数</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
@@ -291,12 +291,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="107"/>
         <source>text.pdf 单层纯文本文档</source>
-        <translation type="unfinished">text.pdf 単層のテキストのみのドキュメント</translation>
+        <translation>text.pdf 単層のテキストのみのドキュメント</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="108"/>
         <source>创建空白PDF文档，只写入识别文字，不含图片</source>
-        <translation type="unfinished">空白のPDFドキュメントを作成し、認識されたテキストのみを挿入（画像なし）</translation>
+        <translation>空白のPDFドキュメントを作成し、認識されたテキストのみを挿入（画像なし）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="23"/>
         <source>点击表格，可设置更多内容</source>
-        <translation type="unfinished">表にはより多くの内容を設定することができます</translation>
+        <translation>表をクリックすると、さらに多くの項目を設定できます</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
@@ -372,18 +372,18 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished">拡張子は不要です。次のプレースホルダを挿入できます：
+        <translation>拡張子は不要です。次のプレースホルダーを挿入できます：
 %date 日付と時刻
-%name 元のフォルダ名/ファイル名
+%name 元のドキュメント名
 %range OCRページ範囲。認識されたページ数が総ページ数より少ない場合にのみ表示されます。
 例：[OCR]_%name%range_%date
-生成：[OCR]_ドキュメント(p2-10)_2023-09-01_12-13.txt
-プレースホルダを追加すると、古いファイルが新しいファイルに上書きされるのを防ぐことができます。</translation>
+生成：[OCR]_ドキュメントA(p2-10)_20230901_1213.txt
+プレースホルダーを追加すると、新しいファイルによって古いファイルが上書きされるのを防ぐことができます。</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished">元の画像を保持し、検索してコピーできる透明なテキストのレイヤーを重ねます</translation>
+        <translation>元の画像を保持し、検索してコピーできる透明なテキストのレイヤーを重ねます</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
@@ -418,7 +418,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished">%1 枚の画像認識に失敗しました！</translation>
+        <translation>%1 枚の画像認識に失敗しました！</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished">画像またはフォルダーをウィンドウにドラッグします</translation>
+        <translation>画像またはフォルダーをドラッグします</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
@@ -1034,27 +1034,27 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation type="unfinished">ログ</translation>
+        <translation>ログ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
         <source>操作</source>
-        <translation type="unfinished">操作</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
         <source>打开日志保存目录</source>
-        <translation type="unfinished">ログ保存ディレクトリを開く</translation>
+        <translation>ログ保存ディレクトリを開く</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="256"/>
         <source>保存的日志级别</source>
-        <translation type="unfinished">保存対象ログレベル</translation>
+        <translation>保存対象ログレベル</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="271"/>
         <source>已禁用日志文件保存</source>
-        <translation type="unfinished">ログファイル保存は無効です</translation>
+        <translation>ログファイル保存は無効です</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
@@ -1181,7 +1181,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished">貼り付け</translation>
+        <translation>貼り付け</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
@@ -1313,7 +1313,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished">デフォルトのアプリで画像を開く</translation>
+        <translation>デフォルトのアプリで画像を開く</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
@@ -1387,7 +1387,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished">フィードバック</translation>
+        <translation>フィードバック</translation>
     </message>
 </context>
 <context>
@@ -1413,21 +1413,21 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="81"/>
         <source>开始任务</source>
-        <translation type="unfinished">開始する</translation>
+        <translation>開始する</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="96"/>
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished">タスクを一時停止
+        <translation>タスクを一時停止
 一時停止後、待機またはスリープ状態にできます。
 ただし、シャットダウンやソフトウェアの終了を行うと、タスク内容は失われます。</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished">タスクを再開</translation>
+        <translation>タスクを再開</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
