@@ -955,7 +955,7 @@ Para sair completamente do software, termine o processo do gerenciador de tarefa
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>Ferramenta captura de tela</translation>
+        <translation>Ferramenta de captura de tela</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
