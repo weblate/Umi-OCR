@@ -955,7 +955,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>скриншот (вычислительная техника)</translation>
+        <translation>Инструмент захвата экрана</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
