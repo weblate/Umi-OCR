@@ -955,7 +955,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>截圖</translation>
+        <translation>截圖工具</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
