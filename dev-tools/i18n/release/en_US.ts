@@ -1510,12 +1510,12 @@ Abandon unfinished content.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation>Issue a problem</translation>
+        <translation>Report a problem</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
         <source>功能页</source>
-        <translation>Feature Tab</translation>
+        <translation>Feature tab</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
