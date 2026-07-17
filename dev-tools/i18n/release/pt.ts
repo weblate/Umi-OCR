@@ -1181,7 +1181,7 @@ Se não quiser ver esta notificação, desative o modo avançado nas definiçõe
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation>Aderência</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
