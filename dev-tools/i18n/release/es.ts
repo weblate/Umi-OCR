@@ -31,12 +31,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation>Reportar un Problema</translation>
+        <translation>Informar de un problema</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation>Web de Lanzamientos</translation>
+        <translation>Página de lanzamientos</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
@@ -1004,12 +1004,12 @@ Se esperará con un retraso hasta que la ventana principal se cierre</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="219"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo local</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="220"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Cualquier dirección disponible</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
@@ -1019,42 +1019,42 @@ Se esperará con un retraso hasta que la ventana principal se cierre</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>Se denegará el acceso desde la red local.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="230"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="307"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Intente cambiar la ruta del programa!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="308"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Excepción de lectura/escritura del archivo de configuración</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="324"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al cargar el plugin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="339"/>
         <source>成功添加快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceso directo añadido correctamente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al añadir el acceso directo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="349"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Se eliminaron correctamente %1 accesos directos</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
