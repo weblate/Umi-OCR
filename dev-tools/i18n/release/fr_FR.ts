@@ -817,7 +817,7 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
         <source>切换主题</source>
-        <translation>Basculer de thème</translation>
+        <translation>Changer de thème</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="65"/>
@@ -837,7 +837,7 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="99"/>
         <source>渲染器</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur de rendu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="103"/>
@@ -847,7 +847,7 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>Si des scintillements de l’interface, des décalages d’éléments ou d’autres anomalies d’affichage apparaissent, essayez de changer de moteur de rendu ou de désactiver l’accélération matérielle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
@@ -857,18 +857,19 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>Sur les équipements avec peu de ressources, désactiver les effets tels que les animations et les ombres peut réduire l’utilisation des ressources</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
         <source>图片预览默认显示叠加层</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la superposition par défaut dans l’aperçu des images</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="123"/>
         <source>默认开启/关闭叠加层显示
 对所有图片预览组件生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer/désactiver l’affichage de la superposition par défaut
+S’applique à tous les composants d’aperçu des images</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="129"/>
@@ -878,42 +879,42 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="133"/>
         <source>启动时缩小到任务栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduire dans la barre des tâches au démarrag</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
         <source>软件启动时，不弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pas afficher la fenêtre principale au démarrage du logiciel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="138"/>
         <source>窗口置顶</source>
-        <translation>Fenêtre toujours au dessus</translation>
+        <translation>Toujours au premier plan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="140"/>
         <source>捷径：窗口左上角图钉</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourci&#xa0;: épingle en haut à gauche de la fenêtre</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="146"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller la barre d’onglets</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="148"/>
         <source>捷径：窗口右上角小锁</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccourci&#xa0;: cadenas en haut à droite de la fenêtre</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="154"/>
         <source>关闭主窗口时</source>
-        <translation type="unfinished"></translation>
+        <translation>Lors de la fermeture de la fenêtre principale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="156"/>
         <source>最小化到系统托盘</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduire dans la zone de notification</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="157"/>
@@ -923,13 +924,14 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="161"/>
         <source>隐藏托盘图标</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer l’icône de la zone de notification</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="162"/>
         <source>若要弹出位于后台的软件窗口，请在文件管理器中重复启动软件。
 若要彻底退出软件，请从任务管理器中结束进程。</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour afficher la fenêtre du logiciel située en arrière-plan, relancez le logiciel depuis le gestionnaire de fichiers
+Pour quitter complètement le logiciel, terminez le processus depuis le gestionnaire des tâches</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
@@ -939,18 +941,19 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
         <source>截图前隐藏主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Masquer la fenêtre principale avant la capture d’écran</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
         <source>截图前，如果主窗口处于前台，则隐藏主窗口
 将会延时等待主窗口关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la fenêtre principale est au premier plan avant la capture d’écran, elle sera masquée
+Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre principale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="192"/>
         <source>隐藏等待时间</source>
-        <translation type="unfinished"></translation>
+        <translation>Délai d’attente avant masquage</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
@@ -970,14 +973,14 @@ La police du contenu des résultats reconnus.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="208"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR dépend de l’interface HTTP pour la communication interprocessus sur la machine locale. Si elle est désactivée, des fonctionnalités telles que le mode ligne de commande et la détection de plusieurs instances ne pourront pas être utilisées.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="211"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="223"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Prendra effet après le redémarrage du logiciel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="215"/>
