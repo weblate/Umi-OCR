@@ -930,8 +930,8 @@ S’applique à tous les composants d’aperçu des images</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="162"/>
         <source>若要弹出位于后台的软件窗口，请在文件管理器中重复启动软件。
 若要彻底退出软件，请从任务管理器中结束进程。</source>
-        <translation>Pour afficher la fenêtre du logiciel située en arrière-plan, relancez le logiciel depuis le gestionnaire de fichiers
-Pour quitter complètement le logiciel, terminez le processus depuis le gestionnaire des tâches</translation>
+        <translation>Pour afficher la fenêtre du logiciel située en arrière-plan, relancez le logiciel depuis le gestionnaire de fichiers.
+Pour quitter complètement le logiciel, terminez le processus depuis le gestionnaire des tâches.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
@@ -995,7 +995,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="218"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Toute adresse disponible</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
@@ -1005,7 +1005,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>L’accès depuis le réseau local sera refusé.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
@@ -1040,17 +1040,17 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez essayer de modifier le chemin du logiciel&#x202f;!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Exception de lecture/écriture du fichier de configuration</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="358"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement du plugin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="373"/>
@@ -1060,12 +1060,12 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="376"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l’ajout du raccourci</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="383"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 raccourcis supprimés avec succès</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
