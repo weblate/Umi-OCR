@@ -686,7 +686,7 @@ Gerado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="486"/>
         <source>高级</source>
-        <translation>sénior</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="487"/>
@@ -698,7 +698,7 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>展开</source>
-        <translation>desdobrar</translation>
+        <translation>Expandir</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
@@ -718,7 +718,7 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation>Não pode ser inferior</translation>
+        <translation>Não pode ser inferior a</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
@@ -728,7 +728,7 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation>Os atalhos para %1 foram cancelados.</translation>
+        <translation>A tecla de atalho de %1 foi cancelada.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
@@ -779,12 +779,12 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="107"/>
         <source>界面</source>
-        <translation>interface</translation>
+        <translation>Interface</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="115"/>
         <source>内容</source>
-        <translation>conteúdo</translation>
+        <translation>Conteúdo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
@@ -797,8 +797,8 @@ Fontes para a maioria da interface do usuário no software.</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation>Fonte de conteúdo:
-Identifique a fonte do conteúdo resultante.</translation>
+        <translation>Fonte do conteúdo:
+A fonte do conteúdo dos resultados reconhecidos.</translation>
     </message>
 </context>
 <context>
@@ -806,7 +806,7 @@ Identifique a fonte do conteúdo resultante.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="20"/>
         <source>快捷方式</source>
-        <translation>Atalhos para</translation>
+        <translation>Atalhos de acesso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="24"/>
@@ -831,7 +831,7 @@ Identifique a fonte do conteúdo resultante.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="56"/>
         <source>主题</source>
-        <translation>tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
