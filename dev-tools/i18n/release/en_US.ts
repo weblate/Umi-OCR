@@ -1069,7 +1069,7 @@ It will wait for the main window to close before taking the screenshot</translat
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="358"/>
         <source>插件加载失败</source>
-        <translation>Plugin loading failure</translation>
+        <translation>Plugin loading failed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="373"/>
