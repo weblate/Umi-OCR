@@ -6,52 +6,52 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
         <source>开源、免费的离线OCR软件</source>
-        <translation type="unfinished"></translation>
+        <translation>برنامج مجاني, مفتوح المصدر للتعرف البصري على الحروف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation>النسخة الحالية</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
         <source>项目链接</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط المشروع</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>الموقع الرسمي</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>الاضافات</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>طرح مشكلة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation type="unfinished"></translation>
+        <translation>إصدار صفحة الويب</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation type="unfinished"></translation>
+        <translation>رخصة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
         <source>作者</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤلف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="86"/>
         <source>译者</source>
-        <translation type="unfinished"></translation>
+        <translation>مترجمون</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="112"/>
