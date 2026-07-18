@@ -990,12 +990,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="219"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>מקומי בלבד</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="220"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>כל כתובת זמינה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
@@ -1005,42 +1005,42 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>הגישה מהרשת המקומית תיחסם.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="230"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>פורט</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="307"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>אנא נסה לשנות את נתיב התוכנה!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="308"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>חריגת קריאה/כתיבה של קובץ התצורה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="324"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>טעינת התוסף נכשלה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="339"/>
         <source>成功添加快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>קיצור דרך נוסף בהצלחה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>נכשל בהוספת קיצור הדרך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="349"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 קיצורי דרך הוסרו בהצלחה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
