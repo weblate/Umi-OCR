@@ -641,7 +641,8 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="186"/>
         <source>%1 处理配置项异常：
 %2枚举列表为空。</source>
-        <translation type="unfinished"></translation>
+        <translation>Exception lors du traitement de l&apos;élément de configuration %1&#xa0;:
+La liste d&apos;énumération de %2 est vide.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="472"/>
@@ -651,7 +652,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="473"/>
         <source>重置本页上的设定</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser les paramètres de cette page</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="476"/>
@@ -661,7 +662,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="478"/>
         <source>要重置本页的设定吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous réinitialiser les paramètres de cette page&#x202f;?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="486"/>
@@ -672,12 +673,13 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="487"/>
         <source>显示更多高级选项。它们标有 * 号。
 请谨慎修改高级选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher davantage d’options avancées. Elles sont marquées d’un astérisque (*).
+Modifiez les options avancées avec précaution.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>展开</source>
-        <translation type="unfinished"></translation>
+        <translation>Développer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
@@ -687,62 +689,62 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="802"/>
         <source>必须为整数</source>
-        <translation type="unfinished"></translation>
+        <translation>Doit être un nombre entier</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="806"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas dépasser</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne peut pas être inférieur à</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>Doit être un nombre</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>Le raccourci clavier de %1 a été annulé.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>更新热键成功</source>
-        <translation type="unfinished"></translation>
+        <translation>La touche de raccourci a été mise à jour avec succès</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>%1的快捷键为 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Le raccourci clavier de %1 est %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1141"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>Le raccourci clavier %2 de %1 est déjà enregistré, veuillez essayer une autre combinaison de touches.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1144"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>Le raccourci clavier %2 de %1 ne peut pas être enregistré, veuillez essayer une autre combinaison de touches.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation type="unfinished"></translation>
+        <translation>Appuyez sur la combinaison de touches de raccourci. Appuyez sur [Esc] pour quitter.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>L’enregistrement du raccourci clavier actuel est déjà en cours, il est impossible d’enregistrer simultanément&#x202f;!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1168"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d’enregistrer le raccourci clavier</translation>
     </message>
 </context>
 <context>
@@ -750,7 +752,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Relâchez pour déposer le fichier</translation>
     </message>
 </context>
 <context>
@@ -769,13 +771,15 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
         <source>界面字体：
 软件中大部分UI的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Police de l’interface&#xa0;:
+La police utilisée dans la majeure partie de l’interface utilisateur du logiciel.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Police du contenu&#xa0;:
+La police du contenu des résultats reconnus.</translation>
     </message>
 </context>
 <context>
