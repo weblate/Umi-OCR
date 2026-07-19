@@ -1045,37 +1045,37 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>הצעה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>לא נמצאו קיצורי דרך להסרה.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="360"/>
         <source>立刻关闭软件</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור את התוכנה מיד</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="360"/>
         <source>稍后</source>
-        <translation type="unfinished"></translation>
+        <translation>מאוחר יותר</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="400"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>השינוי במנוע העיבוד ייכנס לתוקף לאחר הפעלה מחדש של התוכנית</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="407"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>מספר הפורט אינו תקין</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="412"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>שינוי מספר הפורט ל־%</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="421"/>
@@ -1083,7 +1083,10 @@
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>היציאה המקורית %1 נמצאת בשימוש.
+המעבר יתבצע ליציאה החדשה %2.
+
+אם אינך רוצה לראות הודעה זו, השבת את המצב המתקדם בהגדרות הכלליות.</translation>
     </message>
 </context>
 <context>
@@ -1092,12 +1095,13 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. יש להגדיר אפשרויות כגון קיצורי מקשים ושפת ה־OCR בדף המתאים של כל פונקציה.
+2. סמן את האפשרות „מתקדם” בפינה השמאלית התחתונה כדי להציג אפשרויות הגדרה נוספות.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>עברית: המלצות</translation>
     </message>
 </context>
 <context>
@@ -1105,12 +1109,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>השאר את החלון תמיד בחזית</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>נעל את שורת הלשוניות</translation>
     </message>
 </context>
 <context>
@@ -1118,22 +1122,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>תפריט הקשר</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל תמונה: התאמה לחלון</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל תמונה: גודל אמיתי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
@@ -1153,7 +1157,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>הדבק תמונה</translation>
     </message>
 </context>
 <context>
@@ -1167,27 +1171,33 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>גרור תמונה מקומית: תצוגה מקדימה של OCR
+גלגלת: שינוי קנה מידה
+לחצן שמאלי: גרירה
+לחצן ימני: ציור אזור התעלמות
+
+ניתן לצייר מסגרת מלבנית אחת או יותר של אזור התעלמות. בעת ביצוע OCR באצווה, גושי טקסט הנמצאים לחלוטין בתוך אזור התעלמות לא ייכללו.
+לדוגמה, בעת עיבוד אצווה של צילומי מסך מסרטים או מסדרות, ניתן להוסיף אזור התעלמות על סימן המים בפינה הימנית העליונה כדי למנוע שטקסט סימן המים יופיע בתוצאה.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>🇮🇱 גודל תמונה:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
         <source>区域数量：</source>
-        <translation type="unfinished"></translation>
+        <translation>🇮🇱 מספר אזורים:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="156"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>בטל</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>נקה</translation>
     </message>
 </context>
 <context>
@@ -1195,33 +1205,33 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="64"/>
         <source>复制图片</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהעתקת התמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>פתח תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בפתיחת התמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="100"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בשמירת התמונה</translation>
     </message>
 </context>
 <context>
@@ -1229,32 +1239,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>תמונה: העתק %1 תווים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
         <source>图片：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>תמונה: לא נבחר טקסט</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>🇮🇱 תמונה: העתק את כל %1 התווים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
         <source>复制&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק&#x3000;&#x3000;（Ctrl+C）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
         <source>全选&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר הכול&#x3000;&#x3000;（Ctrl+A）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="278"/>
         <source>复制图片（Ctrl+X）</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק תמונה (Ctrl+X)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
