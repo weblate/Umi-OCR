@@ -263,7 +263,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="76"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour que cette option prenne effet, vous devez d&apos;abord spécifier « Enregistrer dans le dossier spécifié »</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="80"/>
@@ -284,12 +284,18 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;est pas nécessaire de saisir l&apos;extension du fichier. Vous pouvez insérer les marqueurs suivants&#xa0;:
+%date Date et heure
+%name Nom du document d&apos;origine
+%range Plage de pages reconnues. S&apos;affiche uniquement lorsque le nombre de pages reconnues est inférieur au nombre total de pages.
+Exemple&#xa0;: [OCR]_%name%range_%date
+Généré&#xa0;: [OCR]_DocumentA(p2-10)_20230901_1213.txt
+L&apos;ajout de marqueurs peut éviter que les nouveaux fichiers n&apos;écrasent les anciens.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de la date et de l&apos;heure</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -298,7 +304,11 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de la date utilisé pour %date dans le nom du fichier. Les marqueurs suivants sont pris en charge&#xa0;:
+%Y année, %m mois, %d jour, %H heure,
+%M minutes, %S secondes, %unix horodatage Unix
+Exemple&#xa0;: %Y-%m-%d_%H-%M
+Généré&#xa0;: 2023-09-01_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="96"/>
@@ -308,22 +318,22 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
         <source>layered.pdf 双层可搜索文档</source>
-        <translation type="unfinished"></translation>
+        <translation>layered.pdf Document pdf à double couche avec capacité de recherche</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver les images d&apos;origine et superposer une couche de texte transparente permettant la recherche et la copie</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="107"/>
         <source>text.pdf 单层纯文本文档</source>
-        <translation type="unfinished"></translation>
+        <translation>text.pdf Document pdf à une seule couche de texte brut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="108"/>
         <source>创建空白PDF文档，只写入识别文字，不含图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Créez des documents pdf vierges contenant uniquement le texte reconnu, sans images</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
@@ -1289,7 +1299,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="280"/>
         <source>显示/隐藏文字（Tab）</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher/Masquer le texte (Tab)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
@@ -1312,7 +1322,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Le mode arrière-plan est activé. Vous pouvez utiliser les fonctions via des raccourcis clavier.</translation>
     </message>
 </context>
 <context>
@@ -1325,7 +1335,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>url</translation>
+        <translation>Lien</translation>
     </message>
 </context>
 <context>
@@ -1348,7 +1358,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
         <source>发生了一点小问题</source>
-        <translation type="unfinished"></translation>
+        <translation>Un petit problème est survenu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="117"/>
