@@ -1075,12 +1075,12 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun raccourci supprimable trouvé.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Le changement de moteur de rendu prendra effet après le redémarrage du programme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="441"/>
@@ -1090,7 +1090,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le numéro de port en %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="455"/>
@@ -1098,7 +1098,10 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Le port d’origine %1 est occupé.
+Le nouveau port %2 sera utilisé à la place.
+
+Si vous ne souhaitez pas voir cette notification, désactivez le mode avancé dans les paramètres globaux.</translation>
     </message>
 </context>
 <context>
@@ -1107,12 +1110,13 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Configurez des options telles que les raccourcis clavier et la langue de l&apos;OCR dans la page correspondante à chaque fonctionnalité.
+2. Cochez l&apos;option « Avancé » en bas à gauche pour afficher davantage d&apos;options de configuration.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation>Astuces</translation>
+        <translation>Conseils</translation>
     </message>
 </context>
 <context>
@@ -1125,7 +1129,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrouiller la barre d’onglets</translation>
     </message>
 </context>
 <context>
@@ -1143,12 +1147,12 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de l&apos;image&#xa0;: Adapter à la fenêtre</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de l&apos;image&#xa0;: Taille réelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
@@ -1182,7 +1186,13 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites glisser une image locale&#xa0;: aperçu OCR
+Molette&#xa0;: zoom
+Bouton gauche&#xa0;: faire glisser
+Bouton droit&#xa0;: dessiner une zone d’exclusion
+
+Vous pouvez dessiner un ou plusieurs cadres rectangulaires de zone d’exclusion. Lors de l’exécution d’un OCR par lots, les blocs de texte entièrement situés dans une zone d’exclusion seront exclus.
+Par exemple, lors du traitement par lots de captures d’écran de films ou de séries, vous pouvez ajouter une zone d’exclusion sur le filigrane situé dans le coin supérieur droit afin d’éviter que le texte du filigrane ne soit affiché dans le résultat.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
@@ -1215,7 +1225,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la copie de l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
@@ -1225,7 +1235,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture de l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
@@ -1236,7 +1246,7 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;enregistrement de l&apos;image</translation>
     </message>
 </context>
 <context>
@@ -1244,27 +1254,27 @@ Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre prin
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Image&#xa0;: copier %1 caractères</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
         <source>图片：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Image&#xa0;: aucun texte sélectionné</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Image&#xa0;: copier tous les %1 caractères</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
         <source>复制&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation>Copier (Ctrl+C)</translation>
+        <translation>Copier&#x3000;&#x3000;（Ctrl+C）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
         <source>全选&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation>Tout sélectionner (Ctrl+A)</translation>
+        <translation>Tout sélectionner&#x3000;&#x3000;（Ctrl+A）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="278"/>
