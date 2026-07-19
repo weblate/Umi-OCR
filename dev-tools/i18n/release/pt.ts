@@ -263,7 +263,7 @@ Quer terminar uma tarefa e fechar a página?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation>Data hora formato</translation>
+        <translation>Formato de data e hora</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -286,7 +286,7 @@ Gerado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
         <source>layered.pdf 双层可搜索文档</source>
-        <translation>Layered.pdf documento pesquisável de duas camadas</translation>
+        <translation>layered.pdf Documento pesquisável de duas camadas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="107"/>
@@ -1344,7 +1344,7 @@ Por exemplo, ao processar capturas de tela de filme e televisão em lotes, você
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>ligação</translation>
+        <translation>Ligação</translation>
     </message>
 </context>
 <context>
@@ -1362,7 +1362,7 @@ Por exemplo, ao processar capturas de tela de filme e televisão em lotes, você
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation>Advertir</translation>
+        <translation>Advertência</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
