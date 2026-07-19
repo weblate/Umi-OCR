@@ -1231,7 +1231,7 @@ Por exemplo, ao processar capturas de tela de filme e televisão em lotes, você
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
         <source>清空</source>
-        <translation>vazio</translation>
+        <translation>Esvaziar</translation>
     </message>
 </context>
 <context>
@@ -1668,7 +1668,7 @@ Formatos suportados:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation>Código Qr</translation>
+        <translation>Código qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1677,9 +1677,9 @@ Formatos suportados:</translation>
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation># Código Qr
+        <translation># Código qr
 
-Reconhecer ou gerar códigos Qr, códigos de barras.
+Reconhecer ou gerar códigos qr, códigos de barras.
 
 Acordos suportados:</translation>
     </message>
