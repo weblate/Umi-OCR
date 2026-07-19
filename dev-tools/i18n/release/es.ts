@@ -321,7 +321,7 @@ Generado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>Escribir la información del número de páginas y el contenido reconocido en un archivo de tabla csv. Se puede abrir con Excel y guardar como formato xlsx.</translation>
+        <translation>Escribe la información del número de página y el contenido reconocido en un archivo de tabla csv. Se puede abrir con Excel y guardar nuevamente en formato xlsx.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
