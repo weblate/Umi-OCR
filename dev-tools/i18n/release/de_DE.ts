@@ -1344,7 +1344,7 @@ Wenn Sie zum Beispiel Screenshots von Bildern mit Wasserzeichen verarbeiten, kö
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation>url</translation>
+        <translation>Link</translation>
     </message>
 </context>
 <context>
