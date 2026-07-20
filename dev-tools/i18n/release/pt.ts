@@ -601,7 +601,7 @@ Gerado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation>Md mix gráfico e textual</translation>
+        <translation>Md com imagens e texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
@@ -621,7 +621,7 @@ Gerado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation>Jsonl informação original</translation>
+        <translation>Jsonl Informação bruta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
@@ -1395,7 +1395,7 @@ Por exemplo, ao processar capturas de tela de filme e televisão em lotes, você
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation>Tens a certeza</translation>
+        <translation>Aceitar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
@@ -1472,7 +1472,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="32"/>
         <source>返回</source>
-        <translation>regresso</translation>
+        <translation>Voltar</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1485,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="26"/>
         <source>请选择功能页</source>
-        <translation>Selecione uma página de recurso</translation>
+        <translation>Selecione a página de funções</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="32"/>
@@ -1495,7 +1495,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>项目链接</source>
-        <translation>Links de projetos</translation>
+        <translation>Link do projeto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
