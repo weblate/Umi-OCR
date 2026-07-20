@@ -507,7 +507,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
         <source>导入文件夹时，导入子文件夹中全部图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Lors de l&apos;importation d&apos;un dossier, importer toutes les images des sous-dossiers</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
@@ -528,12 +528,12 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Il faut d&apos;abord définir « Enregistrer dans le dossier spécifié » pour que cela prenne effet</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier d&apos;enregistrement des résultats OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
@@ -548,12 +548,17 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Il n&apos;est pas nécessaire de renseigner l&apos;extension. Les espaces réservés suivants sont pris en charge&#xa0;:
+%date Date et heure
+%name Nom du dossier/fichier d&apos;origine
+Exemple&#xa0;: [OCR]_%name_%date
+Généré&#xa0;: [OCR]_Mes images_2023-09-01_12-13.txt
+L&apos;ajout d&apos;espaces réservés permet d&apos;éviter que les anciens fichiers soient écrasés par de nouveaux fichiers.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de date et d&apos;heure</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -562,7 +567,11 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de date de %date dans le nom du fichier. Les espaces réservés suivants sont pris en charge&#xa0;:
+%Y Année, %m Mois, %d Jour, %H Heure,
+%M Minute, %S Seconde, %unix Horodatage Unix
+Exemple&#xa0;: %Y年%m月%d日_%H-%M
+Généré&#xa0;: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
@@ -572,62 +581,62 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Format standard</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
         <source>含原图片文件名和识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Contient le nom du fichier image original et le texte reconnu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="84"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt Format texte brut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="85"/>
         <source>仅输出识别文字，不含图片标题</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter uniquement le texte reconnu, sans le titre de l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
         <source>txt 单独文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier txt séparé</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
         <source>对每张图片，生成同名txt文件，仅输出识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour chaque image, un fichier txt portant le même nom sera généré et ne contiendra que le texte reconnu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation type="unfinished"></translation>
+        <translation>Md avec images et texte</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Format Markdown avec images et texte, consultable avec un lecteur Markdown</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>csv fichier de feuille de calcul (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
         <source>将图片信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer les informations des images et le contenu reconnu dans un fichier csv. Peut être ouvert avec Excel et enregistré au format xlsx.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Informations brutes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque ligne contient un enregistrement json, facilitant la lecture et le traitement par des programmes tiers</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
@@ -946,24 +955,24 @@ Pour quitter complètement le logiciel, terminez le processus depuis le gestionn
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="183"/>
         <source>截图</source>
-        <translation>Outil de capture d’écran</translation>
+        <translation>Outil de capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
         <source>截图前隐藏主窗口</source>
-        <translation>Masquer la fenêtre principale avant la capture d’écran</translation>
+        <translation>Masquer la fenêtre principale avant la capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
         <source>截图前，如果主窗口处于前台，则隐藏主窗口
 将会延时等待主窗口关闭</source>
-        <translation>Si la fenêtre principale est au premier plan avant la capture d’écran, elle sera masquée
-Un délai d’attente sera appliqué jusqu’à la fermeture de la fenêtre principale</translation>
+        <translation>Si la fenêtre principale est au premier plan avant la capture d&apos;écran, elle sera masquée
+Un délai d&apos;attente sera appliqué jusqu&apos;à la fermeture de la fenêtre principale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="192"/>
         <source>隐藏等待时间</source>
-        <translation>Délai d’attente avant masquage</translation>
+        <translation>Délai d&apos;attente avant masquage</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
@@ -1368,12 +1377,12 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>已复制报错信息 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Le message d&apos;erreur %1 a été copié</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>请前往 Issues 页面寻找解答或反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez consulter la page des problèmes pour trouver des solutions ou envoyer vos retours</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
@@ -1386,7 +1395,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation>ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
@@ -1396,7 +1405,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation>Ok</translation>
+        <translation>Valider</translation>
     </message>
 </context>
 <context>
@@ -1456,7 +1465,7 @@ Le contenu non terminé sera perdu.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="14"/>
         <source>保存并返回</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer et revenir</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="32"/>
@@ -1474,7 +1483,7 @@ Le contenu non terminé sera perdu.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="26"/>
         <source>请选择功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la page des fonctions</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="32"/>
@@ -2226,7 +2235,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="146"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="265"/>
         <source>粘贴图片</source>
-        <translation>Coller l’image</translation>
+        <translation>Coller l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="187"/>
@@ -2306,7 +2315,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
         <source>粘贴图片</source>
-        <translation>Coller l’image</translation>
+        <translation>Coller l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="43"/>
