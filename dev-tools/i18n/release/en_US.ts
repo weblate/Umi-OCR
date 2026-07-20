@@ -591,7 +591,7 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
         <source>txt 单独文件</source>
-        <translation>txt Separated file</translation>
+        <translation>Separate txt file</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
@@ -601,12 +601,12 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation>md Mixture of text and image</translation>
+        <translation>Md with text and images</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation>Markdown mixture of text and image format, can be previewed with a Markdown reader</translation>
+        <translation>Markdown format with combined text and images; the file can be viewed with a Markdown reader</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
@@ -626,7 +626,7 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation>Each line is a json structured data, convenient for third-party program to read</translation>
+        <translation>Each line contains a json record, making it easy for third-party programs to read and process</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
@@ -1382,7 +1382,7 @@ For example, when processing screenshots of watermarked images, you can add an i
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>请前往 Issues 页面寻找解答或反馈</source>
-        <translation>Please visit the Issues page for Q&amp;&amp;A or feedback</translation>
+        <translation>Please visit the Issues page for questions, answers, or feedback</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
@@ -1395,12 +1395,12 @@ For example, when processing screenshots of watermarked images, you can add an i
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation>ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
         <source>不再提示</source>
-        <translation>Don&apos;t prompt again</translation>
+        <translation>Don&apos;t show this message again</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
@@ -1485,7 +1485,7 @@ Abandon unfinished content.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="26"/>
         <source>请选择功能页</source>
-        <translation>Please select the function page</translation>
+        <translation>Please select the functions page</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="32"/>
