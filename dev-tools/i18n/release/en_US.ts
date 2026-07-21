@@ -1019,7 +1019,7 @@ It will wait for the main window to close before taking the screenshot</translat
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation>Allows lan access. Please enable corresponding firewall permissions!</translation>
+        <translation>Local network access will be allowed. Please enable the corresponding firewall permissions!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
@@ -1533,7 +1533,7 @@ Abandon unfinished content.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
         <source>操作</source>
-        <translation>Action</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="20"/>
