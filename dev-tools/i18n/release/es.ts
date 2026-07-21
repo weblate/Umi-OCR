@@ -1485,7 +1485,7 @@ Se descartará el contenido no completado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensiones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
@@ -1495,7 +1495,7 @@ Se descartará el contenido no completado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
         <source>功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>Página de funciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
@@ -1508,43 +1508,43 @@ Se descartará el contenido no completado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="14"/>
         <source>文字识别</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconocimiento de texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Acciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="20"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="108"/>
         <source>强制终止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizar tarea forzosamente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="22"/>
         <source>应用修改</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar modificaciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="26"/>
         <source>当前接口</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaz actual</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="54"/>
         <source>OCR API 列表中不存在%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no existe en la lista de API de OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="65"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。您可【强制终止任务】后修改API。</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente hay %1 colas de tareas, con un total de %2 tareas en ejecución. Puede [Forzar la finalización de la tarea] antes de modificar la api.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="66"/>
         <source>无法修改 文字识别接口设置</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede modificar la configuración de la interfaz de reconocimiento de texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="86"/>
