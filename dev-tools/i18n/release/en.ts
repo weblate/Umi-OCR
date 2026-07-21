@@ -608,7 +608,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
         <source>输出忽略空白图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignore blank images in output</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
@@ -989,7 +989,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>Local network access will be enabled. Please enable the corresponding firewall permissions!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
@@ -1462,7 +1462,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
@@ -1485,28 +1485,28 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="14"/>
         <source>文字识别</source>
-        <translation type="unfinished"></translation>
+        <translation>Text recognition</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="20"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="115"/>
         <source>强制终止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Force terminate task</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="22"/>
         <source>应用修改</source>
-        <translation type="unfinished"></translation>
+        <translation>Apply Changes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="26"/>
         <source>当前接口</source>
-        <translation type="unfinished"></translation>
+        <translation>Current Interface</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="53"/>
@@ -1516,17 +1516,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="61"/>
         <source>OCR API 列表中不存在%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 does not exist in the OCR API list</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="72"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。您可【强制终止任务】后修改API。</source>
-        <translation type="unfinished"></translation>
+        <translation>There are currently %1 task queues with %2 tasks in progress. You can modify the API after using [Force Terminate Task].</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="73"/>
         <source>无法修改 文字识别接口设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to modify text recognition interface settings</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="93"/>
