@@ -1019,7 +1019,7 @@ Un délai d&apos;attente sera appliqué jusqu&apos;à la fermeture de la fenêtr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;accès au réseau local sera autorisé. Veuillez activer les autorisations correspondantes du pare-feu&#x202f;!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
@@ -1044,17 +1044,17 @@ Un délai d&apos;attente sera appliqué jusqu&apos;à la fermeture de la fenêtr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
         <source>打开日志保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le dossier d&apos;enregistrement des journaux</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="256"/>
         <source>保存的日志级别</source>
-        <translation type="unfinished"></translation>
+        <translation>Niveau des journaux enregistrés</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="271"/>
         <source>已禁用日志文件保存</source>
-        <translation type="unfinished"></translation>
+        <translation>L’enregistrement des fichiers journaux est désactivé</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
@@ -1313,7 +1313,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l’image avec l’application par défaut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
