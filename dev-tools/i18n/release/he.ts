@@ -1293,7 +1293,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>עברית: פתח את התמונה באמצעות יישום ברירת המחדל</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
