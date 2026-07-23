@@ -1427,7 +1427,7 @@ No entanto, desligar ou sair do software descartará o conteúdo da tarefa.</tra
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation>Continuar a missão</translation>
+        <translation>Retomar a tarefa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
@@ -1579,7 +1579,7 @@ Descarte conteúdo inacabado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="93"/>
         <source>当前API为【%1】</source>
-        <translation>A API atual é [%1]</translation>
+        <translation>A API atual é: 【%1】</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="97"/>
@@ -1650,7 +1650,7 @@ Formatos suportados:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation>Documentação em massa</translation>
+        <translation>Documentos em lote</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
