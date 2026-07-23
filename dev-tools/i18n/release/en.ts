@@ -1380,12 +1380,14 @@
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Pause task
+After pausing, you can put the computer into standby or hibernate mode.
+However, shutting down the computer or exiting the software will discard the task content.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Resume task</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
@@ -1406,17 +1408,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
         <source>已暂停</source>
-        <translation type="unfinished"></translation>
+        <translation>Task paused</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="233"/>
         <source>任务停止</source>
-        <translation type="unfinished"></translation>
+        <translation>Task stopped</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="235"/>
         <source>任务完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Task completed</translation>
     </message>
 </context>
 <context>
@@ -1511,7 +1513,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="53"/>
         <source>没有可用的 OCR 插件。</source>
-        <translation type="unfinished"></translation>
+        <translation>No OCR plugins available.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="61"/>
@@ -1531,17 +1533,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="93"/>
         <source>文字识别接口应用成功</source>
-        <translation type="unfinished"></translation>
+        <translation>Text recognition interface applied successfully</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="93"/>
         <source>当前API为【%1】</source>
-        <translation type="unfinished"></translation>
+        <translation>The current API is: 【%1】</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="97"/>
         <source>文字识别接口应用失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Text recognition interface application failed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="106"/>
@@ -1552,7 +1554,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="113"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。
 要强制终止全部任务吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>There are currently %1 task queues and %2 running tasks.
+Do you want to force all tasks to stop?</translation>
     </message>
 </context>
 <context>
@@ -1560,31 +1563,35 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="18"/>
         <source>新标签页</source>
-        <translation type="unfinished"></translation>
+        <translation>New tab</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="24"/>
         <source>截图OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Screenshot OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="25"/>
         <source># 截图OCR
 
 屏幕截图，快捷转文字。也支持粘贴图片。</source>
-        <translation type="unfinished"></translation>
+        <translation># Screenshot OCR
+
+Capture your screen and quickly convert its contents to text. Pasting images is also supported.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="51"/>
         <source># 全局设置
 
 调节全局设置项，对所有页面生效。</source>
-        <translation type="unfinished"></translation>
+        <translation># Global settings
+
+Adjust the global settings. The changes will apply to all pages.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="30"/>
         <source>批量OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Batch OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="31"/>
@@ -1593,7 +1600,11 @@
 导入本地图片或文件夹，批量转换文字。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation># Batch OCR
+
+Import local images or folders and convert text in batches.
+
+Supported formats:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
