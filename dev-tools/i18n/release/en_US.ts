@@ -1421,13 +1421,13 @@ For example, when processing screenshots of watermarked images, you can add an i
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
         <translation>Pause task
-After pausing, you can standby or hibernate.
-However, shutting down or exiting the software will discard the task content.</translation>
+After pausing, you can put the computer into standby or hibernate mode.
+However, shutting down the computer or exiting the software will cause the task content to be lost.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation>Resume Task</translation>
+        <translation>Resume task</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
@@ -1589,14 +1589,14 @@ Abandon unfinished content.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="106"/>
         <source>当前没有运行中的任务</source>
-        <translation>No currently running tasks</translation>
+        <translation>No running tasks currently</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="113"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。
 要强制终止全部任务吗？</source>
-        <translation>There are currently %1 task queues with %2 tasks in progress.
-Do you want to force terminate all tasks?</translation>
+        <translation>There are currently %1 task queues with %2 running tasks.
+Do you want to force-terminate all tasks?</translation>
     </message>
 </context>
 <context>
