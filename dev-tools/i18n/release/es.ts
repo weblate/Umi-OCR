@@ -1401,7 +1401,7 @@ Por ejemplo, al procesar por lotes capturas de pantalla de películas o series, 
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
         <translation>Pausar tarea
-Después de pausarla, puede dejar el equipo en espera o en suspensión.
+Después de pausarla, puede poner el equipo en modo de espera o hibernación.
 Sin embargo, si apaga el equipo o sale del programa, el contenido de la tarea se perderá.</translation>
     </message>
     <message>
@@ -1549,28 +1549,29 @@ Se descartará el contenido no completado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="86"/>
         <source>文字识别接口应用成功</source>
-        <translation type="unfinished"></translation>
+        <translation>La interfaz de reconocimiento de texto se aplicó correctamente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="86"/>
         <source>当前API为【%1】</source>
-        <translation type="unfinished"></translation>
+        <translation>La API actual es: 【%1】</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="90"/>
         <source>文字识别接口应用失败</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo aplicar la interfaz de reconocimiento de texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="99"/>
         <source>当前没有运行中的任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay ninguna tarea en ejecución</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="106"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。
 要强制终止全部任务吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente hay %1 colas de tareas y un total de %2 tareas en ejecución.
+¿Desea forzar la finalización de todas las tareas?</translation>
     </message>
 </context>
 <context>
@@ -1578,31 +1579,35 @@ Se descartará el contenido no completado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="18"/>
         <source>新标签页</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva pestaña</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="24"/>
         <source>截图OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR de captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="25"/>
         <source># 截图OCR
 
 屏幕截图，快捷转文字。也支持粘贴图片。</source>
-        <translation type="unfinished"></translation>
+        <translation># OCR de captura de pantalla
+
+Capture la pantalla y convierta rápidamente su contenido en texto. También admite pegar imágenes.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="51"/>
         <source># 全局设置
 
 调节全局设置项，对所有页面生效。</source>
-        <translation type="unfinished"></translation>
+        <translation># Configuración global
+
+Ajuste la configuración global. Los cambios se aplicarán a todas las páginas.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="30"/>
         <source>批量OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR por lotes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="31"/>
@@ -1611,7 +1616,11 @@ Se descartará el contenido no completado.</translation>
 导入本地图片或文件夹，批量转换文字。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR por lotes
+
+Importe imágenes locales o carpetas y convierta texto por lotes.
+
+Formatos compatibles:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
