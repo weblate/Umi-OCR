@@ -1400,12 +1400,14 @@
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>השהיית משימה
+לאחר ההשהיה, ניתן להעביר את המחשב למצב המתנה או תרדמה.
+עם זאת, כיבוי המחשב או יציאה מהתוכנה יגרמו לאובדן תוכן המשימה.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished"></translation>
+        <translation>חידוש משימה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
@@ -1426,17 +1428,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
         <source>已暂停</source>
-        <translation type="unfinished"></translation>
+        <translation>מושהה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="233"/>
         <source>任务停止</source>
-        <translation type="unfinished"></translation>
+        <translation>משימה נעצרה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="235"/>
         <source>任务完成</source>
-        <translation type="unfinished"></translation>
+        <translation>המשימה הושלמה</translation>
     </message>
 </context>
 <context>
@@ -1546,28 +1548,29 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="86"/>
         <source>文字识别接口应用成功</source>
-        <translation type="unfinished"></translation>
+        <translation>ממשק זיהוי הטקסט הוחל בהצלחה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="86"/>
         <source>当前API为【%1】</source>
-        <translation type="unfinished"></translation>
+        <translation>ממשק ה-API הנוכחי הוא: 【%1】</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="90"/>
         <source>文字识别接口应用失败</source>
-        <translation type="unfinished"></translation>
+        <translation>החלת ממשק זיהוי הטקסט נכשלה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="99"/>
         <source>当前没有运行中的任务</source>
-        <translation type="unfinished"></translation>
+        <translation>כעת אין משימות פעילות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="106"/>
         <source>当前已有%1组任务队列、共%2个任务正在执行。
 要强制终止全部任务吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>כעת יש %1 תורי משימות ו-%2 משימות פועלות.
+האם ברצונך לכפות את עצירת כל המשימות?</translation>
     </message>
 </context>
 <context>
@@ -1575,31 +1578,35 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="18"/>
         <source>新标签页</source>
-        <translation type="unfinished"></translation>
+        <translation>כרטיסייה חדשה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="24"/>
         <source>截图OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR של צילום מסך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="25"/>
         <source># 截图OCR
 
 屏幕截图，快捷转文字。也支持粘贴图片。</source>
-        <translation type="unfinished"></translation>
+        <translation># OCR של צילום מסך
+
+צלמו את המסך והמירו במהירות את תוכנו לטקסט. ניתן גם להדביק תמונות.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="51"/>
         <source># 全局设置
 
 调节全局设置项，对所有页面生效。</source>
-        <translation type="unfinished"></translation>
+        <translation># הגדרות כלליות
+
+התאימו את ההגדרות הכלליות. השינויים יחולו על כל הדפים.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="30"/>
         <source>批量OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR באצווה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="31"/>
@@ -1608,7 +1615,11 @@
 导入本地图片或文件夹，批量转换文字。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation># OCR באצווה
+
+ייבאו תמונות מקומיות או תיקיות והמירו טקסט באצווה.
+
+פורמטים נתמכים:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
