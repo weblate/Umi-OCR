@@ -1650,7 +1650,7 @@ Supported formats:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation>Batch Documents ocr</translation>
+        <translation>Batch Documents</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
