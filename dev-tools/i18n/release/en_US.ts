@@ -1894,7 +1894,7 @@ Can be set as default off in global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation>Generate qr code</translation>
+        <translation>Generate qr code/barcode</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
@@ -1927,7 +1927,7 @@ Can be set as default off in global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="34"/>
         <source>预处理（一般无需改动）</source>
-        <translation>Preprocessing (unnessary to modify)</translation>
+        <translation>Preprocessing (usually no changes are needed)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="39"/>
@@ -1963,7 +1963,7 @@ Effective when &gt; 0.1. Can be filled with decimals from 0.1 to 10</translation
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
         <translation>Increase the contrast of the image
-Effective when &gt; 0.1. Can be filled with decimals from 0.1 to 10</translation>
+Effective when &gt; 0.1. Enter a decimal value from 0.1 to 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="63"/>
@@ -2005,22 +2005,22 @@ Effective when grayscale is enabled and binarization &gt; -1. Can be filled with
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="87"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation>After recognition, display the window if the main window was minimized or in the background</translation>
+        <translation>After recognition, if the main window is minimized or in the background, bring it to the foreground</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation>Generate qr code</translation>
+        <translation>Generate qr code/barcode</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
         <source>类型</source>
-        <translation>Format</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>Default:</translation>
+        <translation>Default qr code:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
@@ -2031,14 +2031,14 @@ Effective when grayscale is enabled and binarization &gt; -1. Can be filled with
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="127"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="138"/>
         <source>填0：自动选择</source>
-        <translation>0: Automatic selection</translation>
+        <translation>Enter 0: automatic selection</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="131"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="142"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="153"/>
         <source>像素</source>
-        <translation>pixel</translation>
+        <translation>Pixel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
@@ -2048,7 +2048,7 @@ Effective when grayscale is enabled and binarization &gt; -1. Can be filled with
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>边缘空白</source>
-        <translation>Quiet zone</translation>
+        <translation>Border margin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="149"/>
@@ -2073,7 +2073,7 @@ Effective when grayscale is enabled and binarization &gt; -1. Can be filled with
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="175"/>
         <source>其它</source>
-        <translation>Others</translation>
+        <translation>Other / Others</translation>
     </message>
 </context>
 <context>
