@@ -1641,7 +1641,7 @@ Formats pris en charge&#xa0;:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Documents par lots</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
@@ -1650,7 +1650,11 @@ Formats pris en charge&#xa0;:</translation>
 批量导入文档，提取文字，或生成双层可搜索PDF。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation># Reconnaissance de documents par lots
+
+Importez des documents par lots pour en extraire le texte ou générer des fichiers PDF à double couche avec recherche.
+
+Formats pris en charge&#xa0;:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
@@ -1664,7 +1668,11 @@ Formats pris en charge&#xa0;:</translation>
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation type="unfinished"></translation>
+        <translation># Code qr
+
+Reconnaissez ou générez des codes qr et des codes-barres.
+
+Protocoles pris en charge&#xa0;:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="50"/>
