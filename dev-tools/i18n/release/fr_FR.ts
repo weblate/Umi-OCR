@@ -1405,7 +1405,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation>Valider</translation>
+        <translation>J&apos;ai compris</translation>
     </message>
 </context>
 <context>
@@ -1704,7 +1704,7 @@ Ajustez les paramètres globaux. Les modifications s&apos;appliqueront à toutes
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/PopupManager.qml" line="12"/>
         <source>确认</source>
-        <translation>Confirmer</translation>
+        <translation>Confirmer l&apos;action</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/PopupManager.qml" line="13"/>
@@ -1722,12 +1722,12 @@ Ajustez les paramètres globaux. Les modifications s&apos;appliqueront à toutes
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="148"/>
         <source>打开文档失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;ouverture du document</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="150"/>
         <source>请填写正确的密码</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez saisir le mot de passe correct</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="159"/>
@@ -1737,7 +1737,7 @@ Ajustez les paramètres globaux. Les modifications s&apos;appliqueront à toutes
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="168"/>
         <source>文档预览异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;aperçu du document</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="180"/>
@@ -1758,12 +1758,12 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="251"/>
         <source>预览页面</source>
-        <translation type="unfinished"></translation>
+        <translation>Page d&apos;aperçu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="270"/>
         <source>预览PDF时，是否预览OCR结果</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisualiser les résultats OCR lors de l&apos;aperçu PDF</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
@@ -1779,7 +1779,7 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="360"/>
         <source>范围</source>
-        <translation type="unfinished"></translation>
+        <translation>Plage</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="394"/>
@@ -1789,7 +1789,7 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="403"/>
         <source>清空</source>
-        <translation>Clear</translation>
+        <translation>Effacer</translation>
     </message>
 </context>
 <context>
@@ -1803,7 +1803,8 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/PreviewImage.qml" line="60"/>
         <source>在图片上叠加显示识别文字
 可在全局设置中设为默认关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le texte reconnu en superposition sur l&apos;image
+Peut être désactivé par défaut dans les paramètres généraux</translation>
     </message>
 </context>
 <context>
@@ -1811,7 +1812,7 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="42"/>
         <source>获取剪贴板异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la récupération du contenu du presse-papiers</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="46"/>
@@ -1821,17 +1822,17 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="67"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune image valide</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="72"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer %1 chemins d&apos;images</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="99"/>
         <source>参数有误，或输入内容不合规定。请参照报错指示修改：</source>
-        <translation type="unfinished"></translation>
+        <translation>Les paramètres sont incorrects ou le contenu saisi ne respecte pas les exigences. Veuillez modifier selon les indications de l&apos;erreur&#xa0;:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
@@ -1842,12 +1843,12 @@ Les paramètres de la zone d’exclusion s’appliquent à tous les documents.</
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="159"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>Copié dans le presse-papiers</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="160"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconnaissance d&apos;image terminée</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="163"/>
