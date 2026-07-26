@@ -1609,7 +1609,7 @@ Supported formats:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Batch Documents</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
@@ -1618,7 +1618,11 @@ Supported formats:</translation>
 批量导入文档，提取文字，或生成双层可搜索PDF。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation># Batch Document Recognition
+
+Import documents in batches to extract text or generate searchable dual-layer PDF files.
+
+Supported formats:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
@@ -1632,22 +1636,26 @@ Supported formats:</translation>
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation type="unfinished"></translation>
+        <translation># qr Code
+
+Recognise or generate qr codes and barcodes.
+
+Supported protocols:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="50"/>
         <source>全局设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Global Settings</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="55"/>
         <source>关于</source>
-        <translation type="unfinished"></translation>
+        <translation>About</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="56"/>
         <source># 关于</source>
-        <translation type="unfinished"></translation>
+        <translation># About</translation>
     </message>
 </context>
 <context>
