@@ -1722,12 +1722,12 @@ Supported protocols:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="148"/>
         <source>打开文档失败</source>
-        <translation>Open document Failed</translation>
+        <translation>Open document failed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="150"/>
         <source>请填写正确的密码</source>
-        <translation>Please fill in the correct password</translation>
+        <translation>Please enter the correct password</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="159"/>
@@ -1758,7 +1758,7 @@ This setting is enabled for all documents.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="251"/>
         <source>预览页面</source>
-        <translation>Preview pages</translation>
+        <translation>Preview page</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="270"/>
@@ -1832,7 +1832,7 @@ Can be set as default off in global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="99"/>
         <source>参数有误，或输入内容不合规定。请参照报错指示修改：</source>
-        <translation>The parameters are incorrect or the input content does not comply with regulations. Please refer to the error instructions for modification:</translation>
+        <translation>The parameters are incorrect, or the entered content is invalid. Please correct it according to the error message:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
