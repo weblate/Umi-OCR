@@ -2015,12 +2015,12 @@ Wirksam, wenn Graustufen aktiviert ist und die Binarisierung &gt; -1 ist. Kann m
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
         <source>类型</source>
-        <translation>Format</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>Standard:</translation>
+        <translation>Standard-qr-Code:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
@@ -2048,12 +2048,12 @@ Wirksam, wenn Graustufen aktiviert ist und die Binarisierung &gt; -1 ist. Kann m
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>边缘空白</source>
-        <translation>Ruhezone</translation>
+        <translation>Randabstand</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="149"/>
         <source>填-1：自动选择</source>
-        <translation>-1: Automatische Auswahl</translation>
+        <translation>-1 eingeben: automatische Auswahl</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="159"/>
@@ -2090,8 +2090,8 @@ Wirksam, wenn Graustufen aktiviert ist und die Binarisierung &gt; -1 ist. Kann m
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation>Ausnahmestatuscode: %1
-Ausnahmemeldung: %2</translation>
+        <translation>Fehlerstatuscode: %1
+Fehlermeldung: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
