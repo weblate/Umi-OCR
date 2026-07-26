@@ -1624,7 +1624,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation type="unfinished"></translation>
+        <translation>מסמכים באצווה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
@@ -1633,7 +1633,11 @@
 批量导入文档，提取文字，或生成双层可搜索PDF。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation># זיהוי מסמכים באצווה
+
+ייבאו מסמכים באצווה כדי לחלץ טקסט או ליצור קובצי PDF דו־שכבתיים הניתנים לחיפוש.
+
+פורמטים נתמכים:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
@@ -1647,22 +1651,26 @@
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation type="unfinished"></translation>
+        <translation># קוד qr
+
+זהו או צרו קודי qr וברקודים.
+
+פרוטוקולים נתמכים:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="50"/>
         <source>全局设置</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות כלליות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="55"/>
         <source>关于</source>
-        <translation type="unfinished"></translation>
+        <translation>אודות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="56"/>
         <source># 关于</source>
-        <translation type="unfinished"></translation>
+        <translation># אודות</translation>
     </message>
 </context>
 <context>
