@@ -1625,7 +1625,7 @@ Formatos compatibles:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentos por lotes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
@@ -1634,7 +1634,11 @@ Formatos compatibles:</translation>
 批量导入文档，提取文字，或生成双层可搜索PDF。
 
 支持格式：</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconocimiento de documentos por lotes.
+
+Importe documentos por lotes para extraer texto o generar archivos PDF de doble capa con búsqueda.
+
+Formatos compatibles:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
@@ -1648,22 +1652,26 @@ Formatos compatibles:</translation>
 识别或生成二维码、条形码。
 
 支持协议：</source>
-        <translation type="unfinished"></translation>
+        <translation>Código qr
+
+Reconozca o genere códigos qr y códigos de barras.
+
+Protocolos compatibles:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="50"/>
         <source>全局设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración global</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="55"/>
         <source>关于</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="56"/>
         <source># 关于</source>
-        <translation type="unfinished"></translation>
+        <translation># Acerca de</translation>
     </message>
 </context>
 <context>
