@@ -1691,12 +1691,12 @@ Acordos suportados:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="55"/>
         <source>关于</source>
-        <translation>no que diz respeito</translation>
+        <translation>Sobre</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="56"/>
         <source># 关于</source>
-        <translation># Sobre nós</translation>
+        <translation># Sobre</translation>
     </message>
 </context>
 <context>
