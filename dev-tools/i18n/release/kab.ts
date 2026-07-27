@@ -151,7 +151,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="166"/>
         <source>文档识别异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuccḍa deg usenqed n warrat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="180"/>
@@ -1157,7 +1157,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Sen tugna</translation>
     </message>
 </context>
 <context>
@@ -2058,7 +2058,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="376"/>
         <source>清空记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfeḍ akk izerwan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="453"/>
@@ -2073,27 +2073,27 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="455"/>
         <source>选中单个&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>Fren yiwen kan&#x3000;&#x3000;(Ctrl+A)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="456"/>
         <source>选中全部记录（Ctrl+A 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Fren akk izerwan (Ctrl+A sin n tikkelt)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="457"/>
         <source>删除选中记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Kkes izerwan yettwafren</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="458"/>
         <source>清空全部记录（Ctrl+D 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfeḍ akk izerwan (Ctrl+D sin n tikkelt)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="486"/>
         <source>滚动</source>
-        <translation type="unfinished"></translation>
+        <translation>Ḥwiḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="487"/>
@@ -2103,7 +2103,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="509"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Umuɣ n usatal</translation>
     </message>
 </context>
 <context>
@@ -2111,17 +2111,17 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="197"/>
         <source>截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuccḍa n wegdil yecceḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="198"/>
         <source>上次截图操作未结束，不能进行新的截图！</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yemmed ara umaynut n tuṭṭfa n ugdil yezrin, ur tezmireḍ ara ad tgeḍ tuṭṭfa n ugdil tamaynut!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="77"/>
         <source>尚未记录截图区域</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamiḍt n tuṭṭfa n ugdil ur tettwaru ara yakan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
@@ -2132,7 +2132,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="107"/>
         <source>重复截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuṭṭfa n ugdil tikelt nniḍen tecceḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="106"/>
@@ -2144,7 +2144,9 @@ Izen n tuccḍa: %2</translation>
         <source>屏幕设备名称不相同：
 %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismawen n yibenkan n ugdil ur mgaraden ara:
+%1
+%2</translation>
     </message>
 </context>
 <context>
@@ -2152,22 +2154,22 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="65"/>
         <source>获取剪贴板异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuccḍa deg wawwi n ugbur n tefrayt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="71"/>
         <source>剪贴板中为文本</source>
-        <translation type="unfinished"></translation>
+        <translation>Tefrayt tesɛa aḍris</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="94"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac tugniwin tmeɣtudin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="99"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>Kter %1 n yiberdan n tugniwin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="112"/>
@@ -2178,7 +2180,8 @@ Izen n tuccḍa: %2</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="120"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Tawuri tella deg umecwar.
+Tebɣiḍ ad tfakkeḍ tawuri ad tmedleḍ asebtar?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="145"/>
@@ -2195,17 +2198,17 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="187"/>
         <source>截图识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuccḍa deg twuri n usenqed n tuṭṭfa n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="210"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>Yettwanɣel ɣer tefrayt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="211"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenqed n tugna yemmed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="214"/>
@@ -2215,13 +2218,13 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="218"/>
         <source>识别失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuccḍa deg usenqed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="275"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="407"/>
         <source>停止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Seḥbes tawuri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="317"/>
@@ -2232,7 +2235,8 @@ Izen n tuccḍa: %2</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="318"/>
         <source>在图片上叠加显示识别文字
 可在全局设置中设为默认关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Sken aḍris yettwasenqed s ufella n tugna
+Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="433"/>
@@ -2260,7 +2264,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
@@ -2270,12 +2274,12 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Sen tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="43"/>
         <source>重复截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Ales tuṭṭfa n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
