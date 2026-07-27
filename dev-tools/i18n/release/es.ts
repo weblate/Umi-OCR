@@ -1838,7 +1838,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="181"/>
         <source>扫描二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear código qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="319"/>
@@ -1849,27 +1849,27 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="423"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="371"/>
         <source>自动刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización automática</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="372"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar automáticamente código qr/código de barras después de modificar el texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="385"/>
         <source>刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="386"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar código qr/código de barras</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="428"/>
@@ -1879,7 +1879,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="433"/>
         <source>生成</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar</translation>
     </message>
 </context>
 <context>
@@ -1887,7 +1887,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="14"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo de teclado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
@@ -1897,66 +1897,70 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="24"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="32"/>
         <source>预处理（一般无需改动）</source>
-        <translation type="unfinished"></translation>
+        <translation>Preprocesamiento (normalmente no es necesario modificarlo)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="37"/>
         <source>中值滤波</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de mediana</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="38"/>
         <source>对图像进行平滑处理
 &gt;0 时生效。可填1~9的奇数（不允许偶数）</source>
-        <translation type="unfinished"></translation>
+        <translation>Suaviza la imagen
+Tiene efecto cuando el valor es mayor que 0. Se pueden introducir números impares del 1 al 9 (no se permiten números pares)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="45"/>
         <source>锐度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejora de la nitidez</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="46"/>
         <source>增加图像的锐度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta la nitidez de la imagen
+Tiene efecto cuando el valor es mayor que 0.1. Se pueden introducir valores decimales entre 0.1 y 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="53"/>
         <source>对比度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejora del contraste</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="54"/>
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumenta el contraste de la imagen
+Tiene efecto cuando el valor es mayor que 0.1. Se puede introducir un valor decimal entre 0.1 y 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="61"/>
         <source>转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir a escala de grises</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="62"/>
         <source>将图像像素转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir los píxeles de la imagen a escala de grises</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="66"/>
         <source>二值化</source>
-        <translation type="unfinished"></translation>
+        <translation>Binarización</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="67"/>
         <source>将图像像素转为纯黑和纯白
 启用了灰度，且二值化 &gt;-1 时生效。可填0~255的整数</source>
-        <translation type="unfinished"></translation>
+        <translation>Convierte los píxeles de la imagen a negro puro y blanco puro
+Tiene efecto cuando la escala de grises está activada y la binarización es mayor que -1. Introduzca un número entero de 0 a 255</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="76"/>
@@ -1976,55 +1980,55 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="85"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>Después del reconocimiento de imagen, si la ventana principal está minimizada o en segundo plano, se traerá al primer plano</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="91"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Generar código qr/código de barras</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="95"/>
         <source>类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="96"/>
         <source>默认二维码：</source>
-        <translation type="unfinished"></translation>
+        <translation>Código qr predeterminado:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="121"/>
         <source>宽度</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancho</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="122"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="130"/>
         <source>填0：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca 0: selección automática</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="134"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="142"/>
         <source>像素</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="129"/>
         <source>高度</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>边缘空白</source>
-        <translation type="unfinished"></translation>
+        <translation>Margen del borde</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="138"/>
         <source>填-1：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca -1: selección automática</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="145"/>
@@ -2034,17 +2038,17 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="146"/>
         <source>仅适用于：</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo aplicable a:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>自动</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="158"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Otros</translation>
     </message>
 </context>
 <context>
@@ -2052,7 +2056,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultTextContainer.qml" line="119"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
 </context>
 <context>
@@ -2061,17 +2065,18 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de estado de error: %1
+Mensaje de error: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo trascurrido: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
         <source>置信度 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Confianza: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="308"/>
