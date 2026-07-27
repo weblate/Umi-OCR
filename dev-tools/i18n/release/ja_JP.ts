@@ -2020,12 +2020,12 @@ qr コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>デフォルト qrコード：</translation>
+        <translation>デフォルトのqrコード：</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
         <source>宽度</source>
-        <translation>Width</translation>
+        <translation>幅</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="127"/>
@@ -2043,12 +2043,12 @@ qr コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>高度</source>
-        <translation>Height</translation>
+        <translation>高さ（たかさ）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>边缘空白</source>
-        <translation>端の空白</translation>
+        <translation>余白</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="149"/>
@@ -2063,7 +2063,7 @@ qr コードやバーコードを識別、生成する。
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
         <source>仅适用于：</source>
-        <translation>適用されます:</translation>
+        <translation>次のみに適用：</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="162"/>
@@ -2090,18 +2090,18 @@ qr コードやバーコードを識別、生成する。
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation>異常なステータスコード：%1
-異常な情報：%2</translation>
+        <translation>エラー状態コード：%1
+エラーメッセージ：%2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation>所要時間 %1</translation>
+        <translation>経過時間: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
         <source>置信度 %1</source>
-        <translation>信頼度 %1</translation>
+        <translation>信頼度: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="343"/>
