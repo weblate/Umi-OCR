@@ -388,7 +388,7 @@ Adicionar espaços reservados pode evitar que arquivos antigos sejam substituíd
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation>outros</translation>
+        <translation>Outros</translation>
     </message>
 </context>
 <context>
@@ -1874,7 +1874,7 @@ Ele pode ser definido como padrão nas configurações globais</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="434"/>
         <source>设置</source>
-        <translation>Configurar</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="381"/>
@@ -1894,7 +1894,7 @@ Ele pode ser definido como padrão nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation>Gerar códigos qr/códigos de barras</translation>
+        <translation>Gerar código qr/código de barras</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
@@ -1904,7 +1904,7 @@ Ele pode ser definido como padrão nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="444"/>
         <source>生成</source>
-        <translation>gerar</translation>
+        <translation>Gerar</translation>
     </message>
 </context>
 <context>
@@ -1912,7 +1912,7 @@ Ele pode ser definido como padrão nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="16"/>
         <source>快捷键</source>
-        <translation>tecla de atalho</translation>
+        <translation>Tecla de atalho</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="20"/>
@@ -1962,8 +1962,8 @@ Ele pode ser definido como padrão nas configurações globais</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="56"/>
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation>Aumentar o contraste da imagem
-&gt; 0.1. Você pode preencher 0,1 ~ 10 decimais</translation>
+        <translation>Aumenta o contraste da imagem
+Tem efeito quando o valor é superior a 0.1. Introduza um valor decimal entre 0.1 e 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="63"/>
@@ -1984,8 +1984,8 @@ Ele pode ser definido como padrão nas configurações globais</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="69"/>
         <source>将图像像素转为纯黑和纯白
 启用了灰度，且二值化 &gt;-1 时生效。可填0~255的整数</source>
-        <translation>Transforme os pixels da imagem em preto puro e branco puro
-A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Você pode preencher o número inteiro de 0~255</translation>
+        <translation>Converte os píxeis da imagem para preto puro e branco puro
+Tem efeito quando os tons de cinzento estão ativados e a binarização é superior a -1. Introduza um número inteiro de 0 a 255</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="78"/>
@@ -2010,17 +2010,17 @@ A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Voc
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation>Gerar códigos qr/códigos de barras</translation>
+        <translation>Gerar código qr/código de barras</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
         <source>类型</source>
-        <translation>tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="98"/>
         <source>默认二维码：</source>
-        <translation>Código qr padrão:</translation>
+        <translation>Código qr predefinido: / Código qr padrão:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
@@ -2031,29 +2031,29 @@ A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Voc
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="127"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="138"/>
         <source>填0：自动选择</source>
-        <translation>Preencha 0: Seleção automática</translation>
+        <translation>Introduza 0: seleção automática</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="131"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="142"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="153"/>
         <source>像素</source>
-        <translation>píxel</translation>
+        <translation>Píxel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>高度</source>
-        <translation>altitude</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>边缘空白</source>
-        <translation>As margens estão em branco</translation>
+        <translation>Margem da borda</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="149"/>
         <source>填-1：自动选择</source>
-        <translation>Preenchimento -1: Seleção automática</translation>
+        <translation>Introduza -1: seleção automática</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="159"/>
@@ -2063,7 +2063,7 @@ A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Voc
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
         <source>仅适用于：</source>
-        <translation>Aplica-se apenas a:</translation>
+        <translation>Применимо только к:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="162"/>
@@ -2081,7 +2081,7 @@ A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Voc
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultTextContainer.qml" line="120"/>
         <source>复制</source>
-        <translation>cópia</translation>
+        <translation>Copiar</translation>
     </message>
 </context>
 <context>
@@ -2090,13 +2090,13 @@ A escala de cinza é ativada e a binarização entra em vigor quando &gt;-1. Voc
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation>Código de status da exceção: %1
-Informações de exceção: %2</translation>
+        <translation>Código de estado de erro: %1
+Mensagem de erro: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation>Tempo gasto %1</translation>
+        <translation>Tempo gasto: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
