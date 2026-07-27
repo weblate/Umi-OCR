@@ -2121,7 +2121,7 @@ Fehlermeldung: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="370"/>
         <source>删除%1条记录</source>
-        <translation>%1 Datensätze löschen</translation>
+        <translation>%1 Datensatz/Datensätze löschen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="376"/>
@@ -2171,7 +2171,7 @@ Fehlermeldung: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="509"/>
         <source>右键菜单</source>
-        <translation>Rechtsklickmenü</translation>
+        <translation>Kontextmenü</translation>
     </message>
 </context>
 <context>
