@@ -2106,7 +2106,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="343"/>
         <source>记录：复制%1字</source>
-        <translation>பதிவு: %1 வார்த்தையை நகலெடுக்கவும்</translation>
+        <translation>வரலாறு: %1 எழுத்துகளை நகலெடு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="346"/>
@@ -2126,7 +2126,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="376"/>
         <source>清空记录</source>
-        <translation>பதிவை அழிக்கவும்</translation>
+        <translation>அனைத்து பதிவுகளையும் அழி</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="453"/>
@@ -2171,7 +2171,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="509"/>
         <source>右键菜单</source>
-        <translation>வலது சொடுக்கு பட்டியல்</translation>
+        <translation>சூழல் மெனு</translation>
     </message>
 </context>
 <context>
@@ -2228,7 +2228,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="71"/>
         <source>剪贴板中为文本</source>
-        <translation>கிளிப்போர்டில் உரை</translation>
+        <translation>கிளிப்போர்டில் உரை உள்ளது</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="94"/>
