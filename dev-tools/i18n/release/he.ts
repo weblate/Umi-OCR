@@ -383,7 +383,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>אחר</translation>
     </message>
 </context>
 <context>
@@ -1837,7 +1837,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="181"/>
         <source>扫描二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>סריקת קוד qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="319"/>
@@ -1848,27 +1848,27 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="423"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="371"/>
         <source>自动刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>רענון אוטומטי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="372"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>יצירה אוטומטית של קוד qr/ברקוד לאחר שינוי הטקסט</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="385"/>
         <source>刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>רענן</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="386"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>יצירת קוד qr/ברקוד</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="428"/>
@@ -1878,7 +1878,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="433"/>
         <source>生成</source>
-        <translation type="unfinished"></translation>
+        <translation>צור</translation>
     </message>
 </context>
 <context>
@@ -1886,7 +1886,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="14"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>קיצור מקשים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
@@ -1896,66 +1896,70 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="24"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>הדבק תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="32"/>
         <source>预处理（一般无需改动）</source>
-        <translation type="unfinished"></translation>
+        <translation>עיבוד מקדים (בדרך כלל אין צורך לשנות זאת)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="37"/>
         <source>中值滤波</source>
-        <translation type="unfinished"></translation>
+        <translation>מסנן חציון</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="38"/>
         <source>对图像进行平滑处理
 &gt;0 时生效。可填1~9的奇数（不允许偶数）</source>
-        <translation type="unfinished"></translation>
+        <translation>מחליק את התמונה
+תקף כאשר הערך גדול מ־0. ניתן להזין מספר אי־זוגי בין 1 ל־9 (מספרים זוגיים אינם מותרים)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="45"/>
         <source>锐度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>שיפור החדות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="46"/>
         <source>增加图像的锐度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>מגביר את חדות התמונה
+תקף כאשר הערך גדול מ־0.1. ניתן להזין ערך עשרוני בין 0.1 ל־10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="53"/>
         <source>对比度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>שיפור הניגודיות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="54"/>
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>מגביר את הניגודיות של התמונה
+תקף כאשר הערך גדול מ־0.1. ניתן להזין ערך עשרוני בין 0.1 ל־10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="61"/>
         <source>转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>המרה לגווני אפור</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="62"/>
         <source>将图像像素转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>ממיר את פיקסלי התמונה לגווני אפור</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="66"/>
         <source>二值化</source>
-        <translation type="unfinished"></translation>
+        <translation>בינאריזציה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="67"/>
         <source>将图像像素转为纯黑和纯白
 启用了灰度，且二值化 &gt;-1 时生效。可填0~255的整数</source>
-        <translation type="unfinished"></translation>
+        <translation>המרת פיקסלי התמונה לשחור טהור ולבן טהור
+פעיל כאשר גווני אפור מופעלים והבינאריזציה גדולה מ־1-. ניתן להזין מספר שלם בין 0 ל־255</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="76"/>
@@ -1975,55 +1979,55 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="85"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>לאחר זיהוי התמונה, אם החלון הראשי ממוזער או נמצא ברקע, הוא יועבר לחזית</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="91"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>יצירת קוד qr/ברקוד</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="95"/>
         <source>类型</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="96"/>
         <source>默认二维码：</source>
-        <translation type="unfinished"></translation>
+        <translation>קוד qr ברירת מחדל:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="121"/>
         <source>宽度</source>
-        <translation type="unfinished"></translation>
+        <translation>רוחב</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="122"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="130"/>
         <source>填0：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>הזן 0: בחירה אוטומטית</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="134"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="142"/>
         <source>像素</source>
-        <translation type="unfinished"></translation>
+        <translation>פיקסל</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="129"/>
         <source>高度</source>
-        <translation type="unfinished"></translation>
+        <translation>גובה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>边缘空白</source>
-        <translation type="unfinished"></translation>
+        <translation>שוליים ריקים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="138"/>
         <source>填-1：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>הזן ‎-1: בחירה אוטומטית</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="145"/>
@@ -2033,17 +2037,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="146"/>
         <source>仅适用于：</source>
-        <translation type="unfinished"></translation>
+        <translation>חל רק על:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>自动</source>
-        <translation type="unfinished"></translation>
+        <translation>אוטומטי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="158"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>אחר / אחרים</translation>
     </message>
 </context>
 <context>
@@ -2051,7 +2055,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultTextContainer.qml" line="119"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>העתק</translation>
     </message>
 </context>
 <context>
@@ -2060,17 +2064,18 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation type="unfinished"></translation>
+        <translation>קוד מצב שגיאה: %1
+הודעת שגיאה: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>זמן שחלף: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
         <source>置信度 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>רמת ביטחון: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="308"/>
