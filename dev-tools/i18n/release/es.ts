@@ -2081,72 +2081,72 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="308"/>
         <source>记录：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro: Copiar %1 caracteres</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="311"/>
         <source>记录：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial: No hay texto seleccionado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="325"/>
         <source>记录：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Historial: Copiar los %1 caracteres</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="334"/>
         <source>删除%1条记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar %1 registro(s)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="339"/>
         <source>清空记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todos los registros</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="408"/>
         <source>复制&#x3000;&#x3000;&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar&#x3000;&#x3000;&#x3000;&#x3000;（Ctrl+C）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="409"/>
         <source>复制全部&#x3000;&#x3000;（Ctrl+C 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar todo&#x3000;&#x3000;(Presione Ctrl+C dos veces)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="410"/>
         <source>选中单个&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>Select single&#x3000;&#x3000;（Ctrl+A）</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="411"/>
         <source>选中全部记录（Ctrl+A 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todos los registros (Ctrl+A dos veces)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="412"/>
         <source>删除选中记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar los registros seleccionados</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="413"/>
         <source>清空全部记录（Ctrl+D 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todos los registros (Ctrl+D dos veces)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="441"/>
         <source>滚动</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="442"/>
         <source>自动滚动到底部</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento automático hasta el final</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="464"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Menú contextual</translation>
     </message>
 </context>
 <context>
@@ -2154,17 +2154,17 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="197"/>
         <source>截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al capturar la pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="198"/>
         <source>上次截图操作未结束，不能进行新的截图！</source>
-        <translation type="unfinished"></translation>
+        <translation>¡La operación de captura de pantalla anterior no ha terminado, no se puede realizar una nueva captura de pantalla!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="77"/>
         <source>尚未记录截图区域</source>
-        <translation type="unfinished"></translation>
+        <translation>El área de captura de pantalla aún no ha sido registrada</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
@@ -2176,19 +2176,21 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="107"/>
         <source>重复截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al capturar la pantalla repetida</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="106"/>
         <source>未找到匹配的屏幕</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró una pantalla coincidente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="38"/>
         <source>屏幕设备名称不相同：
 %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Los nombres de los dispositivos de pantalla no coinciden:
+%1
+%2</translation>
     </message>
 </context>
 <context>
@@ -2196,22 +2198,22 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="65"/>
         <source>获取剪贴板异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al obtener el contenido del portapapeles</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="71"/>
         <source>剪贴板中为文本</source>
-        <translation type="unfinished"></translation>
+        <translation>El portapapeles contiene texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="91"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay imágenes válidas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="96"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar %1 rutas de imágenes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="109"/>
@@ -2222,7 +2224,8 @@ Mensaje de error: %2</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="117"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>La tarea está en curso.
+¿Desea finalizar la tarea y cerrar la página?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="142"/>
@@ -2234,49 +2237,50 @@ Mensaje de error: %2</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="143"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="261"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="184"/>
         <source>截图识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en la tarea de reconocimiento de la captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="207"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado al portapapeles</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="208"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconocimiento de imagen completado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="211"/>
         <source>无文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="215"/>
         <source>识别失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de reconocimiento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="271"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="404"/>
         <source>停止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Detener tarea</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="314"/>
         <source>文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="315"/>
         <source>在图片上叠加显示识别文字
 可在全局设置中设为默认关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Superponer el texto reconocido sobre la imagen
+Puede desactivarse de forma predeterminada en la configuración global</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="430"/>
@@ -2286,7 +2290,7 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="454"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
@@ -2304,7 +2308,7 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo de teclado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
@@ -2314,12 +2318,12 @@ Mensaje de error: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar imagen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="43"/>
         <source>重复截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir la captura de pantalla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
