@@ -1990,7 +1990,7 @@ Prend effet lorsque les niveaux de gris sont activés et que la binarisation est
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="78"/>
         <source>扫码后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Action après la numérisation du code</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="82"/>
@@ -2000,7 +2000,7 @@ Prend effet lorsque les niveaux de gris sont activés et que la binarisation est
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="86"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la fenêtre principale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="87"/>
@@ -2353,12 +2353,12 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
         <source>重新截取上一次截图的范围</source>
-        <translation type="unfinished"></translation>
+        <translation>Recapturer la zone de la dernière capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="52"/>
         <source>识图后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Action après la reconnaissance d&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="56"/>
@@ -2368,12 +2368,12 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="60"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la fenêtre principale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="61"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>Après la reconnaissance de l&apos;image, si la fenêtre principale est réduite ou en arrière-plan, elle sera affichée au premier plan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="67"/>
@@ -2417,7 +2417,7 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="109"/>
         <source>赛博朋克</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyberpunk</translation>
     </message>
 </context>
 <context>
@@ -2425,7 +2425,7 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="11"/>
         <source>任务完成后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Action après la fin de la tâche</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="15"/>
@@ -2455,7 +2455,7 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
         <source>继续%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuer %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
@@ -2470,67 +2470,67 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="55"/>
         <source>排版解析方案</source>
-        <translation type="unfinished"></translation>
+        <translation>Schéma d&apos;analyse de mise en page</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="56"/>
         <source>按什么方式，解析和排序图片中的文字块</source>
-        <translation type="unfinished"></translation>
+        <translation>Méthode d&apos;analyse et de tri des blocs de texte dans l&apos;image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="59"/>
         <source>多栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicolonne - retour à la ligne par paragraphes naturels</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="60"/>
         <source>多栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicolonne - toujours ajuster les lignes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="61"/>
         <source>多栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicolonne - sans retour à la ligne</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne unique - retour à la ligne par paragraphes naturels</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
         <source>单栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne unique - toujours retour à la ligne</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="64"/>
         <source>单栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne unique - sans retour à la ligne</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
         <source>单栏-保留缩进</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne unique - conserver l&apos;indentation</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="66"/>
         <source>不做处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun traitement</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="74"/>
         <source>优先内部</source>
-        <translation type="unfinished"></translation>
+        <translation>Préférer l&apos;interne</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="75"/>
         <source>只允许内部</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser uniquement l&apos;interne</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="76"/>
         <source>只允许外部</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser uniquement l&apos;externe</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="77"/>
@@ -2540,17 +2540,17 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="79"/>
         <source>跟随全局设定</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser la configuration globale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="81"/>
         <source>通知弹窗类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Type de fenêtre contextuelle de notification</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="89"/>
         <source>通知类型已更改</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type de notification a été modifié</translation>
     </message>
 </context>
 </TS>
