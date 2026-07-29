@@ -2505,7 +2505,7 @@ Kann in den globalen Einstellungen standardmäßig deaktiviert werden</translati
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="64"/>
         <source>单栏-无换行</source>
-        <translation>Einspaltig - kein Umbruch</translation>
+        <translation>Einspaltig - kein Zeilenumbruch</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
