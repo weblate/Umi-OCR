@@ -2495,7 +2495,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation>Перенос в один столбец с помощью обычного абзаца</translation>
+        <translation>Один столбец - перенос строк в соответствии с естественными абзацами</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
