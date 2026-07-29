@@ -1922,17 +1922,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="78"/>
         <source>扫码后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Tigawt seld asleḍ n tengalt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="82"/>
         <source>复制结果</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel agmuḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="86"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Sken asfaylu agejdan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="87"/>
@@ -2284,7 +2284,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
         <source>重新截取上一次截图的范围</source>
-        <translation type="unfinished"></translation>
+        <translation>Ales tuṭṭfa n temnaḍt n tuṭṭfa taneggarut n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="52"/>
@@ -2294,22 +2294,22 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="56"/>
         <source>复制结果</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel agmuḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="60"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Sken asfaylu agejdan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="61"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>Seld usenqed n tugna, ma yella asfaylu agejdan yemẓi neɣ yella deg ugilal, ad d-yettwasawi s zdat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="67"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiyaḍ</translation>
     </message>
 </context>
 <context>
@@ -2317,7 +2317,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/Size_.qml" line="50"/>
         <source>1.0</source>
-        <translation type="unfinished"></translation>
+        <translation>0.85</translation>
     </message>
 </context>
 <context>
@@ -2330,7 +2330,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
         <source>退出 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Ffeɣ seg Umi-OCR</translation>
     </message>
 </context>
 <context>
@@ -2348,7 +2348,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="109"/>
         <source>赛博朋克</source>
-        <translation type="unfinished"></translation>
+        <translation>Cyberpunk</translation>
     </message>
 </context>
 <context>
@@ -2356,7 +2356,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="11"/>
         <source>任务完成后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Tigawt seld taggara n twuri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="15"/>
@@ -2371,12 +2371,12 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="19"/>
         <source>关机</source>
-        <translation type="unfinished"></translation>
+        <translation>Ssens</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="20"/>
         <source>休眠</source>
-        <translation type="unfinished"></translation>
+        <translation>Sgen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
@@ -2386,42 +2386,42 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
         <source>继续%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kemmel %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
         <source>取消%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sefsex %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="48"/>
         <source>系统即将%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anagraw ad %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="55"/>
         <source>排版解析方案</source>
-        <translation type="unfinished"></translation>
+        <translation>Aɣawas n tesleḍt n usefru</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="56"/>
         <source>按什么方式，解析和排序图片中的文字块</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarrayt n tesleḍt d umyiz n iḥedren n uḍris deg tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="59"/>
         <source>多栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n waṭas - tuɣalin n yizirigen s teṣeddarin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="60"/>
         <source>多栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n wawalen - yal tikelt ad d-ḍruḍḍu izirigen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="61"/>
         <source>多栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n wawalen - war ulac tuɣalin n yizirigen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
@@ -2431,57 +2431,57 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
         <source>单栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n yiwen n wudem - yal tikelt ad ilin yizirigen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="64"/>
         <source>单栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n yiwen n wudem - war tuɣalin n yizirigen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
         <source>单栏-保留缩进</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiẓri n yiwen n wudem - ḥrez asebded</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="66"/>
         <source>不做处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac asenfar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="74"/>
         <source>优先内部</source>
-        <translation type="unfinished"></translation>
+        <translation>Smen amezwaru i waman</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="75"/>
         <source>只允许内部</source>
-        <translation type="unfinished"></translation>
+        <translation>Sire kan ayen d uḍris agensu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="76"/>
         <source>只允许外部</source>
-        <translation type="unfinished"></translation>
+        <translation>Sire kan ayen agraɣ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="77"/>
         <source>禁用所有通知</source>
-        <translation type="unfinished"></translation>
+        <translation>Sens asenfar n yisallen akk</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="79"/>
         <source>跟随全局设定</source>
-        <translation type="unfinished"></translation>
+        <translation>Seqdec iɣewwaren imuta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="81"/>
         <source>通知弹窗类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Anaw n usfaylu n usmuli n yisallen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="89"/>
         <source>通知类型已更改</source>
-        <translation type="unfinished"></translation>
+        <translation>Anaw n yisallen yettusnifel</translation>
     </message>
 </context>
 </TS>
