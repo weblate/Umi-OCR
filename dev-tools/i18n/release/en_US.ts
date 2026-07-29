@@ -243,7 +243,7 @@ Do you want to end the task and close the page?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="71"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="75"/>
         <source>指定目录</source>
-        <translation>Specified directory</translation>
+        <translation>Specified Directory</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="76"/>
@@ -253,7 +253,7 @@ Do you want to end the task and close the page?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="80"/>
         <source>OCR结果保存目录</source>
-        <translation>OCR result output directory</translation>
+        <translation>OCR result output Directory</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
@@ -351,17 +351,17 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
         <source>递归读取子文件夹</source>
-        <translation>Recursively read subfolders</translation>
+        <translation>Recursively read Subdirectories</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="23"/>
         <source>点击表格，可设置更多内容</source>
-        <translation>clicking on tables, which could provide additional content</translation>
+        <translation>Clicking on tables, which could provide additional content</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation>When importing a folder, import all documents in the subfolders as well</translation>
+        <translation>When importing a directory, import all documents in the subdirectories as well</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
