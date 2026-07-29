@@ -1990,7 +1990,7 @@ Tem efeito quando os tons de cinzento estão ativados e a binarização é super
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="78"/>
         <source>扫码后的操作</source>
-        <translation>Ação após a leitura do código</translation>
+        <translation>Ação após escanear o código</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="82"/>
@@ -2000,7 +2000,7 @@ Tem efeito quando os tons de cinzento estão ativados e a binarização é super
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="86"/>
         <source>弹出主窗口</source>
-        <translation>A janela principal aparece</translation>
+        <translation>Mostrar a janela principal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="87"/>
@@ -2353,12 +2353,12 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
         <source>重新截取上一次截图的范围</source>
-        <translation>Recapture o alcance da última captura de tela</translation>
+        <translation>Recapturar o alcance da última captura de tela</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="52"/>
         <source>识图后的操作</source>
-        <translation>Operações após o reconhecimento de imagem</translation>
+        <translation>Ação após o reconhecimento de imagem</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="56"/>
@@ -2368,12 +2368,12 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="60"/>
         <source>弹出主窗口</source>
-        <translation>A janela principal aparece</translation>
+        <translation>Mostrar a janela principal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="61"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation>Depois que a imagem for reconhecida, se a janela principal estiver minimizada ou em segundo plano, ela aparecerá em primeiro plano</translation>
+        <translation>Após o reconhecimento da imagem, se a janela principal estiver minimizada ou em segundo plano, será trazida para primeiro plano</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="67"/>
@@ -2386,7 +2386,7 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/Size_.qml" line="50"/>
         <source>1.0</source>
-        <translation>1.0</translation>
+        <translation>0.85</translation>
     </message>
 </context>
 <context>
@@ -2399,7 +2399,7 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
         <source>退出 Umi-OCR</source>
-        <translation>Saia do Umi-OCR</translation>
+        <translation>Sair do Umi-OCR</translation>
     </message>
 </context>
 <context>
@@ -2435,17 +2435,17 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="18"/>
         <source>无</source>
-        <translation>não</translation>
+        <translation>Não</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="19"/>
         <source>关机</source>
-        <translation>Desligamento</translation>
+        <translation>Desligar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="20"/>
         <source>休眠</source>
-        <translation>dormência</translation>
+        <translation>Suspender</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
@@ -2465,37 +2465,37 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="48"/>
         <source>系统即将%1</source>
-        <translation>O sistema é de cerca de %1</translation>
+        <translation>O sistema irá %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="55"/>
         <source>排版解析方案</source>
-        <translation>Esquema de análise tipográfica</translation>
+        <translation>Esquema de análise de diagramação</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="56"/>
         <source>按什么方式，解析和排序图片中的文字块</source>
-        <translation>De que forma analisar e ordenar os blocos de texto na imagem</translation>
+        <translation>Método de análise e ordenação de blocos de texto na imagem</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="59"/>
         <source>多栏-按自然段换行</source>
-        <translation>Multi-coluna - linhas de enrolamento em segmentos naturais</translation>
+        <translation>Multicoluna - quebra de linha por parágrafos naturais</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="60"/>
         <source>多栏-总是换行</source>
-        <translation>Várias colunas - sempre quebras de linha</translation>
+        <translation>Várias colunas - sempre quebrar linhas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="61"/>
         <source>多栏-无换行</source>
-        <translation>Várias colunas - sem quebras de linha</translation>
+        <translation>Várias colunas - sem quebra de linha</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation>Coluna única - envolve linhas em segmentos naturais</translation>
+        <translation>Coluna única - quebra de linha por parágrafos naturais</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
@@ -2510,17 +2510,17 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
         <source>单栏-保留缩进</source>
-        <translation>Coluna única - retém o recuo</translation>
+        <translation>Coluna única - preservar recuo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="66"/>
         <source>不做处理</source>
-        <translation>Não o faça</translation>
+        <translation>Sem processamento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="74"/>
         <source>优先内部</source>
-        <translation>Prioridade interna</translation>
+        <translation>Preferir interno</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="75"/>
@@ -2530,7 +2530,7 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="76"/>
         <source>只允许外部</source>
-        <translation>Apenas externo é permitido</translation>
+        <translation>Permitir apenas externo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="77"/>
@@ -2540,12 +2540,12 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="79"/>
         <source>跟随全局设定</source>
-        <translation>Siga as configurações globais</translation>
+        <translation>Usar as configurações globais</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="81"/>
         <source>通知弹窗类型</source>
-        <translation>O tipo de pop-up de notificação</translation>
+        <translation>Tipo de janela pop-up de notificação</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="89"/>
