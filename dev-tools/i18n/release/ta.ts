@@ -2495,7 +2495,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation>ஒற்றை நெடுவரிசை - இயற்கை பத்தி மூலம் கோட்டை மடிக்கவும்</translation>
+        <translation>ஒற்றை நெடுவரிசை - இயற்கை பத்திகளின்படி வரி முறிப்பு</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
@@ -2510,7 +2510,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
         <source>单栏-保留缩进</source>
-        <translation>ஒற்றை நெடுவரிசை - உள்தள்ளலை வைத்திருங்கள்</translation>
+        <translation>ஒற்றை நெடுவரிசை - உள்தள்ளலைப் பாதுகாக்கவும்</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="66"/>
