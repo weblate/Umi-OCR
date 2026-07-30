@@ -238,7 +238,7 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="71"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="75"/>
         <source>指定目录</source>
-        <translation>ספרייה שצוינה</translation>
+        <translation>תיקייה מוגדרת</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="76"/>
@@ -418,7 +418,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="162"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>הזיהוי באצווה הושלם</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="170"/>
@@ -429,22 +429,22 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="256"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="265"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="258"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>זמן שחלף</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="259"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>מצב</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="261"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="263"/>
@@ -454,22 +454,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="262"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>נקה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="264"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר תמונה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="293"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="298"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>יומן</translation>
     </message>
 </context>
 <context>
@@ -477,38 +477,38 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>עיבוד לאחר של טקסט OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>אזור להתעלמות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>פתיחת הגדרות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>משימות באצווה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>שמירה ב־</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>התיקייה המקורית של התמונות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>תיקייה שצוינה o תיקייה מוגדרת</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
@@ -523,7 +523,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>תבנית שם הקובץ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -561,7 +561,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>סוג הקובץ לשמירה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
@@ -636,7 +636,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>קריאה רקורסיבית של תיקיות משנה</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
@@ -646,7 +646,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>אחרים</translation>
     </message>
 </context>
 <context>
@@ -698,7 +698,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="649"/>
         <source>折叠</source>
-        <translation type="unfinished"></translation>
+        <translation>כיווץ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="787"/>
@@ -1156,12 +1156,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>בצע צילום מסך</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>הדבק</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
@@ -1337,7 +1337,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>אישור</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
