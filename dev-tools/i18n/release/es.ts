@@ -469,7 +469,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="298"/>
         <source>记录</source>
-        <translation>Registro</translation>
+        <translation>Registros</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1337,7 @@ Por ejemplo, al procesar por lotes capturas de pantalla de películas o series, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation>Aceptar</translation>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
