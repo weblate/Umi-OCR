@@ -2320,7 +2320,7 @@ Peut être désactivé par défaut dans les paramètres globaux</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="464"/>
         <source>记录</source>
-        <translation>Historique</translation>
+        <translation>Enregistrements</translation>
     </message>
 </context>
 <context>
