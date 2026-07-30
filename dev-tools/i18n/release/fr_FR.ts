@@ -474,7 +474,7 @@ Voulez-vous terminer la tâche et fermer la page&#x202f;?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation>Historique</translation>
+        <translation>Historiques</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1357,7 @@ Par exemple, lors du traitement par lots de captures d’écran de films ou de s
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation>Continuer</translation>
+        <translation>Confirmer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
