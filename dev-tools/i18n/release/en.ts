@@ -21,7 +21,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>Official website</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Report an issue</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
@@ -78,7 +78,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="48"/>
         <source>加密</source>
-        <translation type="unfinished"></translation>
+        <translation>Encrypted</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="60"/>
@@ -1347,7 +1347,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Report an issue</translation>
     </message>
 </context>
 <context>
@@ -1393,12 +1393,13 @@ However, shutting down the computer or exiting the software will discard the tas
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel task
+Discard unfinished content.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="220"/>
         <source>正在运行</source>
-        <translation type="unfinished"></translation>
+        <translation>Running</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
@@ -1459,7 +1460,7 @@ However, shutting down the computer or exiting the software will discard the tas
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>Official website</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
@@ -1668,7 +1669,7 @@ Supported protocols:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/PopupManager.qml" line="13"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -1740,7 +1741,7 @@ Supported protocols:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="394"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="403"/>
@@ -1855,7 +1856,7 @@ Can be set to disabled by default in global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>History</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="444"/>
@@ -2014,7 +2015,7 @@ Effective when grayscale is enabled and binarization is greater than -1. Enter a
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="159"/>
         <source>纠错等级</source>
-        <translation type="unfinished"></translation>
+        <translation>Error correction level</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
@@ -2198,7 +2199,7 @@ Error message: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="112"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Still closed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="120"/>
@@ -2275,7 +2276,7 @@ Can be disabled by default in the global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="464"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Records</translation>
     </message>
 </context>
 <context>
@@ -2283,7 +2284,7 @@ Can be disabled by default in the global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="17"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR text post-processing</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
@@ -2367,7 +2368,7 @@ Can be disabled by default in the global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="62"/>
         <source>云墨黑</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloud Ink Black</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="109"/>
