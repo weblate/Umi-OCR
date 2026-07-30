@@ -2295,7 +2295,7 @@ Puede desactivarse de forma predeterminada en la configuración global</translat
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
         <source>记录</source>
-        <translation>Historial</translation>
+        <translation>Registros</translation>
     </message>
 </context>
 <context>
