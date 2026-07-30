@@ -21,7 +21,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
         <source>官方网站</source>
-        <translation>אתר רשמי</translation>
+        <translation>האתר הרשמי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
@@ -1367,7 +1367,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>דיווח על בעיה</translation>
     </message>
 </context>
 <context>
@@ -1413,12 +1413,13 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול המשימה
+התוכן שלא הושלם יימחק.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="220"/>
         <source>正在运行</source>
-        <translation type="unfinished"></translation>
+        <translation>פועל</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
@@ -1479,12 +1480,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>האתר הרשמי</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>תוספים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
@@ -1642,7 +1643,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="44"/>
         <source>二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>קוד qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="45"/>
@@ -1683,7 +1684,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/PopupManager.qml" line="13"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
@@ -1758,7 +1759,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="394"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>בטל</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="403"/>
@@ -1873,7 +1874,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="428"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>יומן</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="433"/>
@@ -2032,7 +2033,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="145"/>
         <source>纠错等级</source>
-        <translation type="unfinished"></translation>
+        <translation>רמת תיקון השגיאות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="146"/>
@@ -2217,7 +2218,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="109"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>עדיין מושבת</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="117"/>
@@ -2294,7 +2295,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>יומנים</translation>
     </message>
 </context>
 <context>
@@ -2302,7 +2303,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="17"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>עיבוד לאחר טקסט OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
@@ -2386,7 +2387,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="62"/>
         <source>云墨黑</source>
-        <translation type="unfinished"></translation>
+        <translation>שחור דיו עננים</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="109"/>
@@ -2514,7 +2515,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="79"/>
         <source>跟随全局设定</source>
-        <translation type="unfinished"></translation>
+        <translation>לעקוב אחר ההגדרות הגלובליות</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="81"/>
