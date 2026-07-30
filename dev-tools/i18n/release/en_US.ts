@@ -497,7 +497,7 @@ Do you want to end the task and close the page?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation>Batch task</translation>
+        <translation>Batch tasks</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
@@ -1176,7 +1176,7 @@ If you don&apos;t want to see this notification, disable advanced mode in global
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation>Screen capture</translation>
+        <translation>Take a screen capture</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
