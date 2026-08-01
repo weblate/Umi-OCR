@@ -84,7 +84,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="60"/>
         <source>%1个加密文档</source>
-        <translation>%1 encrypted file</translation>
+        <translation>%1 encrypted file(s)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="61"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>文档已加密</source>
-        <translation>File has been encrypted</translation>
+        <translation>The file has been encrypted</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
@@ -111,12 +111,12 @@ Please click on the filename and reset your password</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="89"/>
         <source>排队</source>
-        <translation>In queue</translation>
+        <translation>Queued</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="127"/>
         <source>依然关闭</source>
-        <translation>Confirm close</translation>
+        <translation>Remains disabled</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="134"/>
@@ -129,7 +129,7 @@ Do you want to end the task and close the page?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="243"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="252"/>
         <source>文档</source>
-        <translation>File</translation>
+        <translation>Document</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="245"/>
@@ -139,7 +139,7 @@ Do you want to end the task and close the page?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="248"/>
         <source>打开文档</source>
-        <translation>Open documents</translation>
+        <translation>Open document</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="250"/>
@@ -164,12 +164,12 @@ Do you want to end the task and close the page?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation>Contents</translation>
+        <translation>Number of pages</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
         <source>请选择文档</source>
-        <translation>Please select a file</translation>
+        <translation>Please select a document</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="281"/>
@@ -192,7 +192,7 @@ Do you want to end the task and close the page?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="42"/>
         <source>文档处理</source>
-        <translation>document processing</translation>
+        <translation>Document processing</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="46"/>
