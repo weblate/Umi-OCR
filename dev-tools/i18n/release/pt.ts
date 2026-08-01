@@ -84,7 +84,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="60"/>
         <source>%1个加密文档</source>
-        <translation>%1 documento encriptado</translation>
+        <translation>%1 ficheiro encriptado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="61"/>
@@ -106,30 +106,30 @@ Clique no nome do documento para definir uma palavra-passe</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="174"/>
         <source>失败</source>
-        <translation>reprovado</translation>
+        <translation>Falhou</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="89"/>
         <source>排队</source>
-        <translation>Fila</translation>
+        <translation>Em Fila</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="127"/>
         <source>依然关闭</source>
-        <translation>Ainda fechado</translation>
+        <translation>Permanece desativado</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="134"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation>A missão está em curso.
-Quer terminar uma tarefa e fechar a página?</translation>
+        <translation>Existe uma tarefa em curso.
+Deseja interromper a tarefa e fechar a página?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="243"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="252"/>
         <source>文档</source>
-        <translation>documentação</translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="245"/>
@@ -139,7 +139,7 @@ Quer terminar uma tarefa e fechar a página?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="248"/>
         <source>打开文档</source>
-        <translation>Abrir o documento</translation>
+        <translation>Abrir documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="250"/>
@@ -149,12 +149,12 @@ Quer terminar uma tarefa e fechar a página?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="249"/>
         <source>清空</source>
-        <translation>vazio</translation>
+        <translation>Vazio</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="166"/>
         <source>文档识别异常</source>
-        <translation>Anomalias no reconhecimento de documentos</translation>
+        <translation>Erro no reconhecimento do documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="180"/>
@@ -164,12 +164,12 @@ Quer terminar uma tarefa e fechar a página?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation>Pages</translation>
+        <translation>Número de páginas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
         <source>请选择文档</source>
-        <translation>Selecione um documento</translation>
+        <translation>Selecione o documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="281"/>
