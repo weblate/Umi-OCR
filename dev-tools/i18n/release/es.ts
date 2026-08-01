@@ -74,7 +74,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="163"/>
         <source>%1个加密文档</source>
-        <translation>%1 Encriptación del archivo</translation>
+        <translation>%1 archivo(s) cifrado(s)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="164"/>
@@ -101,7 +101,7 @@ Haga clic en el archivo para resetear la contraseña</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="82"/>
         <source>排队</source>
-        <translation>Espere en la cola</translation>
+        <translation>En cola</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="120"/>
@@ -119,7 +119,7 @@ Haga clic en el archivo para resetear la contraseña</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="268"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="277"/>
         <source>文档</source>
-        <translation>Documentación</translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="270"/>
@@ -129,7 +129,7 @@ Haga clic en el archivo para resetear la contraseña</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="273"/>
         <source>打开文档</source>
-        <translation>Abrir el documento</translation>
+        <translation>Abrir documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="275"/>
@@ -144,7 +144,7 @@ Haga clic en el archivo para resetear la contraseña</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="52"/>
         <source>文件读取中…</source>
-        <translation>Lectura de archivos…</translation>
+        <translation>Leyendo archivos…</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="191"/>
@@ -159,7 +159,7 @@ Haga clic en el archivo para resetear la contraseña</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="271"/>
         <source>页数</source>
-        <translation>Páginas</translation>
+        <translation>Número de páginas</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="276"/>
