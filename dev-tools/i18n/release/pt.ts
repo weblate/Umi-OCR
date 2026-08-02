@@ -311,22 +311,22 @@ Gerado: 09-01-2023 _12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="117"/>
         <source>p.txt 纯文字格式</source>
-        <translation>P.xt formato de texto simples</translation>
+        <translation>P.xt Formato de texto simples</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="118"/>
         <source>输出所有识别文字</source>
-        <translation>Saída de todo o texto reconhecido</translation>
+        <translation>Exportar todo o texto reconhecido</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="122"/>
         <source>csv 表格文件(Excel)</source>
-        <translation>Arquivo de tabela csv (Excel)</translation>
+        <translation>csv Arquivo de tabela (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>Escrever as informações sobre o número de páginas e o conteúdo reconhecido em um arquivo de tabela csv. Pode ser aberto no Excel e salvo no formato xlsx.</translation>
+        <translation>Escreve as informações do número de páginas e o conteúdo reconhecido em um arquivo de tabela csv. Pode ser aberto com o Excel e salvo no formato xlsx.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
@@ -2425,7 +2425,7 @@ Pode ser desativado por predefinição nas configurações globais</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="11"/>
         <source>任务完成后的操作</source>
-        <translation>A ação após a conclusão da tarefa</translation>
+        <translation>Ação após a conclusão da tarefa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="15"/>
