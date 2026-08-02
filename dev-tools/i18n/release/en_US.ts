@@ -306,7 +306,7 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="113"/>
         <source>含识别文字和页数信息</source>
-        <translation>Contains Recognized Text and Page Number Information</translation>
+        <translation>Contains recognized text and page number information</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="117"/>
@@ -316,7 +316,7 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="118"/>
         <source>输出所有识别文字</source>
-        <translation>Output All Recognized Text</translation>
+        <translation>Output all recognized text</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="122"/>
@@ -346,7 +346,7 @@ Generated: 2023-09-01_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
         <source>若某一页没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation>If a page contains no text or fails to be recognized, no error message will be output</translation>
+        <translation>If a page contains no text or fails to be recognized, no error message will be displayed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
