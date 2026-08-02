@@ -449,7 +449,7 @@ Agregar marcadores de posición puede evitar que los archivos antiguos sean sobr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="263"/>
         <source>拖入图片或文件夹</source>
-        <translation>Arrastre imágenes o carpetas</translation>
+        <translation>Arrastre imágenes o carpetas aquí</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="262"/>
