@@ -687,12 +687,13 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="472"/>
         <source>显示更多高级选项。它们标有 * 号。
 请谨慎修改高级选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>더 많은 고급 옵션을 표시합니다. * 기호로 표시됩니다.
+고급 옵션은 신중하게 변경하세요.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="649"/>
         <source>展开</source>
-        <translation type="unfinished"></translation>
+        <translation>펼치기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="649"/>
@@ -702,7 +703,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="787"/>
         <source>必须为整数</source>
-        <translation type="unfinished"></translation>
+        <translation>정수여야 합니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="791"/>
