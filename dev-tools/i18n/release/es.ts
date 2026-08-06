@@ -723,7 +723,7 @@ Modifique las opciones avanzadas con precaución.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1108"/>
         <source>已取消%1的快捷键。</source>
-        <translation>Se ha cancelado el atajo de teclado de %1.</translation>
+        <translation>Se canceló la tecla de acceso rápido de %1.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1118"/>
@@ -733,17 +733,17 @@ Modifique las opciones avanzadas con precaución.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1118"/>
         <source>%1的快捷键为 %2</source>
-        <translation>El atajo de teclado de %1 es %2</translation>
+        <translation>La tecla de acceso rápido de %1 es %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1126"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation>El atajo de teclado %2 de %1 ya está registrado, intente con otra combinación de teclas.</translation>
+        <translation>La tecla de acceso rápido %2 de %1 ya está registrada; intente otra combinación de teclas.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1129"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation>El atajo de teclado %2 de %1 no se puede registrar, intente con otra combinación de teclas.</translation>
+        <translation>La tecla de acceso rápido %2 de %1 no se puede registrar, intente con otra combinación de teclas.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1138"/>
@@ -753,12 +753,12 @@ Modifique las opciones avanzadas con precaución.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1151"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation>¡La grabación del atajo de teclado actual ya está en curso, no se puede grabar al mismo tiempo!</translation>
+        <translation>¡La grabación de la tecla de acceso rápido actual está en curso; no se puede grabar al mismo tiempo!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>无法录制快捷键</source>
-        <translation>No se puede grabar el atajo de teclado</translation>
+        <translation>No se puede grabar la tecla de acceso rápido</translation>
     </message>
 </context>
 <context>
@@ -766,7 +766,7 @@ Modifique las opciones avanzadas con precaución.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation>Suelte para colocar el archivo</translation>
+        <translation>Suelte para añadir el archivo</translation>
     </message>
 </context>
 <context>
@@ -1059,12 +1059,12 @@ Se esperará con un retraso hasta que la ventana principal se cierre</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>提示</source>
-        <translation>Sugerencia</translation>
+        <translation>Indicaciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation>No se encontraron accesos directos para eliminar.</translation>
+        <translation>No se encontró ningún acceso directo para eliminar.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="360"/>
@@ -1109,13 +1109,13 @@ Si no desea ver esta notificación, desactive el modo avanzado en la configuraci
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation>1. Configure opciones como los atajos de teclado y el idioma del OCR en la página correspondiente de cada función.
-2. Marque la opción «Avanzado» en la esquina inferior izquierda para mostrar más opciones de configuración.</translation>
+        <translation>1. Configure las opciones de tecla de acceso rápido, idioma OCR y otras opciones en cada página de función.
+2. Marque el botón &quot;Avanzado&quot; en la esquina inferior izquierda para mostrar más opciones avanzadas.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation>Sugerencias</translation>
+        <translation>Sugerencia</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1311,7 @@ Por ejemplo, al procesar por lotes capturas de pantalla de películas o series, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation>El modo en segundo plano está activado; puede utilizar las funciones mediante atajos de teclado.</translation>
+        <translation>El modo en segundo plano está activado; puede utilizar las funciones mediante teclas de acceso rápido.</translation>
     </message>
 </context>
 <context>
@@ -1887,7 +1887,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="14"/>
         <source>快捷键</source>
-        <translation>Atajo de teclado</translation>
+        <translation>Teclas de acceso rápido</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
@@ -2308,7 +2308,7 @@ Puede desactivarse de forma predeterminada en la configuración global</translat
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
         <source>快捷键</source>
-        <translation>Atajo de teclado</translation>
+        <translation>Tecla de acceso rápido</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
