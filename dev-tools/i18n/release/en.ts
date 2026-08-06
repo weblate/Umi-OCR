@@ -705,57 +705,57 @@ Please modify advanced options with caution.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="806"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>Must not exceed</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>Must not be less than</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>Must be a number</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut for %1 canceled.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>更新热键成功</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotkey updated successfully</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>%1的快捷键为 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotkey for %1 is %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1141"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>The %1 hotkey %2 is already registered. Please try another key combination.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1144"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>The %1 hotkey %2 cannot be registered. Please try another key combination.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation type="unfinished"></translation>
+        <translation>Press the hotkey combination. Press 【Esc】 to exit.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>The current hotkey recording is in progress. It cannot be recorded at the same time!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1168"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to record hotkey</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@ Please modify advanced options with caution.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Release to add file</translation>
     </message>
 </context>
 <context>
@@ -771,24 +771,26 @@ Please modify advanced options with caution.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="107"/>
         <source>界面</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="115"/>
         <source>内容</source>
-        <translation type="unfinished"></translation>
+        <translation>Content</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
         <source>界面字体：
 软件中大部分UI的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface font:
+The font used by most of the software UI.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Content font:
+The font of the recognized result content.</translation>
     </message>
 </context>
 <context>
@@ -796,72 +798,72 @@ Please modify advanced options with caution.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="20"/>
         <source>快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="24"/>
         <source>桌面</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="32"/>
         <source>开始菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Menu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="40"/>
         <source>开机自启</source>
-        <translation type="unfinished"></translation>
+        <translation>Run at system startup</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="51"/>
         <source>界面和外观</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface and Appearance</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="56"/>
         <source>主题</source>
-        <translation type="unfinished"></translation>
+        <translation>Theme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
         <source>切换主题</source>
-        <translation type="unfinished"></translation>
+        <translation>Switch theme</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="65"/>
         <source>字体</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="68"/>
         <source>修改字体</source>
-        <translation type="unfinished"></translation>
+        <translation>Change font</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="83"/>
         <source>界面与文字大小</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface and Text Size</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="99"/>
         <source>渲染器</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="103"/>
         <source>关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable hardware acceleration</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>If interface issues such as flickering or misplaced elements occur, try switching the renderer or disabling hardware acceleration</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable visual effects</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
@@ -1076,12 +1078,12 @@ Please modify advanced options with caution.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>Instructions</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>No removable shortcut found.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
@@ -1113,7 +1115,8 @@ Please modify advanced options with caution.</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Configure hotkey, OCR language, and other options on each function page.
+2. Check the &quot;Advanced&quot; button in the lower-left corner to show more advanced options.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
