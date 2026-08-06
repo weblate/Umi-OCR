@@ -733,7 +733,7 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>更新热键成功</source>
-        <translation>Atualizar hotkey com sucesso</translation>
+        <translation>A tecla de atalho foi atualizada com sucesso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
@@ -771,7 +771,7 @@ Por favor, modifique as opções avançadas com cuidado.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation>Solta Põe o ficheiro</translation>
+        <translation>Solte para adicionar o arquivo</translation>
     </message>
 </context>
 <context>
