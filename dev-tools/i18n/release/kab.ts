@@ -706,57 +706,57 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="806"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yezmir ara ad iɛeddi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yezmir ara ad yili ddaw n</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>Ilaq ad yili d amḍan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw n %1 yettwakkes.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>更新热键成功</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw yettwaleqqem akken iwata</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
         <source>%1的快捷键为 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw n %1 d %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1141"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw %2 n %1 yettwaskles yakan. Ɛreḍ asuddes nniḍen n wuraḍ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1144"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n unasiw %2 n %1 ur yezmir ara ad yettwaskles. Ɛreḍ asuddes nniḍen n wuraḍ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation type="unfinished"></translation>
+        <translation>Ssed asuddes n unasiw n ufus. Ssed ɣef 【Esc】 akken ad teffɣeḍ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>Asekles n unasiw n ufus amiran yella deg usenfar; ur yezmir ara ad yettwasekles deg yiwet n tikkelt!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1168"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yezmir ara ad yekles anegzum n unasiw</translation>
     </message>
 </context>
 <context>
@@ -764,7 +764,7 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Sserḥ akken ad ternuḍ afaylu</translation>
     </message>
 </context>
 <context>
@@ -783,13 +783,15 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
         <source>界面字体：
 软件中大部分UI的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasekla n ugrudem:
+Tasekla i yettwaseqdec deg tuget n ugrudem UI n useɣẓan.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasekla n ugbur:
+Tasekla n ugbur n yigemma yettwassnen.</translation>
     </message>
 </context>
 <context>
@@ -797,7 +799,7 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="20"/>
         <source>快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="24"/>
@@ -807,17 +809,17 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="32"/>
         <source>开始菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Umuɣ n usenker</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="40"/>
         <source>开机自启</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekker s wudem awurman mi ara yekker unagraw</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="51"/>
         <source>界面和外观</source>
-        <translation type="unfinished"></translation>
+        <translation>Agers d tmeẓri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="56"/>
@@ -827,7 +829,7 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
         <source>切换主题</source>
-        <translation type="unfinished"></translation>
+        <translation>Beddel asentel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="65"/>
@@ -837,32 +839,32 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="68"/>
         <source>修改字体</source>
-        <translation type="unfinished"></translation>
+        <translation>Beddel tasekla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="83"/>
         <source>界面与文字大小</source>
-        <translation type="unfinished"></translation>
+        <translation>Agers d teɣzi n uḍris</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="99"/>
         <source>渲染器</source>
-        <translation type="unfinished"></translation>
+        <translation>Amsefrak n usken</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="103"/>
         <source>关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>Sens asirem n warrum</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma d-yili usemɣer n ugrudem, am usfaylu neɣ asemsawi n yiferdisen, ɛreḍ ad tesnefleḍ amsefrak neɣ ad tsensḍ asirem n warrum</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>Ssens imruyen n twalit</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
@@ -1077,12 +1079,12 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>Iwellihen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac anegzum i izemren ad yettwakkes.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
@@ -1114,7 +1116,8 @@ Beddel tinefrunin tineqqurin s lḥader.</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Sbadu iɣewwaṛen n unasiw n ufus, tutlayt OCR d wiyaḍ deg yal asebtar n twuri.
+2. Creḍ taqeffalt &quot;Anfad&quot; deg tama tazelmaḍt n wadda akken ad twalayeḍ ugar n iɣewwaṛen anfaden.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
