@@ -708,57 +708,57 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="791"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>초과할 수 없습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="794"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>미만일 수 없습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="801"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>숫자여야 합니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1108"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 단축키가 취소되었습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1118"/>
         <source>更新热键成功</source>
-        <translation type="unfinished"></translation>
+        <translation>단축키가 성공적으로 업데이트되었습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1118"/>
         <source>%1的快捷键为 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 단축키는 %2입니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1126"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 단축키 %2가 이미 등록되었습니다. 다른 키 조합을 시도하세요.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1129"/>
         <source>%1 快捷键%2无法注册，请尝试另外的按键组合。</source>
-        <translation type="unfinished"></translation>
+        <translation>%1의 단축키 %2를 등록할 수 없습니다. 다른 키 조합을 시도하세요.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1138"/>
         <source>请按下快捷键组合。按【Esc】退出。</source>
-        <translation type="unfinished"></translation>
+        <translation>단축키 조합을 누르세요. 【Esc】 키를 눌러 종료하세요.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1151"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 단축키 녹화가 진행 중이므로 동시에 녹화할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1153"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>단축키를 녹화할 수 없습니다</translation>
     </message>
 </context>
 <context>
@@ -766,7 +766,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>손을 놓아 파일을 추가하세요</translation>
     </message>
 </context>
 <context>
@@ -774,24 +774,26 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="107"/>
         <source>界面</source>
-        <translation type="unfinished"></translation>
+        <translation>인터페이스</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="115"/>
         <source>内容</source>
-        <translation type="unfinished"></translation>
+        <translation>내용</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="210"/>
         <source>界面字体：
 软件中大部分UI的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>인터페이스 글꼴:
+소프트웨어 UI 대부분에 사용되는 글꼴입니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="218"/>
         <source>内容字体：
 识别结果内容的字体。</source>
-        <translation type="unfinished"></translation>
+        <translation>내용 글꼴:
+인식 결과 내용에 사용되는 글꼴입니다.</translation>
     </message>
 </context>
 <context>
@@ -799,72 +801,72 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="20"/>
         <source>快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="24"/>
         <source>桌面</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="32"/>
         <source>开始菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>시작 메뉴</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="40"/>
         <source>开机自启</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 시작 시 자동 실행</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="51"/>
         <source>界面和外观</source>
-        <translation type="unfinished"></translation>
+        <translation>인터페이스 및 모양</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="56"/>
         <source>主题</source>
-        <translation type="unfinished"></translation>
+        <translation>테마</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="61"/>
         <source>切换主题</source>
-        <translation type="unfinished"></translation>
+        <translation>테마 변경</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="65"/>
         <source>字体</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="68"/>
         <source>修改字体</source>
-        <translation type="unfinished"></translation>
+        <translation>글꼴 변경</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="83"/>
         <source>界面与文字大小</source>
-        <translation type="unfinished"></translation>
+        <translation>인터페이스 및 글자 크기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="99"/>
         <source>渲染器</source>
-        <translation type="unfinished"></translation>
+        <translation>렌더러</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="103"/>
         <source>关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>하드웨어 가속 끄기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>인터페이스 깜박임, 요소 위치 어긋남 등의 문제가 발생하면 렌더러를 변경하거나 하드웨어 가속을 끄세요</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>꾸미기 효과 비활성화</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
@@ -1054,12 +1056,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>안내</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>제거할 수 있는 바로 가기를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="360"/>
@@ -1101,7 +1103,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. 단축키, OCR 언어 등의 옵션은 각 기능 페이지에서 설정하세요.
+2. 왼쪽 하단의 &quot;고급&quot; 버튼을 선택하면 더 많은 고급 옵션을 표시할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
@@ -2260,7 +2263,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="24"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>단축키</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
