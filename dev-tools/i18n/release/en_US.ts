@@ -743,7 +743,7 @@ Please be cautious when modifying advanced options.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1141"/>
         <source>%1 快捷键%2已被注册，请尝试另外的按键组合。</source>
-        <translation>Hotkey %2 for %1 is already registered, please try another key combination.</translation>
+        <translation>Hotkey %2 for %1 is already registered. Please try another key combination.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1144"/>
@@ -791,7 +791,7 @@ Please be cautious when modifying advanced options.</translation>
         <source>界面字体：
 软件中大部分UI的字体。</source>
         <translation>Interface font:
-The font for most of the UI in the software.</translation>
+The font used by most of the software UI.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="219"/>
