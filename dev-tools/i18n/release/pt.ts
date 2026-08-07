@@ -903,7 +903,7 @@ Aplicar a todos os componentes de pré-visualização de imagens</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
         <source>软件启动时，不弹出主窗口</source>
-        <translation>Quando o software é iniciado, a janela principal não aparece</translation>
+        <translation>Não exibir a janela principal ao iniciar o programa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="138"/>
