@@ -898,7 +898,7 @@ Aplicar a todos los componentes de vista previa de imágenes</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
         <source>软件启动时，不弹出主窗口</source>
-        <translation>No mostrar la ventana principal al iniciar el software</translation>
+        <translation>No mostrar la ventana principal al iniciar el programa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="138"/>
