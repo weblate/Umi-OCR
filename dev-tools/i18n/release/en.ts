@@ -868,63 +868,64 @@ The font of the recognized result content.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>On low-end machines, disabling effects such as animations and shadows can reduce some resource usage</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
         <source>图片预览默认显示叠加层</source>
-        <translation type="unfinished"></translation>
+        <translation>Image preview displays the overlay by default</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="123"/>
         <source>默认开启/关闭叠加层显示
 对所有图片预览组件生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable/disable overlay display by default
+Applies to all image preview components</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="129"/>
         <source>窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Window</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="133"/>
         <source>启动时缩小到任务栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimize to the taskbar on startup</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
         <source>软件启动时，不弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Do not show the main window when the software starts</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="138"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Always on top</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="140"/>
         <source>捷径：窗口左上角图钉</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut: Pin icon in the top left corner of the window</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="146"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock tab bar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="148"/>
         <source>捷径：窗口右上角小锁</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut: Lock icon in the top right corner of the window</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="154"/>
         <source>关闭主窗口时</source>
-        <translation type="unfinished"></translation>
+        <translation>When closing the main window</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="156"/>
         <source>最小化到系统托盘</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimize to the system tray</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="157"/>
