@@ -871,63 +871,64 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>저사양 기기에서는 애니메이션, 그림자 등의 효과를 비활성화하면 일부 리소스 사용량을 줄일 수 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
         <source>图片预览默认显示叠加层</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 미리보기에서 기본적으로 오버레이를 표시합니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="123"/>
         <source>默认开启/关闭叠加层显示
 对所有图片预览组件生效</source>
-        <translation type="unfinished"></translation>
+        <translation>기본적으로 오버레이 표시 활성화/비활성화
+모든 이미지 미리보기 구성 요소에 적용됩니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="129"/>
         <source>窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>창</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="133"/>
         <source>启动时缩小到任务栏</source>
-        <translation type="unfinished"></translation>
+        <translation>시작 시 작업 표시줄로 최소화</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
         <source>软件启动时，不弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>프로그램 시작 시 기본 창을 표시하지 않음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="138"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>창 항상 위에 표시</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="140"/>
         <source>捷径：窗口左上角图钉</source>
-        <translation type="unfinished"></translation>
+        <translation>단축: 창 왼쪽 위 모서리의 핀 아이콘</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="146"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>탭 표시줄 잠금</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="148"/>
         <source>捷径：窗口右上角小锁</source>
-        <translation type="unfinished"></translation>
+        <translation>단축: 창 오른쪽 위 모서리의 작은 자물쇠 아이콘</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="154"/>
         <source>关闭主窗口时</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 창을 닫을 때</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="156"/>
         <source>最小化到系统托盘</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 트레이로 최소화</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="157"/>
