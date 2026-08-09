@@ -933,126 +933,128 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="157"/>
         <source>退出应用</source>
-        <translation type="unfinished"></translation>
+        <translation>앱 종료</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="161"/>
         <source>隐藏托盘图标</source>
-        <translation type="unfinished"></translation>
+        <translation>트레이 아이콘 숨기기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="162"/>
         <source>若要弹出位于后台的软件窗口，请在文件管理器中重复启动软件。
 若要彻底退出软件，请从任务管理器中结束进程。</source>
-        <translation type="unfinished"></translation>
+        <translation>백그라운드에서 실행 중인 프로그램 창을 표시하려면 파일 탐색기에서 프로그램을 다시 실행하세요.
+프로그램을 완전히 종료하려면 작업 관리자에서 프로세스를 종료하세요.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="184"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
         <source>截图前隐藏主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷을 찍기 전에 기본 창 숨기기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="189"/>
         <source>截图前，如果主窗口处于前台，则隐藏主窗口
 将会延时等待主窗口关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>将会延时等待主窗口关闭
+기본 창이 닫힐 때까지 지연하여 기다립니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="193"/>
         <source>隐藏等待时间</source>
-        <translation type="unfinished"></translation>
+        <translation>숨김 대기 시간</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="196"/>
         <source>秒</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="204"/>
         <source>服务</source>
-        <translation type="unfinished"></translation>
+        <translation>서비스</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="209"/>
         <source>允许HTTP服务</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP 서비스 허용</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="210"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR은 HTTP 인터페이스를 통해 로컬 프로세스 간 통신을 수행합니다. 비활성화하면 명령줄 모드, 다중 실행 감지 등의 기능을 사용할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="213"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="225"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="412"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>프로그램을 다시 시작한 후 적용됩니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="217"/>
         <source>主机</source>
-        <translation type="unfinished"></translation>
+        <translation>호스트</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="219"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>로컬만</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="220"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 모든 주소</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>Lan 액세스를 허용합니다. 해당 방화벽 권한을 활성화하세요!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="224"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>Lan 액세스를 차단합니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="230"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>포트</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="307"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>소프트웨어 경로를 변경해 보세요!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="308"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>설정 파일 읽기/쓰기 오류</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="324"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>플러그인 로드 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="339"/>
         <source>成功添加快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기를 성공적으로 추가했습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기 추가 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="349"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기 %1개를 성공적으로 제거했습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="352"/>
