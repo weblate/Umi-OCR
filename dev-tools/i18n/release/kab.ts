@@ -1092,17 +1092,17 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnifel n umsefrak ad yeddu seld tnekra n useɣẓan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="441"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>Uṭṭun n tewwurt mačči d ameɣtu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uṭṭun n tewwurt yettwabeddel ɣer %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="455"/>
@@ -1110,7 +1110,10 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Uṭṭun n tewwurt aneẓẓul %1 yettwasekles,
+ad yettwabeddel ɣer uṭṭun n tewwurt amaynut %2.
+
+Ma tebɣiḍ ad tḥebseḍ talɣut-agi, ssens mode afellay deg yiɣewwaren imatuten.</translation>
     </message>
 </context>
 <context>
@@ -1125,7 +1128,7 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismekti</translation>
     </message>
 </context>
 <context>
@@ -1133,12 +1136,12 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Sers-as n uselkim n usfaylu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekker afeggag n yicfawen</translation>
     </message>
 </context>
 <context>
@@ -1146,22 +1149,22 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Umuɣ n tqeffalt tazelmaḍt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekles tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Teɣzi n tugna: Sers ɣer usfaylu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Teɣzi n tugna: Teɣzi tamezwarut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
@@ -1195,22 +1198,28 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Sers-d tugna n daxel: taskant n OCR
+Taftilt: semɣer/sserwes
+Taqeffalt tazelmaḍt: amussu
+Taqeffalt tayfust: rnu tamnaḍt n ussiref
+
+Tzemreḍ ad ternuḍ yiwet neɣ ugar n tmiḍranin n ussiref. Mi ara tselkemeḍ OCR s wudem n ufus, imedya n uḍris i yettwafren akk deg tamnaḍt n ussiref ad ttwasren.
+Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem n ufus, tzemreḍ ad ternuḍ tamnaḍt n ussiref ɣef watermark deg tama n ufella tazelmaḍt, akken ad tesreḍ ad d-yban uḍris n watermark deg ufella n tririt.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>Tisekta n tugna:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
         <source>区域数量：</source>
-        <translation type="unfinished"></translation>
+        <translation>Amḍan n temnaḍin:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="156"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>Ssew</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
@@ -1223,33 +1232,33 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="64"/>
         <source>复制图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur nɣel n tugna yecceḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yeldi tugna yecceḍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="100"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekles tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur sekles n tugna yecceḍ</translation>
     </message>
 </context>
 <context>
@@ -1257,17 +1266,17 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna: %1 n yisekkilen yettwanɣel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
         <source>图片：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna: Ulac aḍris yettwafernen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna: %1 n yisekkilen akk yettwanɣel</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
