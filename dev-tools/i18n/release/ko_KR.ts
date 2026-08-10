@@ -1079,17 +1079,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="400"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>렌더러 변경 사항은 프로그램을 다시 시작한 후 적용됩니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="407"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>포트 번호가 올바르지 않습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="412"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>포트 번호가 %1(으)로 변경되었습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="421"/>
@@ -1097,7 +1097,10 @@
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>기존 포트 번호 %1이(가) 사용 중이므로,
+새 포트 번호 %2로 전환합니다.
+
+이 알림을 표시하지 않으려면 전역 설정에서 고급 모드를 끄세요.</translation>
     </message>
 </context>
 <context>
@@ -1112,7 +1115,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>팁</translation>
     </message>
 </context>
 <context>
@@ -1120,12 +1123,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>창을 항상 위에 표시</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>탭 표시줄 잠금</translation>
     </message>
 </context>
 <context>
@@ -1133,22 +1136,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>마우스 오른쪽 버튼 메뉴</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 저장</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 크기: 창에 맞추기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 크기: 실제 크기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
@@ -1168,7 +1171,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 붙여넣기</translation>
     </message>
 </context>
 <context>
@@ -1182,27 +1185,33 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>로컬 이미지를 끌어오기: OCR 미리보기
+휠: 확대/축소
+왼쪽 버튼: 드래그
+오른쪽 버튼: 제외 영역 그리기
+
+하나 이상의 제외 영역 사각형을 그릴 수 있습니다. 일괄 OCR 실행 시 제외 영역 안에 완전히 포함된 텍스트 블록은 제외됩니다.
+예를 들어 영화나 드라마 스크린샷을 일괄 처리할 때 오른쪽 위의 워터마크에 제외 영역을 추가하면 워터마크 텍스트가 출력되는 것을 방지할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 크기:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
         <source>区域数量：</source>
-        <translation type="unfinished"></translation>
+        <translation>영역 수:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="156"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 취소</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>비우기</translation>
     </message>
 </context>
 <context>
@@ -1210,33 +1219,33 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="64"/>
         <source>复制图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 복사 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 열기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 열기 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="100"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 저장</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 저장 실패</translation>
     </message>
 </context>
 <context>
@@ -1244,22 +1253,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지: %1자 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
         <source>图片：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지: 선택한 텍스트 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지: %1자 모두 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
         <source>复制&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>복사&#x3000;&#x3000;(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
