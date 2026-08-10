@@ -1091,17 +1091,17 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderer changes will take effect after restarting the software</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="441"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid port number</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Port number changed to %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="455"/>
@@ -1109,7 +1109,10 @@ Wait for the main window to close after a delay</translation>
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>The original port number %1 is occupied,
+switching to the new port number %2.
+
+If you don&apos;t want to see this notification, disable Advanced Mode in Global Settings.</translation>
     </message>
 </context>
 <context>
@@ -1124,7 +1127,7 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips</translation>
     </message>
 </context>
 <context>
@@ -1132,12 +1135,12 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Keep window on top</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Lock tab bar</translation>
     </message>
 </context>
 <context>
@@ -1145,22 +1148,22 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Right-click menu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Save image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Image size: Fit to window</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Image size: Actual size</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
@@ -1180,7 +1183,7 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste image</translation>
     </message>
 </context>
 <context>
@@ -1194,27 +1197,33 @@ Wait for the main window to close after a delay</translation>
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag in a local image: OCR Preview
+Wheel: Zoom
+Left button: Drag
+Right button: Draw exclusion area
+
+You can draw one or more exclusion area rectangles. When performing batch OCR, text blocks that are completely within an exclusion area will be excluded.
+For example, when batch processing movie or TV screenshots, you can add an exclusion area over the watermark in the upper-right corner to prevent the watermark text from appearing in the output.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>Image dimensions:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
         <source>区域数量：</source>
-        <translation type="unfinished"></translation>
+        <translation>Number of regions:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="156"/>
         <source>撤销</source>
-        <translation type="unfinished"></translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>Clear</translation>
     </message>
 </context>
 <context>
@@ -1222,33 +1231,33 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="64"/>
         <source>复制图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to copy image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Open image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to Open Image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="100"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Save Image</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to Save Image</translation>
     </message>
 </context>
 <context>
@@ -1256,7 +1265,7 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Image: Copied %1 Characters</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
@@ -1266,7 +1275,7 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Image: Copy All %1 Characters</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
