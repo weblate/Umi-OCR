@@ -1115,7 +1115,7 @@ Si no desea ver esta notificación, desactive el modo avanzado en la configuraci
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation>Sugerencia</translation>
+        <translation>Sugerencias</translation>
     </message>
 </context>
 <context>
