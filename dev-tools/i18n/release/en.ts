@@ -1285,22 +1285,22 @@ For example, when batch processing movie or TV screenshots, you can add an exclu
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
         <source>全选&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>Select All&#x3000;&#x3000;(Ctrl+A)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="278"/>
         <source>复制图片（Ctrl+X）</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy Image (Ctrl+X)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
         <source>保存图片（Ctrl+S）</source>
-        <translation type="unfinished"></translation>
+        <translation>Save Image (Ctrl+S)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="280"/>
         <source>显示/隐藏文字（Tab）</source>
-        <translation type="unfinished"></translation>
+        <translation>Show/Hide Text (Tab)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
@@ -1310,7 +1310,7 @@ For example, when batch processing movie or TV screenshots, you can add an exclu
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
         <source>删除图片（Ctrl+D）</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete Image (Ctrl+D)</translation>
     </message>
 </context>
 <context>
@@ -1318,12 +1318,12 @@ For example, when batch processing movie or TV screenshots, you can add an exclu
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Welcome to Umi-OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Background Mode has been enabled. You can use the functions with keyboard shortcuts.</translation>
     </message>
 </context>
 <context>
@@ -1331,12 +1331,12 @@ For example, when batch processing movie or TV screenshots, you can add an exclu
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Web Page</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Link</translation>
     </message>
 </context>
 <context>
@@ -1354,7 +1354,7 @@ For example, when batch processing movie or TV screenshots, you can add an exclu
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation type="unfinished"></translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
