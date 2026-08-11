@@ -1286,32 +1286,32 @@ Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
         <source>全选&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>Fren akk&#x3000;&#x3000;(Ctrl+A)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="278"/>
         <source>复制图片（Ctrl+X）</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel tugna (Ctrl+X)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
         <source>保存图片（Ctrl+S）</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekles tugna (Ctrl+S)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="280"/>
         <source>显示/隐藏文字（Tab）</source>
-        <translation type="unfinished"></translation>
+        <translation>Sken/ffer aḍris (Tab)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi tugna s usnas amezwer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
         <source>删除图片（Ctrl+D）</source>
-        <translation type="unfinished"></translation>
+        <translation>Kkes tugna (Ctrl+D)</translation>
     </message>
 </context>
 <context>
@@ -1319,12 +1319,12 @@ Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Ansuf ɣer Umi-OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Yettwasel uskar n deffir. Tzemreḍ ad tesqedceḍ timahilin s yifuras n unasiw.</translation>
     </message>
 </context>
 <context>
@@ -1332,7 +1332,7 @@ Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi asebter web</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
@@ -1355,12 +1355,12 @@ Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation type="unfinished"></translation>
+        <translation>Yella kra n wugur meẓẓiyen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
         <source>发生了一点小问题</source>
-        <translation type="unfinished"></translation>
+        <translation>Alɣu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="117"/>
