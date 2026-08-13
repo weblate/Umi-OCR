@@ -1618,7 +1618,7 @@ Deseja encerrar todas as tarefas à força?</translation>
 屏幕截图，快捷转文字。也支持粘贴图片。</source>
         <translation># Captura de tela OCR
 
-Capturas de tela, rápido para texto. A colagem de imagens também é suportada.</translation>
+Capturas de tela, rápido para texto. Também é possível colar imagens.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="51"/>
@@ -1650,7 +1650,7 @@ Formatos suportados:</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="37"/>
         <source>批量文档</source>
-        <translation>Documentos em lote</translation>
+        <translation>Documentos em lotes</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/PagesManager.qml" line="38"/>
