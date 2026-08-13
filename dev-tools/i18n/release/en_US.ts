@@ -1377,7 +1377,7 @@ For example, when processing screenshots of watermarked images, you can add an i
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>已复制报错信息 %1</source>
-        <translation>Error message copied. %1</translation>
+        <translation>Error Message %1 Copied</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
@@ -1745,7 +1745,7 @@ Supported protocols:</translation>
 右键拖拽，绘制矩形区域，包含在区域内的文字框将被忽略。可用于排除水印、页眉页脚。
 范围允许填写负数，表示倒数第x页。如-1表示最后一页，-2表示倒数第2页。
 忽略区域的设置对所有文档生效。</source>
-        <translation>Usage:
+        <translation>Ignore Region Description:
 Hold your right mouse button, drag and draw a rect area, the contents included will be ignored by the software. It can be used to exclude watermarks, headers or footers.
 It is allowed to input negative page number to represent the x page counting backwards.For instance, -1 represents the last page,while -2 is the page before it.
 This setting is enabled for all documents.</translation>
@@ -1817,7 +1817,7 @@ Can be set as default off in global settings</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="46"/>
         <source>剪贴板中为文本</source>
-        <translation>The content of the clipboard is text</translation>
+        <translation>The content of the clipboard text</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="67"/>
