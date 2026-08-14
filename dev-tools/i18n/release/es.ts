@@ -1849,7 +1849,7 @@ Se puede establecer como desactivado por defecto en la configuración global</tr
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="423"/>
         <source>设置</source>
-        <translation>Configuración</translation>
+        <translation>Configuraciones</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="371"/>
