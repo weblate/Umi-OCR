@@ -1797,48 +1797,48 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="61"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 이미지가 없습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="66"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>%1개의 이미지 경로 가져오기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="93"/>
         <source>参数有误，或输入内容不合规定。请参照报错指示修改：</source>
-        <translation type="unfinished"></translation>
+        <translation>매개변수가 잘못되었거나 입력 내용이 요구 사항에 맞지 않습니다. 오류 안내에 따라 수정하세요:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="94"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="97"/>
         <source>生成二维码失败</source>
-        <translation type="unfinished"></translation>
+        <translation>라이선스 계약</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="148"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드에 복사됨</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="149"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 인식 완료</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="152"/>
         <source>无文字</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="156"/>
         <source>识别失败</source>
-        <translation type="unfinished"></translation>
+        <translation>인식 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="181"/>
         <source>扫描二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>qr 코드 스캔</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="319"/>
@@ -1849,12 +1849,12 @@ qr 코드와 바코드를 인식하거나 생성합니다.
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="357"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="423"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>설정들</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="371"/>
         <source>自动刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 새로고침</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="372"/>
