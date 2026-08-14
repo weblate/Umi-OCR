@@ -36,12 +36,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Tansa n usuffeɣ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation type="unfinished"></translation>
+        <translation>Amtawa n turagt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
@@ -1815,48 +1815,48 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="67"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac tugniwin tameɣtut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="72"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>Kter %1 n iberdan n tugniwin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="99"/>
         <source>参数有误，或输入内容不合规定。请参照报错指示修改：</source>
-        <translation type="unfinished"></translation>
+        <translation>Iɣewwaren d irɣan neɣ agbur yettwadcem ur yeddu ara d yirawen. Snifel-it s uneḍru n yisallen n tuccḍa:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="100"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="103"/>
         <source>生成二维码失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Yecceḍ usirew n uneggura qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="159"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>Yettwanɣel ɣer teɣsert n ufus</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="160"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Aselmed n ussisen n tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="163"/>
         <source>无文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac aḍris</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="167"/>
         <source>识别失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Yecceḍ ussisen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="192"/>
         <source>扫描二维码</source>
-        <translation type="unfinished"></translation>
+        <translation>Ssenqed aneggura qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
@@ -1872,7 +1872,7 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="381"/>
         <source>自动刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>Asmiḍen awurman</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="382"/>
