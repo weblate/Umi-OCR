@@ -408,7 +408,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="123"/>
         <source>处理</source>
-        <translation>처리</translation>
+        <translation>처리 중</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="159"/>
@@ -1166,7 +1166,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>Take screenshot</translation>
+        <translation>스크린샷 찍기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1859,17 +1859,17 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="372"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 수정 후 qr 코드/바코드를 자동으로 생성합니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="385"/>
         <source>刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>새로고침</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="386"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>qr 코드/바코드 생성</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="428"/>
@@ -1879,7 +1879,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="433"/>
         <source>生成</source>
-        <translation type="unfinished"></translation>
+        <translation>생성</translation>
     </message>
 </context>
 <context>
@@ -1887,7 +1887,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="14"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>단축키</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="18"/>
@@ -1897,134 +1897,138 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="24"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 붙여넣기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="32"/>
         <source>预处理（一般无需改动）</source>
-        <translation type="unfinished"></translation>
+        <translation>전처리(일반적으로 변경할 필요 없음)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="37"/>
         <source>中值滤波</source>
-        <translation type="unfinished"></translation>
+        <translation>중간값 필터</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="38"/>
         <source>对图像进行平滑处理
 &gt;0 时生效。可填1~9的奇数（不允许偶数）</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지를 평활화합니다
+&gt;0일 때 적용됩니다. 1~9의 홀수를 입력할 수 있습니다(짝수는 허용되지 않음)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="45"/>
         <source>锐度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>선명도 향상</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="46"/>
         <source>增加图像的锐度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지의 선명도를 높입니다
+0.1보다 클 때 적용됩니다. 0.1~10의 소수를 입력할 수 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="53"/>
         <source>对比度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>대비 향상</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="54"/>
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지의 대비를 높입니다
+0.1보다 클 때 적용됩니다. 0.1~10의 소수를 입력할 수 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="61"/>
         <source>转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>회색조로 변환</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="62"/>
         <source>将图像像素转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 픽셀을 회색조로 변환</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="66"/>
         <source>二值化</source>
-        <translation type="unfinished"></translation>
+        <translation>이진화</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="67"/>
         <source>将图像像素转为纯黑和纯白
 启用了灰度，且二值化 &gt;-1 时生效。可填0~255的整数</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 픽셀을 순수한 검정색과 흰색으로 변환
+그레이스케일이 활성화되고 이진화가 &gt;-1일 때 적용됩니다. 0~255의 정수를 입력할 수 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="76"/>
         <source>扫码后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>코드 스캔 후 작업</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="80"/>
         <source>复制结果</source>
-        <translation type="unfinished"></translation>
+        <translation>결과 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="84"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>메인 창 표시</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="85"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 인식 후, 주 창이 최소화되어 있거나 백그라운드에 있으면 앞으로 가져옵니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="91"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>qr 코드/바코드 생성</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="95"/>
         <source>类型</source>
-        <translation type="unfinished"></translation>
+        <translation>유형</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="96"/>
         <source>默认二维码：</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 qr 코드:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="121"/>
         <source>宽度</source>
-        <translation type="unfinished"></translation>
+        <translation>너비</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="122"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="130"/>
         <source>填0：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>0 입력: 자동 선택</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="126"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="134"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="142"/>
         <source>像素</source>
-        <translation type="unfinished"></translation>
+        <translation>픽셀</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="129"/>
         <source>高度</source>
-        <translation type="unfinished"></translation>
+        <translation>높이</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>边缘空白</source>
-        <translation type="unfinished"></translation>
+        <translation>가장자리 여백</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="138"/>
         <source>填-1：自动选择</source>
-        <translation type="unfinished"></translation>
+        <translation>-1 입력: 자동 선택</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="145"/>
@@ -2034,17 +2038,17 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="146"/>
         <source>仅适用于：</source>
-        <translation type="unfinished"></translation>
+        <translation>다음에만 적용:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
         <source>自动</source>
-        <translation type="unfinished"></translation>
+        <translation>자동</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="158"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>기타</translation>
     </message>
 </context>
 <context>
@@ -2052,7 +2056,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultTextContainer.qml" line="119"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>복사</translation>
     </message>
 </context>
 <context>
@@ -2061,87 +2065,88 @@ qr 코드와 바코드를 인식하거나 생성합니다.
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="50"/>
         <source>异常状态码：%1
 异常信息：%2</source>
-        <translation type="unfinished"></translation>
+        <translation>예외 상태 코드: %1
+예외 정보: %2</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>소요 시간 %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
         <source>置信度 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>置信도 %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="308"/>
         <source>记录：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>기록: %1자 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="311"/>
         <source>记录：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>기록: 선택된 텍스트 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="325"/>
         <source>记录：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>기록: 전체 %1자 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="334"/>
         <source>删除%1条记录</source>
-        <translation type="unfinished"></translation>
+        <translation>기록 %1개 삭제</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="339"/>
         <source>清空记录</source>
-        <translation type="unfinished"></translation>
+        <translation>기록 지우기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="408"/>
         <source>复制&#x3000;&#x3000;&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>복사&#x3000;&#x3000;&#x3000;&#x3000;(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="409"/>
         <source>复制全部&#x3000;&#x3000;（Ctrl+C 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 복사&#x3000;&#x3000;(Ctrl+C 두 번 클릭)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="410"/>
         <source>选中单个&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>하나만 선택&#x3000;&#x3000;(Ctrl+A)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="411"/>
         <source>选中全部记录（Ctrl+A 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 기록 선택 (Ctrl+A 두 번 클릭)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="412"/>
         <source>删除选中记录</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 기록 삭제</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="413"/>
         <source>清空全部记录（Ctrl+D 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 기록 지우기 (Ctrl+D 두 번 클릭)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="441"/>
         <source>滚动</source>
-        <translation type="unfinished"></translation>
+        <translation>스크롤</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="442"/>
         <source>自动滚动到底部</source>
-        <translation type="unfinished"></translation>
+        <translation>자동으로 맨 아래로 스크롤</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="464"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>컨텍스트 메뉴</translation>
     </message>
 </context>
 <context>
@@ -2149,40 +2154,43 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="197"/>
         <source>截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="198"/>
         <source>上次截图操作未结束，不能进行新的截图！</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 스크린샷 작업이 아직 완료되지 않아 새 스크린샷을 수행할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="77"/>
         <source>尚未记录截图区域</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷 영역이 아직 기록되지 않았습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
         <source>显示器： %1
 错误信息： %2</source>
-        <translation type="unfinished"></translation>
+        <translation>모니터: %1
+오류 메시지: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="107"/>
         <source>重复截图失败</source>
-        <translation type="unfinished"></translation>
+        <translation>반복 스크린샷 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="106"/>
         <source>未找到匹配的屏幕</source>
-        <translation type="unfinished"></translation>
+        <translation>일치하는 화면을 찾을 수 없습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="38"/>
         <source>屏幕设备名称不相同：
 %1
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>화면 장치 이름이 서로 다릅니다:
+%1
+%2</translation>
     </message>
 </context>
 <context>
@@ -2190,22 +2198,22 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="65"/>
         <source>获取剪贴板异常</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드를 가져오는 중 오류가 발생했습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="71"/>
         <source>剪贴板中为文本</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드에 텍스트가 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="91"/>
         <source>无有效图片</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 이미지 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="96"/>
         <source>导入%1条图片路径</source>
-        <translation type="unfinished"></translation>
+        <translation>%1개의 이미지 경로 가져오기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="109"/>
@@ -2216,7 +2224,8 @@ qr 코드와 바코드를 인식하거나 생성합니다.
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="117"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>작업이 진행 중입니다.
+작업을 종료하고 페이지를 닫으시겠습니까?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="142"/>
@@ -2228,49 +2237,50 @@ qr 코드와 바코드를 인식하거나 생성합니다.
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="143"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="261"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 붙여넣기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="184"/>
         <source>截图识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>스크린샷 인식 작업 오류</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="207"/>
         <source>已复制到剪贴板</source>
-        <translation type="unfinished"></translation>
+        <translation>클립보드에 복사되었습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="208"/>
         <source>识图完成</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 인식 완료</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="211"/>
         <source>无文字</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="215"/>
         <source>识别失败</source>
-        <translation type="unfinished"></translation>
+        <translation>인식 실패</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="271"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="404"/>
         <source>停止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 중지</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="314"/>
         <source>文字</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스트</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="315"/>
         <source>在图片上叠加显示识别文字
 可在全局设置中设为默认关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 위에 인식된 텍스트를 오버레이로 표시
+전역 설정에서 기본적으로 끄도록 설정할 수 있습니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="430"/>
@@ -2280,7 +2290,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="454"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>설정</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
@@ -2308,42 +2318,42 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 붙여넣기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="43"/>
         <source>重复截图</source>
-        <translation type="unfinished"></translation>
+        <translation>반복 스크린샷</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="44"/>
         <source>重新截取上一次截图的范围</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 스크린샷 영역을 다시 캡처</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="52"/>
         <source>识图后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 인식 후 작업</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="56"/>
         <source>复制结果</source>
-        <translation type="unfinished"></translation>
+        <translation>결과 복사</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="60"/>
         <source>弹出主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>메인 창 표시</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="61"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지 인식 후, 메인 창이 최소화되어 있거나 백그라운드에 있으면 앞으로 가져옵니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="67"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>기타</translation>
     </message>
 </context>
 <context>
@@ -2351,7 +2361,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/Size_.qml" line="50"/>
         <source>1.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0</translation>
     </message>
 </context>
 <context>
@@ -2359,12 +2369,12 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="103"/>
         <source>打开主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 창 열기</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
         <source>退出 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR 종료</translation>
     </message>
 </context>
 <context>
@@ -2372,7 +2382,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="47"/>
         <source>珍珠白</source>
-        <translation type="unfinished"></translation>
+        <translation>라이트</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="62"/>
@@ -2382,7 +2392,7 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="109"/>
         <source>赛博朋克</source>
-        <translation type="unfinished"></translation>
+        <translation>사이버펑크</translation>
     </message>
 </context>
 <context>
@@ -2390,27 +2400,27 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="11"/>
         <source>任务完成后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 완료 후 작업</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="15"/>
         <source>系统</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="18"/>
         <source>无</source>
-        <translation type="unfinished"></translation>
+        <translation>없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="19"/>
         <source>关机</source>
-        <translation type="unfinished"></translation>
+        <translation>종료</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="20"/>
         <source>休眠</source>
-        <translation type="unfinished"></translation>
+        <translation>절전 모드</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
@@ -2420,87 +2430,87 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
         <source>继续%1</source>
-        <translation type="unfinished"></translation>
+        <translation>계속 %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
         <source>取消%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 취소</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="48"/>
         <source>系统即将%1</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템이 곧 %1합니다</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="55"/>
         <source>排版解析方案</source>
-        <translation type="unfinished"></translation>
+        <translation>레이아웃 분석 방식</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="56"/>
         <source>按什么方式，解析和排序图片中的文字块</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지의 텍스트 블록을 어떤 방식으로 분석하고 정렬할지</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="59"/>
         <source>多栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>다중 열 - 문단별 줄바꿈</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="60"/>
         <source>多栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>다중 열 - 항상 줄바꿈</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="61"/>
         <source>多栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>다중 열 - 줄바꿈 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 열 - 문단별 줄바꿈</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
         <source>单栏-总是换行</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 열 - 항상 줄바꿈</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="64"/>
         <source>单栏-无换行</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 열 - 줄바꿈 없음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="65"/>
         <source>单栏-保留缩进</source>
-        <translation type="unfinished"></translation>
+        <translation>단일 열 - 들여쓰기 유지</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="66"/>
         <source>不做处理</source>
-        <translation type="unfinished"></translation>
+        <translation>처리하지 않음</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="74"/>
         <source>优先内部</source>
-        <translation type="unfinished"></translation>
+        <translation>내부 우선</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="75"/>
         <source>只允许内部</source>
-        <translation type="unfinished"></translation>
+        <translation>내부만 허용</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="76"/>
         <source>只允许外部</source>
-        <translation type="unfinished"></translation>
+        <translation>외부만 허용</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="77"/>
         <source>禁用所有通知</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 알림 비활성화</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="79"/>
@@ -2510,12 +2520,12 @@ qr 코드와 바코드를 인식하거나 생성합니다.
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="81"/>
         <source>通知弹窗类型</source>
-        <translation type="unfinished"></translation>
+        <translation>알림 팝업 유형</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="89"/>
         <source>通知类型已更改</source>
-        <translation type="unfinished"></translation>
+        <translation>알림 유형이 변경되었습니다</translation>
     </message>
 </context>
 </TS>
