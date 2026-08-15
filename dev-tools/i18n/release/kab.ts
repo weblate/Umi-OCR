@@ -26,12 +26,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>Asi d usniɣen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirar n wuguren</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="112"/>
         <source>运行环境信息（如需请求协助，请提供给开发者）</source>
-        <translation type="unfinished"></translation>
+        <translation>Talɣut ɣef twennaḍt n uselkem (ma tesriḍ tallelt, ttxil-k fki-tt i uneflay)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="117"/>
@@ -70,7 +70,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/AsynFilesLoader.qml" line="9"/>
         <source>正在载入 %1 个文件：
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Asali n %1 n ifuyla:
+%2</translation>
     </message>
 </context>
 <context>
@@ -88,7 +89,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="61"/>
         <source>请点击文件名填写密码</source>
-        <translation type="unfinished"></translation>
+        <translation>Ttxil-k ssed ɣef yisem n ufaylu akken ad teskecmed awal uffir</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
@@ -371,7 +372,13 @@ Tebɣiḍ ad tesḥebseḍ tamawt sakin ad tmedleḍ asebter?</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur ilaq ara ad teskecmeḍ azeɣru n ufaylu. Tettwasefrak tmerna n tneɣrufin-a:
+%date Azemz d wakud
+%name Isem n ufaylu aneṣli
+%range Tamnaḍt n yisebtar yettwasnen. Ad tettban kan mi ara yili umḍan n yisebtar yettwasnen drus ɣef umḍan amatu n yisebtar.
+Amedya: [OCR]_%name%range_%date
+Yettwasirew: [OCR]_DocumentA(p2-10)_20230901_1213.txt
+Timerna n tneɣrufin yezmer ad yesseḥbiber ifuyla iqburen seg ussemsi s ufaylu amaynut.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
@@ -406,7 +413,7 @@ Tebɣiḍ ad tfakkeḍ tawuri yerna ad tmedleḍ asebter?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation>Sefrek</translation>
+        <translation>Ttwaselkem</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
@@ -416,7 +423,7 @@ Tebɣiḍ ad tfakkeḍ tawuri yerna ad tmedleḍ asebter?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Yemmed usɣiwel s ufaylu</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
@@ -432,7 +439,7 @@ Tebɣiḍ ad tfakkeḍ tawuri yerna ad tmedleḍ asebter?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>Akud yettwaseqdacen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
@@ -442,7 +449,7 @@ Tebɣiḍ ad tfakkeḍ tawuri yerna ad tmedleḍ asebter?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
@@ -506,7 +513,7 @@ Tebɣiḍ ad tfakkeḍ tawuri yerna ad tmedleḍ asebter?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Sbed akaram</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
@@ -1037,17 +1044,17 @@ Ad yeǧǧ kra n wakud, sakin ad yeṛǧu arma yemdel usfaylu agejdan</translatio
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
         <source>打开日志保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi akaram n usekles n uɣmis</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="256"/>
         <source>保存的日志级别</source>
-        <translation type="unfinished"></translation>
+        <translation>Aswir n uɣmis yettwaseklesen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="271"/>
         <source>已禁用日志文件保存</source>
-        <translation type="unfinished"></translation>
+        <translation>Yettwaseḥbes usekles n ufaylu n uɣmis</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
@@ -1179,7 +1186,7 @@ Ma tebɣiḍ ad tḥebseḍ talɣut-agi, ssens mode afellay deg yiɣewwaren imat
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Eg tugna n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
@@ -1281,7 +1288,7 @@ Amedya, mi ara tselkemeḍ tugniwin n screen n isura neɣ n yisura n TV s wudem 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
         <source>复制&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel&#x3000;&#x3000;(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
@@ -1503,7 +1510,7 @@ Agbur n wayen ur yemmid ara.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirar n wuguren</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
@@ -1547,7 +1554,7 @@ Agbur n wayen ur yemmid ara.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="53"/>
         <source>没有可用的 OCR 插件。</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac asiɣzef OCR i yellan.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="61"/>
@@ -1761,12 +1768,12 @@ Iɣewwaren n temnaḍt yettwanzen ttwasnesen i meṛṛa isemliyen.</translation
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="309"/>
         <source>OCR页数</source>
-        <translation type="unfinished"></translation>
+        <translation>Amḍan n yisebtar OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="352"/>
         <source>忽略区域页数（全局）</source>
-        <translation type="unfinished"></translation>
+        <translation>Amḍan n yisebtar n temnaḍin yettwazganen (amatu)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/PreviewDoc.qml" line="317"/>
@@ -1861,7 +1868,7 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="328"/>
         <source>截图、拖入或粘贴二维码图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna n ugdil, sers-tt, neɣ senɣel tugna n uneggura qr</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="368"/>
@@ -1877,17 +1884,17 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="382"/>
         <source>修改文字后，自动生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Sirew awurman n uneggura qr/ufeggag deffir n usnifel n uḍris</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="395"/>
         <source>刷新</source>
-        <translation type="unfinished"></translation>
+        <translation>Smiḍen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="396"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Sirew aneggura qr/ufeggag</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCode.qml" line="439"/>
@@ -1905,76 +1912,80 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="16"/>
         <source>快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Anegzum n uḍfar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="20"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="26"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Senɣel tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="34"/>
         <source>预处理（一般无需改动）</source>
-        <translation type="unfinished"></translation>
+        <translation>Aheyyi n uzwar (s umata, ur ilaq ara ad t-tbeddleḍ)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="39"/>
         <source>中值滤波</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastay n talast</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="40"/>
         <source>对图像进行平滑处理
 &gt;0 时生效。可填1~9的奇数（不允许偶数）</source>
-        <translation type="unfinished"></translation>
+        <translation>Sgen tugna
+&gt;0 mi ara yeddu. Tzemreḍ ad teskecmeḍ imḍanen 1~9 iɣun (ur ttwasirgen ara imḍanen ussin)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="47"/>
         <source>锐度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnerni n teẓẓit</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="48"/>
         <source>增加图像的锐度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>Snerni tẓẓit n tugna
+Yettwaselmad mi ara yili &gt;0,1. Zemreḍ ad teskecmeḍ amḍan imsileɣ gar 0,1 d 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="55"/>
         <source>对比度增强</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnerni n umyizwer</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="56"/>
         <source>增加图像的对比度
 &gt;0.1 时生效。可填0.1~10的小数</source>
-        <translation type="unfinished"></translation>
+        <translation>Snerni amyizwer n tugna
+Yettwaselmad mi ara yili &gt;0,1. Zemreḍ ad teskecmeḍ amḍan imsileɣ gar 0,1 d 10</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="63"/>
         <source>转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>Ttuɣal ɣer tɣerdayt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="64"/>
         <source>将图像像素转为灰度</source>
-        <translation type="unfinished"></translation>
+        <translation>Snerni ifecka n yikataren n tugna ɣer tɣerdayt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="68"/>
         <source>二值化</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnifel s sin n wazalen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="69"/>
         <source>将图像像素转为纯黑和纯白
 启用了灰度，且二值化 &gt;-1 时生效。可填0~255的整数</source>
-        <translation type="unfinished"></translation>
+        <translation>Snernif ifecka n yikataren n tugna ɣer uzegzaw amellal d uberkan
+Yettwaselmad ma yella tɣerdayt tettwarmed, yerna asnifel s sin n wazalen &gt;-1. Zemreḍ ad teskecmeḍ amḍan imdanen seg 0 ɣer 255</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="78"/>
@@ -1994,12 +2005,12 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="87"/>
         <source>识图后，如果主窗口最小化或处于后台，则弹到前台</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi ara yemmed usenqed n tugna, ma yella usfaylu agejdan yettwamneẓẓi neɣ yella deg ugdil n deffir, ad d-yefɣ ɣer zdat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="93"/>
         <source>生成二维码/条形码</source>
-        <translation type="unfinished"></translation>
+        <translation>Sirew qr n tɣawsa / afriḍ n tangalt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="97"/>
@@ -2032,7 +2043,7 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="137"/>
         <source>高度</source>
-        <translation type="unfinished"></translation>
+        <translation>Teɣzi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="148"/>
@@ -2052,7 +2063,7 @@ Tzemreḍ ad t-tesxedmeḍ s wudem amezwer deg yiɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="160"/>
         <source>仅适用于：</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan i:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/QRCode/QRCodeConfigs.qml" line="162"/>
@@ -2085,7 +2096,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="56"/>
         <source>耗时 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Akud yettwaseqdacen %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="59"/>
@@ -2095,22 +2106,22 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="343"/>
         <source>记录：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Aɣmis: nɣel %1 n isekkilen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="346"/>
         <source>记录：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Aɣmis: ulac aḍris yettwafernen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="360"/>
         <source>记录：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>Aɣmis: nɣel akk %1 n isekkilen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="370"/>
         <source>删除%1条记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Kkes %1 n yiɣmisen</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="376"/>
@@ -2120,12 +2131,12 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="453"/>
         <source>复制&#x3000;&#x3000;&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel&#x3000;&#x3000;&#x3000;&#x3000;(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="454"/>
         <source>复制全部&#x3000;&#x3000;（Ctrl+C 双击）</source>
-        <translation type="unfinished"></translation>
+        <translation>Nɣel akk&#x3000;&#x3000;(Ctrl+C s snat n tikkal)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="455"/>
@@ -2155,7 +2166,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="487"/>
         <source>自动滚动到底部</source>
-        <translation type="unfinished"></translation>
+        <translation>Aḥric awurman ɣer taggara</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ResultLayout/ResultsTableView.qml" line="509"/>
@@ -2184,7 +2195,8 @@ Izen n tuccḍa: %2</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="30"/>
         <source>显示器： %1
 错误信息： %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Asedda: %1
+Izen n tuccḍa: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="107"/>
@@ -2194,7 +2206,7 @@ Izen n tuccḍa: %2</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="106"/>
         <source>未找到匹配的屏幕</source>
-        <translation type="unfinished"></translation>
+        <translation>Ur yettwaf ara ugdil yemṣadan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ImageManager/ScreenshotManager.qml" line="38"/>
@@ -2244,13 +2256,13 @@ Tebɣiḍ ad tfakkeḍ tawuri ad tmedleḍ asebtar?</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="145"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="256"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="146"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="265"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Senteḍ tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="187"/>
@@ -2270,7 +2282,7 @@ Tebɣiḍ ad tfakkeḍ tawuri ad tmedleḍ asebtar?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="214"/>
         <source>无文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulac aḍris</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="218"/>
@@ -2298,7 +2310,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="433"/>
         <source>截图、拖入或粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna n ugdil, sers neɣ senɣel tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOCR.qml" line="459"/>
@@ -2326,7 +2338,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="28"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugna n ugdil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="36"/>
@@ -2346,7 +2358,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="52"/>
         <source>识图后的操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Tigawin seld usenqed n tugna</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR/ScreenshotOcrConfigs.qml" line="56"/>
@@ -2382,7 +2394,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="103"/>
         <source>打开主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Ldi asfaylu agejdan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/SystemTray.qml" line="107"/>
@@ -2395,7 +2407,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="47"/>
         <source>珍珠白</source>
-        <translation type="unfinished"></translation>
+        <translation>Acebbub</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Themes/Theme.qml" line="62"/>
@@ -2418,7 +2430,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="15"/>
         <source>系统</source>
-        <translation type="unfinished"></translation>
+        <translation>Anagraw</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="18"/>
@@ -2438,7 +2450,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="25"/>
         <source>%1 系统暂不支持电源控制！</source>
-        <translation type="unfinished"></translation>
+        <translation>Anagraw %1 ur issefrak ara akka tura asenqed n teɣzi n teẓẓa!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="43"/>
@@ -2483,7 +2495,7 @@ Yezmer ad yettuswel s lexṣas deg iɣewwaren imuta</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="62"/>
         <source>单栏-按自然段换行</source>
-        <translation type="unfinished"></translation>
+        <translation>Yiwen n tgejdit - ssenqed n yizirig s yizirig</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/UtilsConfigDicts.qml" line="63"/>
