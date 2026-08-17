@@ -164,22 +164,22 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifalar soni</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
         <source>请选择文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjatni tanlang</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="281"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="286"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnallar</translation>
     </message>
 </context>
 <context>
@@ -187,17 +187,17 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR matnini keyingi qayta ishlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="42"/>
         <source>文档处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjatlarni qayta ishlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="46"/>
         <source>内容提取模式</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontentni ajratib olish rejimi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
