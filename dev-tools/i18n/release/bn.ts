@@ -164,22 +164,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
         <source>页数</source>
-        <translation type="unfinished"></translation>
+        <translation>পৃষ্ঠা সংখ্যা</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="251"/>
         <source>请选择文档</source>
-        <translation type="unfinished"></translation>
+        <translation>অনুগ্রহ করে একটি নথি নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="281"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>সেটিংস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="286"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>سجل</translation>
     </message>
 </context>
 <context>
@@ -187,17 +187,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR পাঠ্যের পোস্ট-প্রসেসিং</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="42"/>
         <source>文档处理</source>
-        <translation type="unfinished"></translation>
+        <translation>নথি প্রক্রিয়াকরণ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="46"/>
         <source>内容提取模式</source>
-        <translation type="unfinished"></translation>
+        <translation>বিষয়বস্তু নিষ্কাশন মোড</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
