@@ -6,62 +6,62 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="44"/>
         <source>开源、免费的离线OCR软件</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR offline gratuito e open source</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione attuale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
         <source>项目链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Link al progetto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="54"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>Sito ufficiale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="55"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>Estensioni e plugin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="56"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Segnalazione di problemi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="60"/>
         <source>发布地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina di rilascio</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="68"/>
         <source>许可协议</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="78"/>
         <source>作者</source>
-        <translation type="unfinished"></translation>
+        <translation>Autore</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="86"/>
         <source>译者</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduttore</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="112"/>
         <source>运行环境信息（如需请求协助，请提供给开发者）</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sull’ambiente di esecuzione (fornirle allo sviluppatore se si richiede assistenza)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="117"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
 </context>
 <context>
@@ -70,7 +70,8 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/AsynFilesLoader.qml" line="9"/>
         <source>正在载入 %1 个文件：
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento di %1 file:
+%2</translation>
     </message>
 </context>
 <context>
@@ -78,85 +79,87 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="48"/>
         <source>加密</source>
-        <translation type="unfinished"></translation>
+        <translation>Crittografia</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="60"/>
         <source>%1个加密文档</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 documenti crittografati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="61"/>
         <source>请点击文件名填写密码</source>
-        <translation type="unfinished"></translation>
+        <translation>Fare clic sul nome del file per inserire la password</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>文档已加密</source>
-        <translation type="unfinished"></translation>
+        <translation>Il documento è stato crittografato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="79"/>
         <source>【%1】
 请点击文档名，设置密码</source>
-        <translation type="unfinished"></translation>
+        <translation>【%1】
+Fare clic sul nome del documento per impostare la password</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="174"/>
         <source>失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazione non riuscita</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="89"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>In coda</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="127"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancora chiuso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="134"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;attività è ancora in corso.
+Terminare l&apos;attività e chiudere la pagina?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="243"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="252"/>
         <source>文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="245"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="248"/>
         <source>打开文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="250"/>
         <source>拖入文档或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascina qui documenti o cartelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="249"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>Svuota</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="166"/>
         <source>文档识别异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nel riconoscimento del documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="180"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Riconoscimento batch completato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOC.qml" line="246"/>
