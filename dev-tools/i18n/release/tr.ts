@@ -202,12 +202,12 @@ Görevi sonlandırıp sayfayı kapatmak istiyor musunuz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
         <source>若一页文档既存在图片又存在文本，如何进行处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir belge sayfasında hem görsel hem de metin varsa nasıl işlenir</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="49"/>
         <source>混合OCR/原文本</source>
-        <translation type="unfinished"></translation>
+        <translation>Karma OCR / orijinal metin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="50"/>
