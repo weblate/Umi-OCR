@@ -202,12 +202,12 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="47"/>
         <source>若一页文档既存在图片又存在文本，如何进行处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Hujjat sahifasida ham rasm, ham matn mavjud bo‘lsa, qanday ishlanadi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="49"/>
         <source>混合OCR/原文本</source>
-        <translation type="unfinished"></translation>
+        <translation>Aralash OCR / asl matn</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="50"/>
