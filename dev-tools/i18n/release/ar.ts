@@ -258,12 +258,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق اسم الملف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق التاريخ والوقت</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -272,12 +272,16 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق التاريخ في %date داخل اسم الملف. يدعم إدراج العناصر النائبة التالية:
+%Y السنة، %m الشهر، %d اليوم، %H الساعة،
+%M الدقيقة، %S الثانية، %unix الطابع الزمني
+مثال: %Yسنة%mشهر%dيوم_%H-%M
+يُنشأ: 2023سنة09شهر01يوم_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="96"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الملف المراد حفظه</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
