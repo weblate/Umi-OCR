@@ -258,12 +258,12 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl nomi formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Sana va vaqt formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -272,12 +272,16 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl nomidagi %date sanasining formati. Quyidagi o‘rin tutuvchilarni kiritish qo‘llab-quvvatlanadi:
+%Y yil, %m oy, %d kun, %H soat,
+%M daqiqa, %S soniya, %unix vaqt tamg‘asi
+Misol: %Yyil%mo y%dkun_%H-%M
+Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="96"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlanadigan fayl turi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
