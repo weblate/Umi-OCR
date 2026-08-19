@@ -258,12 +258,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলের নামের বিন্যাস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="89"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>তারিখ ও সময়ের বিন্যাস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="90"/>
@@ -272,12 +272,16 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলের নামের %date-এর তারিখের বিন্যাস। নিম্নলিখিত প্লেসহোল্ডার সন্নিবেশ করা সমর্থিত:
+%Y বছর, %m মাস, %d দিন, %H ঘণ্টা,
+%M মিনিট, %S সেকেন্ড, %unix টাইমস্ট্যাম্প
+উদাহরণ: %Yবছর%mমাস%dদিন_%H-%M
+তৈরি হবে: 2023বছর09মাস01দিন_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="96"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>সংরক্ষণ করার ফাইলের ধরন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="102"/>
