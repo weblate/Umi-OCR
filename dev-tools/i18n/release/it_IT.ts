@@ -212,48 +212,48 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="50"/>
         <source>整页强制OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR forzato dell’intera pagina</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="51"/>
         <source>仅OCR图片</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR solo delle immagini</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="52"/>
         <source>仅拷贝原有文本</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia solo il testo originale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="59"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività batch</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="68"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva in</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="70"/>
         <source>文档原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella originale del documento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="71"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="75"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella specificata</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="76"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>È necessario specificare prima «Salva nella cartella specificata» perché abbia effetto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="80"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella di salvataggio dei risultati OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="83"/>
