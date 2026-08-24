@@ -301,47 +301,47 @@ Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Standart format</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="113"/>
         <source>含识别文字和页数信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniqlangan matn va sahifalar soni haqidagi ma’lumotlarni o‘z ichiga oladi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="117"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt Faqat matn formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="118"/>
         <source>输出所有识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Aniqlangan barcha matnni chiqarish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="122"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>csv Jadval fayli (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Sahifalar soni haqidagi ma’lumotlar va aniqlangan matnni csv fayliga yozadi. Uni Excel yordamida ochish va xlsx formatida saqlash mumkin.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Asl ma’lumotlar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir qatorda bitta json ma’lumoti mavjud bo‘lib, uni uchinchi tomon dasturlari oson o‘qishi va qayta ishlashi mumkin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="134"/>
         <source>忽略空白页</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo‘sh sahifalarni e’tiborsiz qoldirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
