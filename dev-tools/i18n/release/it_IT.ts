@@ -301,47 +301,47 @@ Generato: 2023anno09 mese01 giorno_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="112"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Formato standard</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="113"/>
         <source>含识别文字和页数信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Include il testo riconosciuto e le informazioni sul numero di pagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="117"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt Formato di solo testo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="118"/>
         <source>输出所有识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta tutto il testo riconosciuto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="122"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>csv File tabellare (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrive le informazioni sul numero di pagine e il testo riconosciuto in un file csv. Può essere aperto con Excel e salvato nel formato xlsx.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Informazioni originali</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="128"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni riga contiene un dato json, per facilitarne la lettura e l’elaborazione da parte di programmi di terze parti</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="134"/>
         <source>忽略空白页</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora le pagine vuote</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
