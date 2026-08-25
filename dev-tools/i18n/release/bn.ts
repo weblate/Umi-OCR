@@ -346,17 +346,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
         <source>若某一页没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>কোনো পৃষ্ঠায় পাঠ্য না থাকলে বা শনাক্তকরণ ব্যর্থ হলে কোনো ত্রুটি বার্তা প্রদর্শিত হবে না</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>সাবফোল্ডারগুলো পুনরাবৃত্তভাবে পড়ুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="23"/>
         <source>点击表格，可设置更多内容</source>
-        <translation type="unfinished"></translation>
+        <translation>টেবিলে ক্লিক করে আরও বিষয়বস্তু সেট করা যায়</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
