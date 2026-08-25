@@ -346,17 +346,17 @@ Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="135"/>
         <source>若某一页没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar biror sahifada matn bo‘lmasa yoki aniqlash muvaffaqiyatsiz tugasa, xato haqida hech qanday xabar ko‘rsatilmaydi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="63"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki papkalarni rekursiv o‘qish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="23"/>
         <source>点击表格，可设置更多内容</source>
-        <translation type="unfinished"></translation>
+        <translation>Qo‘shimcha tarkibni sozlash uchun jadvalni bosing</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
