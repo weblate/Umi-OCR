@@ -361,7 +361,7 @@ Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Papkani import qilishda ichki papkalardagi barcha hujjatlarni import qilish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@ Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl kengaytmasini kiritish shart emas. Quyidagi o‘rin tutuvchilarni kiritish qo‘llab-quvvatlanadi:
+%date sana va vaqt
+%name asl hujjat nomi
+%range aniqlangan sahifalar oralig‘i. Faqat aniqlangan sahifalar soni jami sahifalar sonidan kam bo‘lganda ko‘rsatiladi.
+Misol: [OCR]%name%range%date
+Yaratiladi: [OCR]_HujjatA(p2-10)_20230901_1213.txt
+O‘rin tutuvchilarni qo‘shish eski fayllarning yangi fayllar bilan ustiga yozilishining oldini olishga yordam beradi.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl rasmlarni saqlab qolib, qidirish va nusxalash mumkin bo‘lgan shaffof matn qatlamini ustiga qo‘shish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqa</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@ Yaratiladi: 2023yil09oy01kun_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Hali ham yopiq</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazifa hali bajarilmoqda.
+Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>Navbatda</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Qayta ishlanmoqda</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
