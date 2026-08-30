@@ -361,7 +361,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>عند استيراد مجلد، استيراد جميع المستندات الموجودة في المجلدات الفرعية</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>لا حاجة لإدخال امتداد الملف. يدعم إدراج العناصر النائبة التالية:
+%date التاريخ والوقت
+%name اسم المستند الأصلي
+%range نطاق الصفحات التي تم التعرّف عليها. لا يظهر إلا عندما يكون عدد الصفحات التي تم التعرّف عليها أقل من إجمالي عدد الصفحات.
+مثال: [OCR]%name%range%date
+يُنشأ: [OCR]_المستندA(p2-10)_20230901_1213.txt
+يمكن أن تؤدي إضافة العناصر النائبة إلى تجنب استبدال الملفات القديمة بالملفات الجديدة.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>الاحتفاظ بالصور الأصلية وإضافة طبقة من النص الشفاف، بحيث يمكن البحث عنه ونسخه</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>أخرى</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يزال مغلقًا</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>المهمة قيد التنفيذ.
+هل تريد إنهاء المهمة وإغلاق الصفحة؟</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>في قائمة الانتظار</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>معالجة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
