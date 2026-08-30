@@ -361,7 +361,7 @@ Oluşturulur: 2023yıl09ay01gün_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir klasörü içe aktarırken alt klasörlerdeki tüm belgeleri içe aktar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@ Oluşturulur: 2023yıl09ay01gün_12-13.txt</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya uzantısını girmenize gerek yoktur. Aşağıdaki yer tutucuların eklenmesi desteklenir:
+%date tarih ve saat
+%name orijinal belge adı
+%range tanınan sayfa aralığı. Yalnızca tanınan sayfa sayısı toplam sayfa sayısından az olduğunda gösterilir.
+Örnek: [OCR]%name%range%date
+Oluşturulur: [OCR]_BelgeA(p2-10)_20230901_1213.txt
+Yer tutucuların eklenmesi, eski dosyaların yeni dosyalar tarafından üzerine yazılmasını önleyebilir.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Orijinal görselleri koruyun ve üzerine aranabilen ve kopyalanabilen bir saydam metin katmanı ekleyin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@ Oluşturulur: 2023yıl09ay01gün_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Hâlâ kapalı</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev devam ediyor.
+Görevi sonlandırıp sayfayı kapatmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuyrukta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>İşleniyor</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
