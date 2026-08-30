@@ -361,7 +361,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>เมื่อนำเข้าโฟลเดอร์ ให้นำเข้าเอกสารทั้งหมดในโฟลเดอร์ย่อย</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่จำเป็นต้องกรอกนามสกุลไฟล์ รองรับการแทรกตัวแทนต่อไปนี้:
+%date วันที่และเวลา
+%name ชื่อเอกสารต้นฉบับ
+%range ช่วงหน้าที่รู้จำได้ จะแสดงเฉพาะเมื่อจำนวนหน้าที่รู้จำได้น้อยกว่าจำนวนหน้าทั้งหมด
+ตัวอย่าง: [OCR]%name%range%date
+สร้างเป็น: [OCR]_เอกสารA(p2-10)_20230901_1213.txt
+การเพิ่มตัวแทนสามารถช่วยหลีกเลี่ยงการเขียนทับไฟล์เก่าด้วยไฟล์ใหม่ได้</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>เก็บรูปภาพต้นฉบับไว้และซ้อนทับด้วยชั้นข้อความโปร่งใส ซึ่งสามารถค้นหาและคัดลอกได้</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่นๆ</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>ยังคงปิดอยู่</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>งานกำลังดำเนินการอยู่
+ต้องการสิ้นสุดงานและปิดหน้านี้หรือไม่?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>อยู่ในคิว</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังประมวลผล</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
