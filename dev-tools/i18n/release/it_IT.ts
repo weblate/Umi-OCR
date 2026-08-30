@@ -361,7 +361,7 @@ Generato: 2023anno09 mese01 giorno_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando si importa una cartella, importa tutti i documenti contenuti nelle sottocartelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@ Generato: 2023anno09 mese01 giorno_12-13.txt</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Senza bisogno di inserire l&apos;estensione del file. Supporta l&apos;inserimento dei seguenti segnaposto:
+%date data e ora
+%name nome del documento originale
+%range intervallo delle pagine riconosciute. Viene visualizzato solo quando il numero di pagine riconosciute è inferiore al numero totale di pagine.
+Esempio: [OCR]%name%range%date
+Generato: [OCR]_DocumentoA(p2-10)_20230901_1213.txt
+L&apos;aggiunta di segnaposto può evitare che i vecchi file vengano sovrascritti da quelli nuovi.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantieni le immagini originali e sovrapponi un livello di testo trasparente, che può essere cercato e copiato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Altro</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@ Generato: 2023anno09 mese01 giorno_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Ancora chiuso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;attività è ancora in corso.
+Terminare l&apos;attività e chiudere la pagina?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>In coda</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Elaborazione</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
