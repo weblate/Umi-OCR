@@ -361,7 +361,7 @@ Tạo thành: 2023năm09tháng01ngày_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="64"/>
         <source>导入文件夹时，导入子文件夹中全部文档</source>
-        <translation type="unfinished"></translation>
+        <translation>Khi nhập thư mục, nhập tất cả tài liệu trong các thư mục con</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="84"/>
@@ -372,17 +372,23 @@ Tạo thành: 2023năm09tháng01ngày_12-13.txt</translation>
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Không cần nhập phần mở rộng tệp. Hỗ trợ chèn các ký hiệu thay thế sau:
+%date ngày giờ
+%name tên tài liệu gốc
+%range phạm vi trang được nhận dạng. Chỉ hiển thị khi số trang được nhận dạng nhỏ hơn tổng số trang.
+Ví dụ: [OCR]%name%range%date
+Tạo thành: [OCR]_Tài liệuA(p2-10)_20230901_1213.txt
+Việc thêm các ký hiệu thay thế có thể tránh việc tệp cũ bị tệp mới ghi đè.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
         <source>保留原有图片，叠加一层透明文字，可以搜索和复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Giữ lại hình ảnh gốc và phủ thêm một lớp văn bản trong suốt, có thể tìm kiếm và sao chép</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="144"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Khác</translation>
     </message>
 </context>
 <context>
@@ -390,23 +396,24 @@ Tạo thành: 2023năm09tháng01ngày_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="83"/>
         <source>依然关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Vẫn đóng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="90"/>
         <source>任务正在进行中。
 要结束任务并关闭页面吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Tác vụ đang được thực hiện.
+Bạn có muốn kết thúc tác vụ và đóng trang không?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="47"/>
         <source>排队</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang xếp hàng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="108"/>
         <source>处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang xử lý</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
