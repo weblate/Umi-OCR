@@ -418,48 +418,48 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished"></translation>
+        <translation>Riconoscimento di %1 immagini non riuscito!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Riconoscimento batch completato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nell&apos;attività di riconoscimento batch</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="241"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="250"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo impiegato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascina qui immagini o cartelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>Svuota</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
