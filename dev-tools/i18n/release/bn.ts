@@ -326,7 +326,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="123"/>
         <source>将页数信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation>পৃষ্ঠার সংখ্যা এবং শনাক্ত করা পাঠ্য csv টেবিল ফাইলে লিখে দেয়। Excel দিয়ে খোলা যায় এবং xlsx ফরম্যাটে সংরক্ষণ করা যায়।</translation>
+        <translation>পৃষ্ঠা সংখ্যা সম্পর্কিত তথ্য এবং সনাক্তকৃত বিষয়বস্তু csv টেবিল ফাইলে লিখুন। এটি Excel দিয়ে খোলা যাবে এবং xlsx ফরম্যাটে সংরক্ষণ করা যাবে।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="127"/>
@@ -372,13 +372,13 @@
 举例：[OCR]_%name%range_%date
 生成：[OCR]_文档A(p2-10)_20230901_1213.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation>ফাইলের এক্সটেনশন লিখতে হবে না। নিম্নলিখিত প্লেসহোল্ডার সন্নিবেশ করা সমর্থিত:
+        <translation>এক্সটেনশন নাম লিখতে হবে না। নিম্নলিখিত প্লেসহোল্ডার যুক্ত করা যাবেঃ
 %date তারিখ ও সময়
 %name মূল নথির নাম
-%range শনাক্ত করা পৃষ্ঠাগুলোর পরিসর। শনাক্ত করা পৃষ্ঠার সংখ্যা মোট পৃষ্ঠার সংখ্যার চেয়ে কম হলেই এটি প্রদর্শিত হবে।
-উদাহরণ: [OCR]_%name%range_%date
-তৈরি হবে: [OCR]_নথিA(p2-10)_20230901_1213.txt
-প্লেসহোল্ডার যোগ করলে পুরোনো ফাইল নতুন ফাইল দিয়ে ওভাররাইট হওয়া এড়ানো যায়।</translation>
+%range সনাক্তকৃত পৃষ্ঠার সীমা। শুধুমাত্র যখন সনাক্তকৃত পৃষ্ঠার সংখ্যা মোট পৃষ্ঠার চেয়ে কম হয় তখনই প্রদর্শিত হবে।
+উদাহরণঃ [OCR]_%name%range_%date
+ফলাফলঃ [OCR]_ডকুমেন্টA(p2-10)_20230901_1213.txt
+প্লেসহোল্ডার যোগ করলে পুরনো ফাইল নতুন ফাইল দ্বারা ওভাররাইট হওয়া এড়ানো যায়।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchDOC/BatchDOCConfigs.qml" line="103"/>
@@ -418,48 +418,48 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished"></translation>
+        <translation>%1টি ছবির শনাক্তকরণ ব্যর্থ হয়েছে!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>ব্যাচ শনাক্তকরণ সম্পন্ন হয়েছে</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>ব্যাচ শনাক্তকরণ কাজে ত্রুটি</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="241"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="250"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>সময় লেগেছে</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>অবস্থা</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি খুলুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি বা ফোল্ডার এখানে টেনে আনুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>পরিষ্কার করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
