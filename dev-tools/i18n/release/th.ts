@@ -418,48 +418,48 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished"></translation>
+        <translation>การรู้จำรูปภาพ %1 รูปล้มเหลว!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>การรู้จำแบบกลุ่มเสร็จสมบูรณ์</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาดในงานรู้จำแบบกลุ่ม</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="241"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="250"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>เวลาที่ใช้</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>สถานะ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดรูปภาพ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากรูปภาพหรือโฟลเดอร์มาที่นี่</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
