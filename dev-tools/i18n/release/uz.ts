@@ -418,48 +418,48 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="144"/>
         <source>%1 张图片识别失败！</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ta rasmni aniqlash muvaffaqiyatsiz tugadi!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="147"/>
         <source>批量识别完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy aniqlash yakunlandi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="155"/>
         <source>批量识别任务异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy aniqlash vazifasida xatolik</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="241"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="250"/>
         <source>图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="243"/>
         <source>耗时</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarflangan vaqt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="244"/>
         <source>状态</source>
-        <translation type="unfinished"></translation>
+        <translation>Holat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="246"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni ochish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="248"/>
         <source>拖入图片或文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm yoki papkalarni bu yerga sudrang</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="247"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>Tozalash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
