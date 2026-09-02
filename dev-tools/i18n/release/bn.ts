@@ -464,17 +464,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>অনুগ্রহ করে একটি ছবি নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="279"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>সেটিংস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>রেকর্ড</translation>
     </message>
 </context>
 <context>
@@ -482,53 +482,53 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR পাঠ্যের পোস্ট-প্রসেসিং</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>অঞ্চল উপেক্ষা করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>সেটিংসে প্রবেশ করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>ব্যাচ কাজ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>সংরক্ষণ করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবির মূল ফোল্ডার</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>নির্দিষ্ট ফোল্ডার</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>কার্যকর হওয়ার জন্য প্রথমে «নির্দিষ্ট ফোল্ডারে সংরক্ষণ» নির্ধারণ করতে হবে</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR ফলাফল সংরক্ষণের ফোল্ডার</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলের নামের বিন্যাস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -538,12 +538,17 @@
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>এক্সটেনশন পূরণ করার প্রয়োজন নেই। নিম্নলিখিত প্লেসহোল্ডারগুলো সন্নিবেশ করা যায়：
+%date তারিখ ও সময়
+%name মূল ফোল্ডারের নাম/ফাইলের নাম
+উদাহরণ: [OCR]_%name_%date
+তৈরি হবে: [OCR]_我的图片_2023-09-01_12-13.txt
+প্লেসহোল্ডার যোগ করলে নতুন ফাইল দিয়ে পুরোনো ফাইল ওভাররাইট হওয়া এড়ানো যায়।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>তারিখ ও সময়ের বিন্যাস</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -552,17 +557,21 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাইলের নামের %date-এর তারিখের বিন্যাস। নিম্নলিখিত প্লেসহোল্ডারগুলো সন্নিবেশ করা যায়:
+%Y বছর, %m মাস, %d দিন, %H ঘণ্টা,
+%M মিনিট, %S সেকেন্ড, %unix টাইমস্ট্যাম্প
+উদাহরণ: %Y年%m月%d日_%H-%M
+তৈরি হবে: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>সংরক্ষণ করার ফাইলের ধরন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt ফরম্যাট স্ট্যান্ডার্ড</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
