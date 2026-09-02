@@ -464,17 +464,17 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un&apos;immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="279"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Registri</translation>
     </message>
 </context>
 <context>
@@ -482,53 +482,53 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>Post-elaborazione del testo OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora area</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Accedi alle impostazioni</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività batch</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva in</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella originale dell’immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella specificata</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>È necessario specificare prima «Salva nella cartella specificata» perché abbia effetto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella di salvataggio dei risultati OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato del nome del file</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -538,12 +538,17 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è necessario inserire l&apos;estensione. Supporta l&apos;inserimento dei seguenti segnaposto：
+%date Data e ora
+%name Nome della cartella originale/nome del file
+Esempio: [OCR]_%name_%date
+Generato: [OCR]_我的图片_2023-09-01_12-13.txt
+L&apos;aggiunta di segnaposto può evitare che i nuovi file sovrascrivano quelli esistenti.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato di data e ora</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -552,17 +557,21 @@ Terminare l&apos;attività e chiudere la pagina?</translation>
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato della data di %date nel nome del file. Supporta l&apos;inserimento dei seguenti segnaposto:
+%Y anno, %m mese, %d giorno, %H ora,
+%M minuti, %S secondi, %unix timestamp
+Esempio: %Y年%m月%d日_%H-%M
+Generato: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di file da salvare</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Formato standard</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
