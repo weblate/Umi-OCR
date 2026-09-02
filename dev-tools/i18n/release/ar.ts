@@ -464,17 +464,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى اختيار صورة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="279"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>السجلات</translation>
     </message>
 </context>
 <context>
@@ -482,53 +482,53 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالجة اللاحقة لنص OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>تجاهل المنطقة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>الدخول إلى الإعدادات</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>مهمة دفعية</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ إلى</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>المجلد الأصلي للصورة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>الدليل المحدد</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>يجب أولًا تحديد «الحفظ في الدليل المحدد» حتى يسري مفعوله</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>دليل حفظ نتائج OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق اسم الملف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -538,12 +538,17 @@
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>لا حاجة إلى إدخال امتداد الملف. يدعم إدراج العناصر النائبة التالية：
+%date التاريخ والوقت
+%name اسم المجلد الأصلي/اسم الملف
+مثال: [OCR]_%name_%date
+الناتج: [OCR]_我的图片_2023-09-01_12-13.txt
+يمكن أن تؤدي إضافة العناصر النائبة إلى تجنب الكتابة فوق الملفات القديمة بالملفات الجديدة.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق التاريخ والوقت</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -552,17 +557,21 @@
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>تنسيق التاريخ لـ %date في اسم الملف. يدعم إدراج العناصر النائبة التالية:
+%Y السنة، %m الشهر، %d اليوم، %H الساعة،
+%M الدقيقة، %S الثانية، %unix الطابع الزمني
+مثال: %Y年%m月%d日_%H-%M
+الناتج: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع الملف المراد حفظه</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt التنسيق القياسي</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
