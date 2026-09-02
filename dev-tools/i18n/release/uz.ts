@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="50"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation>Joriy versiya</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/About/About.qml" line="52"/>
@@ -464,17 +464,17 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="249"/>
         <source>请选择图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni tanlang</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="279"/>
         <source>设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCR.qml" line="284"/>
         <source>记录</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnallar</translation>
     </message>
 </context>
 <context>
@@ -482,53 +482,53 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="18"/>
         <source>OCR文本后处理</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR matnini keyingi qayta ishlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="23"/>
         <source>忽略区域</source>
-        <translation type="unfinished"></translation>
+        <translation>Hududni e’tiborsiz qoldirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="25"/>
         <source>进入设置</source>
-        <translation type="unfinished"></translation>
+        <translation>Sozlamalarga kirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="36"/>
         <source>批量任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Ommaviy vazifa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="45"/>
         <source>保存到</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlash joyi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="47"/>
         <source>图片原目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmning asl papkasi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="48"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="52"/>
         <source>指定目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Belgilangan papka</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="53"/>
         <source>必须先指定“保存到指定目录”才生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuchga kirishi uchun avval «Belgilangan papkaga saqlash»ni belgilash kerak</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="57"/>
         <source>OCR结果保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR natijalarini saqlash papkasi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="60"/>
         <source>文件名格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl nomi formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="61"/>
@@ -538,12 +538,17 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
 举例：[OCR]_%name_%date
 生成：[OCR]_我的图片_2023-09-01_12-13.txt
 添加占位符可以避免旧文件被新文件覆盖。</source>
-        <translation type="unfinished"></translation>
+        <translation>Kengaytmani kiritish shart emas. Quyidagi o‘rin tutuvchilarni qo‘shish qo‘llab-quvvatlanadi：
+%date Sana va vaqt
+%name Asl papka nomi/fayl nomi
+Misol: [OCR]_%name_%date
+Yaratiladi: [OCR]_我的图片_2023-09-01_12-13.txt
+O‘rin tutuvchilarni qo‘shish yangi fayllarning eski fayllar ustiga yozilishining oldini olishi mumkin.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="66"/>
         <source>日期时间格式</source>
-        <translation type="unfinished"></translation>
+        <translation>Sana va vaqt formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="67"/>
@@ -552,17 +557,21 @@ Vazifani tugatib, sahifani yopmoqchimisiz?</translation>
 %M 分钟、 %S 秒 、 %unix 时间戳 
 举例：%Y年%m月%d日_%H-%M
 生成：2023年09月01日_12-13.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Fayl nomidagi %date sana formati. Quyidagi o‘rin tutuvchilarni qo‘shish qo‘llab-quvvatlanadi:
+%Y yil, %m oy, %d kun, %H soat,
+%M daqiqa, %S soniya, %unix vaqt tamg‘asi
+Misol: %Y年%m月%d日_%H-%M
+Yaratiladi: 2023年09月01日_12-13.txt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="73"/>
         <source>保存文件类型</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydedilecek dosya türü</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="79"/>
         <source>txt 标准格式</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Standart format</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
