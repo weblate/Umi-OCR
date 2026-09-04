@@ -576,77 +576,77 @@ Yaratiladi: 2023年09月01日_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
         <source>含原图片文件名和识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl rasm fayli nomi va aniqlangan matnni o‘z ichiga oladi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="84"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt Faqat matn formati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="85"/>
         <source>仅输出识别文字，不含图片标题</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat aniqlangan matnni chiqaring, rasm sarlavhasisiz</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
         <source>txt 单独文件</source>
-        <translation type="unfinished"></translation>
+        <translation>txt Alohida fayl</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
         <source>对每张图片，生成同名txt文件，仅输出识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir rasm uchun bir xil nomdagi txt faylini yarating va faqat aniqlangan matnni chiqaring</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation type="unfinished"></translation>
+        <translation>md Matn va rasmlar aralash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Matn va rasmlarni birgalikda joylashtirish uchun Markdown formati, faylni Markdown o‘quvchisi yordamida ko‘rish mumkin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>csv Jadval fayli (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
         <source>将图片信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm ma’lumotlari va aniqlangan tarkibni csv jadval fayliga yozadi. Uni Excel yordamida ochish va xlsx formatida saqlash mumkin.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Asl ma’lumotlar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Har bir qatorda bitta json ma’lumoti mavjud bo‘lib, uni uchinchi tomon dasturlari oson o‘qishi va qayta ishlashi mumkin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
         <source>输出忽略空白图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo‘sh rasmlarni e’tiborsiz qoldirib chiqarish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
         <source>若图片没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Agar rasmda matn bo‘lmasa yoki aniqlash muvaffaqiyatsiz tugasa, xato haqida hech qanday xabar ko‘rsatilmaydi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Ichki papkalarni rekursiv o‘qish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
         <source>导入文件夹时，导入子文件夹中全部图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Papkani import qilishda ichki papkalardagi barcha rasmlarni import qilish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
