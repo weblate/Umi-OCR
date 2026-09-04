@@ -576,77 +576,77 @@ Generato: 2023年09月01日_12-13.txt</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="80"/>
         <source>含原图片文件名和识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Include il nome del file immagine originale e il testo riconosciuto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="84"/>
         <source>p.txt 纯文字格式</source>
-        <translation type="unfinished"></translation>
+        <translation>p.txt Formato di solo testo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="85"/>
         <source>仅输出识别文字，不含图片标题</source>
-        <translation type="unfinished"></translation>
+        <translation>Emetti solo il testo riconosciuto, senza il titolo dell&apos;immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="89"/>
         <source>txt 单独文件</source>
-        <translation type="unfinished"></translation>
+        <translation>txt File separato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="90"/>
         <source>对每张图片，生成同名txt文件，仅输出识别文字</source>
-        <translation type="unfinished"></translation>
+        <translation>Per ogni immagine, genera un file txt con lo stesso nome e includi solo il testo riconosciuto</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="94"/>
         <source>md 图文混排</source>
-        <translation type="unfinished"></translation>
+        <translation>md Testo e immagini combinati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="95"/>
         <source>Markdown图文混排格式，可用Markdown阅读器浏览文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato Markdown con testo e immagini combinati, visualizzabile con un lettore Markdown</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="99"/>
         <source>csv 表格文件(Excel)</source>
-        <translation type="unfinished"></translation>
+        <translation>csv File tabellare (Excel)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="100"/>
         <source>将图片信息和识别内容写入csv表格文件。可用Excel打开，另存为xlsx格式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrive le informazioni sull&apos;immagine e il contenuto riconosciuto in un file csv. Può essere aperto con Excel e salvato nel formato xlsx.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="104"/>
         <source>jsonl 原始信息</source>
-        <translation type="unfinished"></translation>
+        <translation>jsonl Informazioni originali</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="105"/>
         <source>每行为一条json数据，便于第三方程序读取操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni riga contiene un dato json, per facilitarne la lettura e l’elaborazione da parte di programmi di terze parti</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="111"/>
         <source>输出忽略空白图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta ignorando le immagini vuote</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="112"/>
         <source>若图片没有文字或识别失败，也不会输出错误提示信息</source>
-        <translation type="unfinished"></translation>
+        <translation>Se un&apos;immagine non contiene testo o il riconoscimento non riesce, non verrà visualizzato alcun messaggio di errore</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="40"/>
         <source>递归读取子文件夹</source>
-        <translation type="unfinished"></translation>
+        <translation>Leggi ricorsivamente le sottocartelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="41"/>
         <source>导入文件夹时，导入子文件夹中全部图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando si importa una cartella, importa tutte le immagini contenute nelle sottocartelle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
