@@ -651,7 +651,7 @@ Ví dụ: %Y年%m月%d日_%H-%M
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/BatchOCR/BatchOCRConfigs.qml" line="121"/>
         <source>其它</source>
-        <translation type="unfinished"></translation>
+        <translation>Khác</translation>
     </message>
 </context>
 <context>
@@ -660,73 +660,75 @@ Ví dụ: %Y年%m月%d日_%H-%M
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="186"/>
         <source>%1 处理配置项异常：
 %2枚举列表为空。</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi khi xử lý mục cấu hình %1:
+%2 danh sách tùy chọn trống.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="472"/>
         <source>重置</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt lại</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="473"/>
         <source>重置本页上的设定</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt lại cài đặt trên trang này</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="476"/>
         <source>重置设定</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt lại cài đặt</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="478"/>
         <source>要重置本页的设定吗？</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có muốn đặt lại cài đặt của trang này không?</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="486"/>
         <source>高级</source>
-        <translation type="unfinished"></translation>
+        <translation>Nâng cao</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="487"/>
         <source>显示更多高级选项。它们标有 * 号。
 请谨慎修改高级选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị thêm các tùy chọn nâng cao. Chúng được đánh dấu bằng dấu .
+Hãy thận trọng khi thay đổi các tùy chọn nâng cao.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>展开</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở rộng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="664"/>
         <source>折叠</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu gọn</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="802"/>
         <source>必须为整数</source>
-        <translation type="unfinished"></translation>
+        <translation>Phải là số nguyên</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="806"/>
         <source>不能超过</source>
-        <translation type="unfinished"></translation>
+        <translation>Không được vượt quá</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="809"/>
         <source>不能低于</source>
-        <translation type="unfinished"></translation>
+        <translation>Không được nhỏ hơn</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="816"/>
         <source>必须为数字</source>
-        <translation type="unfinished"></translation>
+        <translation>Phải là số</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1123"/>
         <source>已取消%1的快捷键。</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã hủy phím tắt của %1.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1133"/>
