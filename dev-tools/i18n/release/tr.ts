@@ -758,12 +758,12 @@ Gelişmiş seçenekleri dikkatli bir şekilde değiştirin.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1166"/>
         <source>当前快捷键录制已在进行，不能同时录制！</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavye kısayolu kaydı zaten devam ediyor, aynı anda birden fazla kısayol kaydedilemez!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/Configs.qml" line="1168"/>
         <source>无法录制快捷键</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavye kısayolu kaydedilemedi</translation>
     </message>
 </context>
 <context>
@@ -771,7 +771,7 @@ Gelişmiş seçenekleri dikkatli bir şekilde değiştirin.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/DropArea_.qml" line="11"/>
         <source>松手放入文件</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyayı eklemek için bırakın</translation>
     </message>
 </context>
 <context>
@@ -779,12 +779,12 @@ Gelişmiş seçenekleri dikkatli bir şekilde değiştirin.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="107"/>
         <source>界面</source>
-        <translation type="unfinished"></translation>
+        <translation>Arayüz</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="115"/>
         <source>内容</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/FontPanel.qml" line="211"/>
