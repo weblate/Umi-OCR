@@ -821,7 +821,7 @@ A fonte do conteúdo dos resultados reconhecidos.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="40"/>
         <source>开机自启</source>
-        <translation>Inicialização e auto arranque</translation>
+        <translation>Arranque automático ao iniciar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="51"/>
