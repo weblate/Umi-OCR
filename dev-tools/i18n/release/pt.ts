@@ -866,7 +866,7 @@ A fonte do conteúdo dos resultados reconhecidos.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation>Em caso de anormalidades na interface, como cintilação da interface ou deslocamento de elementos, tente alternar o renderizador ou desligue a aceleração de hardware</translation>
+        <translation>Em caso de anormalidades na interface, como cintilação da interface ou deslocamento de elementos, tente alternar o renderizador ou desative a aceleração de hardware</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
