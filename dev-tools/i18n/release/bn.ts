@@ -866,38 +866,39 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>ইন্টারফেসে ঝিলমিল করা, উপাদানগুলোর অবস্থান সরে যাওয়া ইত্যাদি সমস্যা দেখা দিলে রেন্ডারার পরিবর্তন করার বা হার্ডওয়্যার ত্বরণ বন্ধ করার চেষ্টা করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>সৌন্দর্যবর্ধক প্রভাব নিষ্ক্রিয় করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>কম ক্ষমতাসম্পন্ন কম্পিউটারে অ্যানিমেশন, ছায়ার মতো প্রভাব নিষ্ক্রিয় করলে কিছুটা সম্পদ ব্যবহার কমানো যায়</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
         <source>图片预览默认显示叠加层</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবির প্রিভিউতে ডিফল্টভাবে ওভারলে দেখান</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="123"/>
         <source>默认开启/关闭叠加层显示
 对所有图片预览组件生效</source>
-        <translation type="unfinished"></translation>
+        <translation>ডিফল্টভাবে ওভারলে প্রদর্শন চালু/বন্ধ করুন
+সমস্ত ছবি প্রিভিউ কম্পোনেন্টে প্রযোজ্য</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="129"/>
         <source>窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>উইন্ডো</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="133"/>
         <source>启动时缩小到任务栏</source>
-        <translation type="unfinished"></translation>
+        <translation>স্টার্টআপে টাস্কবারে মিনিমাইজ করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
