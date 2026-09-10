@@ -866,38 +866,39 @@ Phông chữ của nội dung kết quả ocr.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="107"/>
         <source>若出现界面闪烁、元素错位等界面异常，尝试切换渲染器或者关闭硬件加速</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu giao diện xuất hiện các lỗi như nhấp nháy hoặc các thành phần bị lệch vị trí, hãy thử chuyển trình kết xuất hoặc tắt tăng tốc phần cứng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="113"/>
         <source>禁用美化效果</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt hiệu ứng làm đẹp</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>Trên các máy có cấu hình thấp, việc tắt các hiệu ứng như hoạt ảnh và bóng đổ có thể giảm mức sử dụng một phần tài nguyên</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
         <source>图片预览默认显示叠加层</source>
-        <translation type="unfinished"></translation>
+        <translation>Mặc định hiển thị lớp phủ khi xem trước hình ảnh</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="123"/>
         <source>默认开启/关闭叠加层显示
 对所有图片预览组件生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật/tắt hiển thị lớp phủ theo mặc định
+Áp dụng cho tất cả các thành phần xem trước hình ảnh</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="129"/>
         <source>窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Cửa sổ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="133"/>
         <source>启动时缩小到任务栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Thu nhỏ vào thanh tác vụ khi khởi động</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="135"/>
