@@ -960,18 +960,19 @@ Yazılımdan tamamen çıkmak için işlemi Görev Yöneticisi&apos;nden sonland
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
         <source>截图前隐藏主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü almadan önce ana pencereyi gizle</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
         <source>截图前，如果主窗口处于前台，则隐藏主窗口
 将会延时等待主窗口关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü alınmadan önce ana pencere ön plandaysa gizlenir
+Ana pencerenin kapanması için bir süre beklenir</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="192"/>
         <source>隐藏等待时间</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizleme bekleme süresi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
