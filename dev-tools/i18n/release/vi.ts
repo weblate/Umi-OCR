@@ -960,18 +960,19 @@ Phông chữ của nội dung kết quả ocr.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="187"/>
         <source>截图前隐藏主窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Ẩn cửa sổ chính trước khi chụp màn hình</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="188"/>
         <source>截图前，如果主窗口处于前台，则隐藏主窗口
 将会延时等待主窗口关闭</source>
-        <translation type="unfinished"></translation>
+        <translation>Nếu cửa sổ chính đang ở phía trước khi chụp màn hình, cửa sổ chính sẽ được ẩn
+Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="192"/>
         <source>隐藏等待时间</source>
-        <translation type="unfinished"></translation>
+        <translation>Thời gian chờ để ẩn</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
