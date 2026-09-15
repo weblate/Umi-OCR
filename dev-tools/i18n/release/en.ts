@@ -977,7 +977,7 @@ Wait for the main window to close after a delay</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
         <source>秒</source>
-        <translation>Second</translation>
+        <translation>Seconds</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="203"/>
