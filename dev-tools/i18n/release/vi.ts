@@ -977,69 +977,69 @@ Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</tran
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
         <source>秒</source>
-        <translation type="unfinished"></translation>
+        <translation>Giây</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="203"/>
         <source>服务</source>
-        <translation type="unfinished"></translation>
+        <translation>Dịch vụ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="207"/>
         <source>允许HTTP服务</source>
-        <translation type="unfinished"></translation>
+        <translation>Cho phép dịch vụ HTTP</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="208"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR phụ thuộc vào giao diện HTTP để giao tiếp giữa các tiến trình trên máy cục bộ. Nếu tắt, sẽ không thể sử dụng các chức năng như chế độ dòng lệnh và phát hiện chạy nhiều phiên bản.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="211"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="223"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Có hiệu lực sau khi khởi động lại phần mềm</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="215"/>
         <source>主机</source>
-        <translation type="unfinished"></translation>
+        <translation>Máy chủ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="217"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉ cục bộ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="218"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Bất kỳ địa chỉ khả dụng nào</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>Sẽ cho phép truy cập từ mạng cục bộ. Vui lòng bật quyền tương ứng trong tường lửa!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>Sẽ ngăn truy cập từ mạng cục bộ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>Cổng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhật ký</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
