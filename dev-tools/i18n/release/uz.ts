@@ -977,69 +977,69 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
         <source>秒</source>
-        <translation type="unfinished"></translation>
+        <translation>Soniyalar</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="203"/>
         <source>服务</source>
-        <translation type="unfinished"></translation>
+        <translation>Xizmat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="207"/>
         <source>允许HTTP服务</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP xizmatiga ruxsat berish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="208"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR mahalliy jarayonlararo aloqa uchun HTTP interfeysiga tayanadi. U o‘chirib qo‘yilsa, buyruq satri rejimi, bir nechta nusxani aniqlash kabi funksiyalardan foydalanib bo‘lmaydi.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="211"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="223"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Dastur qayta ishga tushirilgandan so‘ng kuchga kiradi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="215"/>
         <source>主机</source>
-        <translation type="unfinished"></translation>
+        <translation>Xost</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="217"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqat mahalliy</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="218"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Mavjud istalgan manzil</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy tarmoqdan kirishga ruxsat beriladi. Iltimos, xavfsizlik devoridagi tegishli ruxsatlarni yoqing!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy tarmoqdan kirishni taqiqlaydi.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Harakat</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
