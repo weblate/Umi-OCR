@@ -876,7 +876,7 @@ OCR]_दस्तावेज़ A(p2-10)_20230901_1213.txt
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="115"/>
         <source>在低配置机器上，禁用动画、阴影等效果可减少部分资源占用</source>
-        <translation type="unfinished"></translation>
+        <translation>कम क्षमताका कम्प्युटरहरूमा एनिमेसन, छायाँ आदि प्रभावहरू असक्षम गर्दा केही स्रोतको खपत कम गर्न सकिन्छ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="121"/>
