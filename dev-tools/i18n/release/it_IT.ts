@@ -977,69 +977,69 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
         <source>秒</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="203"/>
         <source>服务</source>
-        <translation type="unfinished"></translation>
+        <translation>Servizio</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="207"/>
         <source>允许HTTP服务</source>
-        <translation type="unfinished"></translation>
+        <translation>Consenti il servizio HTTP</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="208"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR utilizza l&apos;interfaccia HTTP per la comunicazione tra processi locali. Se disabilitata, non sarà possibile utilizzare funzioni come la modalità da riga di comando e il rilevamento di più istanze.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="211"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="223"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha effetto dopo il riavvio del software</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="215"/>
         <source>主机</source>
-        <translation type="unfinished"></translation>
+        <translation>Host</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="217"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo locale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="218"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualsiasi indirizzo disponibile</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>Consentirà l&apos;accesso dalla rete locale. Abilita le autorizzazioni corrispondenti nel firewall!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>Vieterà l&apos;accesso dalla rete locale.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation type="unfinished"></translation>
+        <translation>Log</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>Azione</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
