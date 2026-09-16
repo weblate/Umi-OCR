@@ -977,69 +977,69 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="195"/>
         <source>秒</source>
-        <translation type="unfinished"></translation>
+        <translation>ثوانٍ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="203"/>
         <source>服务</source>
-        <translation type="unfinished"></translation>
+        <translation>الخدمة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="207"/>
         <source>允许HTTP服务</source>
-        <translation type="unfinished"></translation>
+        <translation>السماح بخدمة HTTP</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="208"/>
         <source>Umi-OCR依赖HTTP接口进行本机跨进程通信。如果禁用，将无法使用命令行模式、多开检测等功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>يعتمد Umi-OCR على واجهة HTTP للاتصال بين العمليات على الجهاز المحلي. إذا تم تعطيلها، فلن تتمكن من استخدام وظائف مثل وضع سطر الأوامر واكتشاف تشغيل عدة نُسخ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="211"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="223"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>يسري مفعوله بعد إعادة تشغيل البرنامج</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="215"/>
         <source>主机</source>
-        <translation type="unfinished"></translation>
+        <translation>المضيف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="217"/>
         <source>仅本地</source>
-        <translation type="unfinished"></translation>
+        <translation>محلي فقط</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="218"/>
         <source>任何可用地址</source>
-        <translation type="unfinished"></translation>
+        <translation>أي عنوان متاح</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将允许局域网访问。请开启对应防火墙权限！</source>
-        <translation type="unfinished"></translation>
+        <translation>سيسمح بالوصول من الشبكة المحلية. يُرجى تمكين أذونات جدار الحماية المناسبة!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="222"/>
         <source>将禁止局域网访问。</source>
-        <translation type="unfinished"></translation>
+        <translation>سيمنع الوصول من الشبكة المحلية.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="228"/>
         <source>端口</source>
-        <translation type="unfinished"></translation>
+        <translation>المنفذ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="242"/>
         <source>日志</source>
-        <translation type="unfinished"></translation>
+        <translation>السجل</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="246"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>إجراء</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
