@@ -1044,22 +1044,22 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
         <source>打开日志保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnallarni saqlash papkasini ochish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="256"/>
         <source>保存的日志级别</source>
-        <translation type="unfinished"></translation>
+        <translation>Saqlangan jurnallar darajasi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="271"/>
         <source>已禁用日志文件保存</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnal fayllarini saqlash o‘chirib qo‘yilgan</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>Iltimos, dastur yo‘lini o‘zgartirib ko‘ring!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
