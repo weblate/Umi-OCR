@@ -1044,22 +1044,22 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="249"/>
         <source>打开日志保存目录</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri la cartella di salvataggio dei log</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="256"/>
         <source>保存的日志级别</source>
-        <translation type="unfinished"></translation>
+        <translation>Livello dei log salvati</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="271"/>
         <source>已禁用日志文件保存</source>
-        <translation type="unfinished"></translation>
+        <translation>Il salvataggio dei file di log è disabilitato</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="341"/>
         <source>请尝试更换软件路径！</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova a cambiare il percorso del software!</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
