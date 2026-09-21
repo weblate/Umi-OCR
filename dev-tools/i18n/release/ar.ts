@@ -1064,52 +1064,52 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>خطأ في قراءة/كتابة ملف الإعدادات</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="358"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل تحميل المكوّن الإضافي</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="373"/>
         <source>成功添加快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>تمت إضافة الاختصار بنجاح</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="376"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذّرت إضافة الاختصار</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="383"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>تمت إزالة %1 من الاختصارات بنجاح</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>تنبيه</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على أي اختصار لإزالته.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>سيصبح تغيير المُصيِّر ساريًا بعد إعادة تشغيل البرنامج</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="441"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم المنفذ غير صالح</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تغيير رقم المنفذ إلى %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="455"/>
