@@ -1069,7 +1069,7 @@ vai esperar até que a janela principal feche</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="358"/>
         <source>插件加载失败</source>
-        <translation>O plugin falhou ao carregar</translation>
+        <translation>Erro ao carregar o plug-in</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="373"/>
@@ -1084,7 +1084,7 @@ vai esperar até que a janela principal feche</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="383"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation>%1 atalho removido com êxito</translation>
+        <translation>%1 atalho(s) removido(s) com sucesso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
