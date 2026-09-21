@@ -1064,52 +1064,52 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="342"/>
         <source>配置文件读写异常</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di lettura/scrittura del file di configurazione</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="358"/>
         <source>插件加载失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento del plugin non riuscito</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="373"/>
         <source>成功添加快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegamento aggiunto correttamente</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="376"/>
         <source>添加快捷方式失败</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere il collegamento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="383"/>
         <source>成功移除 %1 个快捷方式</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimossi correttamente %1 collegamenti</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>提示</source>
-        <translation type="unfinished"></translation>
+        <translation>Avviso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="386"/>
         <source>没有找到可移除的快捷方式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato trovato alcun collegamento da rimuovere.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="434"/>
         <source>渲染器变更 将在重启软件后生效</source>
-        <translation type="unfinished"></translation>
+        <translation>La modifica del renderer avrà effetto dopo il riavvio del software</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="441"/>
         <source>端口号不合法</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di porta non valido</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="446"/>
         <source>端口号改为%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero di porta modificato in %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Configs/GlobalConfigs.qml" line="455"/>
