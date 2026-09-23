@@ -1143,7 +1143,7 @@ Se não quiser ver esta notificação, desative o modo avançado nas definiçõe
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation>A janela está fixada</translation>
+        <translation>Manter a janela sempre no topo</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
