@@ -1117,7 +1117,10 @@
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>মূল পোর্ট নম্বর %1 ইতিমধ্যে ব্যবহৃত হচ্ছে,
+নতুন পোর্ট নম্বর %2-এ পরিবর্তন করা হয়েছে।
+
+এই বিজ্ঞপ্তিটি দেখতে না চাইলে, গ্লোবাল সেটিংসে উন্নত মোড বন্ধ করুন।</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. শর্টকাট, OCR ভাষা ইত্যাদি বিকল্পগুলো সংশ্লিষ্ট ফাংশন পেজে সেট করুন। 
+2. আরও উন্নত বিকল্পগুলো দেখাতে নিচের বাম কোণের «উন্নত» বোতামটি নির্বাচন করুন।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>টিপস</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>উইন্ডো সবসময় উপরে রাখুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>ট্যাব বার লক করুন</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>রাইট-ক্লিক মেনু</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি সংরক্ষণ করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
