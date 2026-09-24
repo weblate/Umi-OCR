@@ -1117,7 +1117,10 @@ Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</tran
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Số cổng ban đầu %1 đang được sử dụng,
+đã chuyển sang số cổng mới %2.
+
+Nếu không muốn thấy thông báo này, hãy tắt chế độ nâng cao trong cài đặt chung.</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@ Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</tran
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Đối với các tùy chọn như phím tắt, ngôn ngữ OCR, v.v., hãy thiết lập chúng trong các trang chức năng tương ứng.
+2. Chọn nút «Nâng cao» ở góc dưới bên trái để hiển thị thêm các tùy chọn nâng cao.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>Mẹo</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@ Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</tran
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Luôn giữ cửa sổ ở trên cùng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Khóa thanh tab</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@ Sẽ chờ một khoảng thời gian để cửa sổ chính đóng lại</tran
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu chuột phải</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu hình ảnh</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
