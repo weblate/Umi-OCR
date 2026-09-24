@@ -1117,7 +1117,10 @@
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>رقم المنفذ الأصلي %1 قيد الاستخدام،
+تم التبديل إلى رقم المنفذ الجديد %2.
+
+إذا كنت لا تريد رؤية هذا الإشعار، فأوقف الوضع المتقدم في الإعدادات العامة.</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. بالنسبة إلى خيارات مثل مفاتيح الاختصار ولغات OCR وغيرها، يُرجى إعدادها في صفحات الوظائف الخاصة بها.
+2. حدد زر «متقدم» في الزاوية السفلية اليسرى لعرض المزيد من الخيارات المتقدمة.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميح</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>إبقاء النافذة في المقدمة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>قفل شريط علامات التبويب</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة النقر بزر الماوس الأيمن</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>حفظ الصورة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
