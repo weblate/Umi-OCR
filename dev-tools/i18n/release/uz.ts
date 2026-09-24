@@ -1117,7 +1117,10 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Asl port raqami %1 band,
+yangi port raqami %2 ga o‘zgartirildi.
+
+Agar bu bildirishnomani ko‘rishni istamasangiz, global sozlamalarda kengaytirilgan rejimni o‘chiring.</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Klaviatura yorliqlari, OCR tillari va boshqa parametrlarni tegishli funksiya sahifalarida sozlang.
+2. Ko‘proq kengaytirilgan parametrlarni ko‘rsatish uchun pastki chap burchakdagi «Kengaytirilgan» tugmasini belgilang.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>Maslahat</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Oynani har doim tepada saqlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Yorliqlar panelini qulflash</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@ Asosiy oyna yopilishi uchun biroz kechikib kutiladi</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>O‘ng tugma menyusi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni saqlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
