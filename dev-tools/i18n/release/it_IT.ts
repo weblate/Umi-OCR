@@ -1117,7 +1117,10 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Il numero di porta originale %1 è già in uso,
+passaggio al nuovo numero di porta %2.
+
+Se non vuoi visualizzare questa notifica, disabilita la modalità avanzata nelle impostazioni globali.</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Per le opzioni relative ai tasti di scelta rapida, alle lingue OCR e così via, configurale nelle rispettive pagine delle funzioni.
+2. Seleziona il pulsante «Avanzate» nell&apos;angolo inferiore sinistro per visualizzare altre opzioni avanzate.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggerimento</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre in primo piano</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca la barra delle schede</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@ Attendi un breve intervallo per consentire la chiusura della finestra principale
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu contestuale</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva immagine</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
