@@ -1117,7 +1117,10 @@ Ana pencerenin kapanması için bir süre beklenir</translation>
 切换为新端口号%2。
 
 若不想看到此通知，请在全局设置关闭高级模式。</source>
-        <translation type="unfinished"></translation>
+        <translation>Özgün bağlantı noktası numarası %1 kullanımda,
+yeni bağlantı noktası numarası %2&apos;ye geçildi.
+
+Bu bildirimi görmek istemiyorsanız, genel ayarlardan gelişmiş modu devre dışı bırakın.</translation>
     </message>
 </context>
 <context>
@@ -1126,12 +1129,13 @@ Ana pencerenin kapanması için bir süre beklenir</translation>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="20"/>
         <source>1. 关于快捷键、OCR语言等选项，请在各个功能页中进行设置。
 2. 勾选左下角的“高级”按钮，可以显示更多进阶选项。</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Klavye kısayolları, OCR dilleri vb. seçenekleri ilgili işlev sayfalarından yapılandırın.
+2. Daha fazla gelişmiş seçeneği görüntülemek için sol alt köşedeki «Gelişmiş» düğmesini seçin.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage/GlobalConfigsPage.qml" line="21"/>
         <source>小贴士</source>
-        <translation type="unfinished"></translation>
+        <translation>İpucu</translation>
     </message>
 </context>
 <context>
@@ -1139,12 +1143,12 @@ Ana pencerenin kapanması için bir süre beklenir</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="47"/>
         <source>窗口置顶</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencereyi her zaman üstte tut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabBar_/HTabBar.qml" line="252"/>
         <source>锁定标签栏</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekme çubuğunu kilitle</translation>
     </message>
 </context>
 <context>
@@ -1152,12 +1156,12 @@ Ana pencerenin kapanması için bir süre beklenir</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="27"/>
         <source>右键菜单</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağ tıklama menüsü</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="28"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Görseli kaydet</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
