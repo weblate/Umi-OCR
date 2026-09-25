@@ -1166,32 +1166,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصورة: ملاءمة للنافذة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>حجم الصورة: الحجم الفعلي</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>أداة التقاط الشاشة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>لقطة شاشة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>لصق الصورة</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>اسحب صورة محلية: معاينة OCR
+عجلة الماوس: تكبير/تصغير
+زر الماوس الأيسر: سحب
+زر الماوس الأيمن: رسم منطقة للتجاهل
+
+يمكن رسم مستطيل واحد أو عدة مستطيلات لمناطق التجاهل. عند تنفيذ OCR الدفعي، سيتم استبعاد كتل النص الموجودة بالكامل داخل مناطق التجاهل.
+على سبيل المثال، عند معالجة لقطات شاشة للأفلام أو المسلسلات دفعيًا، يمكنك إضافة منطقة تجاهل عند العلامة المائية في الزاوية العلوية اليمنى، لتجنب إخراج نص العلامة المائية.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>أبعاد الصورة:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
