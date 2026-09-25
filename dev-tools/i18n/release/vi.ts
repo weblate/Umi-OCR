@@ -1166,32 +1166,32 @@ Nếu không muốn thấy thông báo này, hãy tắt chế độ nâng cao tr
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Kích thước hình ảnh: Vừa với cửa sổ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Kích thước hình ảnh: Kích thước thực tế</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Công cụ chụp màn hình</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>Dán</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>Take screenshot</translation>
+        <translation>Ảnh chụp màn hình</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Dán hình ảnh</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@ Nếu không muốn thấy thông báo này, hãy tắt chế độ nâng cao tr
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Kéo hình ảnh cục bộ vào: Xem trước OCR
+Con lăn chuột: Thu phóng
+Nút trái: Kéo
+Nút phải: Vẽ vùng bỏ qua
+
+Có thể vẽ một hoặc nhiều khung hình chữ nhật cho các vùng bỏ qua. Khi thực hiện OCR hàng loạt, các khối văn bản nằm hoàn toàn trong vùng bỏ qua sẽ bị loại trừ.
+Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương trình truyền hình, bạn có thể thêm vùng bỏ qua tại vị trí hình mờ ở góc trên bên phải để tránh xuất văn bản của hình mờ.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>Kích thước hình ảnh:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
