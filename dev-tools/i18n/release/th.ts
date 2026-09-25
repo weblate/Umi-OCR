@@ -1166,32 +1166,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดรูปภาพ: พอดีกับหน้าต่าง</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดรูปภาพ: ขนาดจริง</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>เครื่องมือจับภาพหน้าจอ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>วาง</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพหน้าจอ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>วางรูปภาพ</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>ลากรูปภาพในเครื่องเข้ามา: ตัวอย่าง OCR
+ล้อเลื่อนเมาส์: ซูม
+ปุ่มซ้าย: ลาก
+ปุ่มขวา: วาดพื้นที่ที่ไม่ต้องการ
+
+สามารถวาดกรอบสี่เหลี่ยมสำหรับพื้นที่ที่ไม่ต้องการได้หนึ่งกรอบหรือหลายกรอบ เมื่อดำเนินการ OCR แบบกลุ่ม บล็อกข้อความที่อยู่ภายในพื้นที่ที่ไม่ต้องการทั้งหมดจะถูกตัดออก
+ตัวอย่างเช่น เมื่อประมวลผลภาพหน้าจอจากภาพยนตร์หรือซีรีส์แบบกลุ่ม สามารถเพิ่มพื้นที่ที่ไม่ต้องการบริเวณลายน้ำที่มุมขวาบน เพื่อหลีกเลี่ยงการส่งออกข้อความจากลายน้ำ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>ขนาดรูปภาพ:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
