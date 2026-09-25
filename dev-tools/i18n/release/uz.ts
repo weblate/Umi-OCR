@@ -1166,32 +1166,32 @@ Agar bu bildirishnomani ko‘rishni istamasangiz, global sozlamalarda kengaytiri
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm o‘lchami: oynaga moslashtirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm o‘lchami: haqiqiy o‘lcham</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran tasvirini olish vositasi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>Joylashtirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation>Take screenshot</translation>
+        <translation>Ekran tasviri</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasmni joylashtirish</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@ Agar bu bildirishnomani ko‘rishni istamasangiz, global sozlamalarda kengaytiri
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Mahalliy rasmni sudrab olib keling: OCR ko‘rib chiqish
+Sichqoncha g‘ildiragi: masshtablash
+Chap tugma: sudrash
+O‘ng tugma: e’tiborga olinmaydigan hududni chizish
+
+Bitta yoki bir nechta to‘g‘ri to‘rtburchak shaklidagi e’tiborga olinmaydigan hududlarni chizish mumkin. Ommaviy OCR bajarilganda, e’tiborga olinmaydigan hududlar ichida to‘liq joylashgan matn bloklari chiqarib tashlanadi.
+Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng burchakdagi suv belgisi ustiga e’tiborga olinmaydigan hudud qo‘shish orqali suv belgisi matnining natijaga chiqarilishining oldini olish mumkin.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>Rasm o‘lchami:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
