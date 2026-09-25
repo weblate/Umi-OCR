@@ -1166,32 +1166,32 @@ Bu bildirimi görmek istemiyorsanız, genel ayarlardan gelişmiş modu devre dı
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>Görsel boyutu: Pencereye sığdır</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>Görsel boyutu: Gerçek boyut</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü aracı</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntüsü</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Görseli yapıştır</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@ Bu bildirimi görmek istemiyorsanız, genel ayarlardan gelişmiş modu devre dı
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerel görseli sürükleyin: OCR önizlemesi
+Fare tekerleği: Yakınlaştırma/uzaklaştırma
+Sol tuş: Sürükleme
+Sağ tuş: Yok sayılacak alan çizme
+
+Bir veya birden fazla dikdörtgen yok sayma alanı çizilebilir. Toplu OCR işlemi sırasında, tamamen yok sayma alanlarının içinde bulunan metin blokları hariç tutulur.
+Örneğin, film veya dizi ekran görüntülerini toplu olarak işlerken sağ üst köşedeki filigranın üzerine bir yok sayma alanı ekleyerek filigran metninin çıktıya dahil edilmesini önleyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>Görsel boyutu:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
