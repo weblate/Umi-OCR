@@ -1160,32 +1160,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازهٔ تصویر: متناسب با پنجره</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازهٔ تصویر: اندازهٔ واقعی</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزار عکس‌برداری از صفحه</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>چسباندن</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>ภาพหน้าจอ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>چسباندن تصویر</translation>
     </message>
 </context>
 <context>
@@ -1199,12 +1199,18 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>تصویر محلی را بکشید و رها کنید: پیش‌نمایش OCR
+چرخ ماوس: بزرگ‌نمایی/کوچک‌نمایی
+دکمهٔ چپ: کشیدن
+دکمهٔ راست: رسم ناحیهٔ نادیده‌گرفته‌شده
+
+می‌توان یک یا چند کادر مستطیلی برای نواحی نادیده‌گرفته‌شده رسم کرد. هنگام اجرای OCR دسته‌ای، بلوک‌های متنی که به‌طور کامل درون نواحی نادیده‌گرفته‌شده قرار دارند، حذف خواهند شد.
+برای مثال، هنگام پردازش دسته‌ای اسکرین‌شات‌های فیلم‌ها یا سریال‌ها، می‌توانید در محل واترمارک در گوشهٔ بالا-راست یک ناحیهٔ نادیده‌گرفته‌شده اضافه کنید تا از نمایش متن واترمارک در خروجی جلوگیری شود.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازهٔ تصویر:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
