@@ -1166,32 +1166,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="29"/>
         <source>图片大小：适应窗口</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবির আকার: উইন্ডোর সাথে মানানসই</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="30"/>
         <source>图片大小：实际</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবির আকার: প্রকৃত আকার</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="32"/>
         <source>截图</source>
-        <translation type="unfinished"></translation>
+        <translation>স্ক্রিনশট টুল</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="33"/>
         <source>粘贴</source>
-        <translation type="unfinished"></translation>
+        <translation>পেস্ট করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="34"/>
         <source>屏幕截图</source>
-        <translation type="unfinished"></translation>
+        <translation>স্ক্রিনশট</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IconButtonBar.qml" line="35"/>
         <source>粘贴图片</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবি পেস্ট করুন</translation>
     </message>
 </context>
 <context>
@@ -1205,12 +1205,18 @@
 
 可绘制一个或多个忽略区域矩形框。在执行批量OCR时，完全位于忽略区域内的文本块将被排除。
 比如批量处理影视截图时，可在右上角水印处添加忽略区域，避免输出水印文本。</source>
-        <translation type="unfinished"></translation>
+        <translation>স্থানীয় ছবি টেনে আনুন: OCR প্রিভিউ
+মাউসের স্ক্রল হুইল: জুম
+বাম বোতাম: টেনে সরান
+ডান বোতাম: উপেক্ষা করার এলাকা আঁকুন
+
+একটি বা একাধিক আয়তাকার উপেক্ষা এলাকা আঁকা যায়। ব্যাচ OCR চালানোর সময়, উপেক্ষা এলাকাগুলোর সম্পূর্ণ ভিতরে থাকা টেক্সট ব্লকগুলো বাদ দেওয়া হবে।
+উদাহরণস্বরূপ, সিনেমা বা টিভি সিরিজের স্ক্রিনশট ব্যাচ প্রসেস করার সময়, উপরের ডান কোণের ওয়াটারমার্কের ওপর একটি উপেক্ষা এলাকা যোগ করলে ওয়াটারমার্কের লেখা আউটপুটে আসা এড়ানো যায়।</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="143"/>
         <source>图像尺寸：</source>
-        <translation type="unfinished"></translation>
+        <translation>ছবির আকার:</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="150"/>
