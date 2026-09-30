@@ -1231,7 +1231,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
         <source>清空</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้าง</translation>
     </message>
 </context>
 <context>
@@ -1239,33 +1239,33 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="64"/>
         <source>复制图片</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรูปภาพ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="66"/>
         <source>复制图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรูปภาพไม่สำเร็จ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="74"/>
         <source>打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดรูปภาพ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="76"/>
         <source>打开图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดรูปภาพไม่สำเร็จ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="87"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="100"/>
         <source>保存图片</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปภาพ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageScale.qml" line="102"/>
         <source>保存图片失败</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกรูปภาพไม่สำเร็จ</translation>
     </message>
 </context>
 <context>
@@ -1273,32 +1273,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="204"/>
         <source>图片：复制%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ: คัดลอก %1 อักขระ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="207"/>
         <source>图片：无选中文字</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ: ไม่มีข้อความที่เลือก</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="218"/>
         <source>图片：复制全部%1字</source>
-        <translation type="unfinished"></translation>
+        <translation>รูปภาพ: คัดลอกอักขระทั้งหมด %1 ตัว</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="276"/>
         <source>复制&#x3000;&#x3000;（Ctrl+C）</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก&#x3000;&#x3000;(Ctrl+C)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="277"/>
         <source>全选&#x3000;&#x3000;（Ctrl+A）</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกทั้งหมด&#x3000;&#x3000;(Ctrl+A)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="278"/>
         <source>复制图片（Ctrl+X）</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกรูปภาพ (Ctrl+X)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
