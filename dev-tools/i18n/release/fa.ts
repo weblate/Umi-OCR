@@ -1303,22 +1303,22 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
         <source>保存图片（Ctrl+S）</source>
-        <translation type="unfinished"></translation>
+        <translation>ذخیرهٔ تصویر (Ctrl+S)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="280"/>
         <source>显示/隐藏文字（Tab）</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش/مخفی کردن متن (Tab)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>باز کردن تصویر با برنامهٔ پیش‌فرض</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
         <source>删除图片（Ctrl+D）</source>
-        <translation type="unfinished"></translation>
+        <translation>حذف تصویر (Ctrl+D)</translation>
     </message>
 </context>
 <context>
@@ -1326,7 +1326,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>به Umi-OCR خوش آمدید</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
