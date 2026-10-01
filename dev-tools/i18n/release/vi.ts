@@ -1303,22 +1303,22 @@ Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="279"/>
         <source>保存图片（Ctrl+S）</source>
-        <translation type="unfinished"></translation>
+        <translation>Lưu hình ảnh (Ctrl+S)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="280"/>
         <source>显示/隐藏文字（Tab）</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện/ẩn văn bản (Tab)</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="281"/>
         <source>用默认应用打开图片</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở hình ảnh bằng ứng dụng mặc định</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ImageViewer/ImageWithText.qml" line="282"/>
         <source>删除图片（Ctrl+D）</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa hình ảnh (Ctrl+D)</translation>
     </message>
 </context>
 <context>
@@ -1326,7 +1326,7 @@ Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Chào mừng bạn đến với Umi-OCR</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
