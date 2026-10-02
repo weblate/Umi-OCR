@@ -1331,7 +1331,7 @@ Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã bật chế độ chạy nền; bạn có thể sử dụng các chức năng thông qua phím tắt.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@ Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở trang web</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Liên kết</translation>
     </message>
 </context>
 <context>
@@ -1352,12 +1352,12 @@ Ví dụ, khi xử lý hàng loạt ảnh chụp màn hình phim hoặc chương
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Xác nhận</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
