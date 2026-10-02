@@ -1226,7 +1226,7 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="156"/>
         <source>撤销</source>
-        <translation>Annulla</translation>
+        <translation>Disfai</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/IgnoreArea/IgnoreArea.qml" line="164"/>
@@ -1331,7 +1331,7 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>La modalità in background è attivata; puoi utilizzare le funzioni tramite i tasti di scelta rapida.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri la pagina web</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegamento</translation>
     </message>
 </context>
 <context>
@@ -1352,12 +1352,12 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
