@@ -1331,7 +1331,7 @@ Bir veya birden fazla dikdörtgen yok sayma alanı çizilebilir. Toplu OCR işle
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Arka plan modu etkinleştirildi; işlevleri klavye kısayolları aracılığıyla kullanabilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@ Bir veya birden fazla dikdörtgen yok sayma alanı çizilebilir. Toplu OCR işle
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Web sayfasını aç</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı</translation>
     </message>
 </context>
 <context>
@@ -1352,12 +1352,12 @@ Bir veya birden fazla dikdörtgen yok sayma alanı çizilebilir. Toplu OCR işle
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Onayla</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
