@@ -1331,7 +1331,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>حالت پس‌زمینه فعال است؛ می‌توانید از طریق کلیدهای میانبر از قابلیت‌ها استفاده کنید.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>باز کردن صفحهٔ وب</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>پیوند</translation>
     </message>
 </context>
 <context>
@@ -1352,12 +1352,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>تأیید</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
