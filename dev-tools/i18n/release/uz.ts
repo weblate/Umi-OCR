@@ -1331,7 +1331,7 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/MainWindow/MainWindowManager.qml" line="30"/>
         <source>已启用后台模式，可通过快捷键使用功能。</source>
-        <translation type="unfinished"></translation>
+        <translation>Fon rejimi yoqilgan; funksiyalardan klaviatura yorliqlari orqali foydalanishingiz mumkin.</translation>
     </message>
 </context>
 <context>
@@ -1339,12 +1339,12 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="60"/>
         <source>打开网页</source>
-        <translation type="unfinished"></translation>
+        <translation>Veb-sahifani ochish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MarkdownView.qml" line="66"/>
         <source>链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Havola</translation>
     </message>
 </context>
 <context>
@@ -1352,12 +1352,12 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="28"/>
         <source>取消</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortga qaytarish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="29"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasdiqlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
