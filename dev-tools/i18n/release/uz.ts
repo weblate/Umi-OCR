@@ -1362,32 +1362,32 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation type="unfinished"></translation>
+        <translation>Eslatma</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
         <source>发生了一点小问题</source>
-        <translation type="unfinished"></translation>
+        <translation>Kichik muammo yuz berdi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="117"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Nusxalash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>已复制报错信息 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xatolik ma’lumotlari %1 nusxalandi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>请前往 Issues 页面寻找解答或反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Yechim topish yoki fikr-mulohaza bildirish uchun Issues sahifasiga o‘ting</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Muammo haqida xabar berish</translation>
     </message>
 </context>
 <context>
@@ -1395,17 +1395,17 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasdiqlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
         <source>不再提示</source>
-        <translation type="unfinished"></translation>
+        <translation>Boshqa ko‘rsatilmasin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation type="unfinished"></translation>
+        <translation>Tushundim</translation>
     </message>
 </context>
 <context>
@@ -1413,19 +1413,21 @@ Masalan, film yoki serial skrinshotlarini ommaviy qayta ishlashda yuqori o‘ng 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="81"/>
         <source>开始任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazifani boshlash</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="96"/>
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazifani pauza qilish
+Pauzadan so‘ng kompyuterni bo‘sh yoki uyqu rejimida qoldirishingiz mumkin.
+Ammo kompyuterni o‘chirsangiz yoki dasturdan chiqsangiz, vazifa mazmuni yo‘qoladi.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazifani davom ettirish</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
