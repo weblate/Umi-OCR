@@ -1362,32 +1362,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation type="unfinished"></translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
         <source>发生了一点小问题</source>
-        <translation type="unfinished"></translation>
+        <translation>เกิดปัญหาเล็กน้อย</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="117"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอก</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>已复制报错信息 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>คัดลอกข้อมูลข้อผิดพลาด %1 แล้ว</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>请前往 Issues 页面寻找解答或反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>ไปที่หน้า Issues เพื่อค้นหาวิธีแก้ไขหรือส่งข้อเสนอแนะ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>รายงานปัญหา</translation>
     </message>
 </context>
 <context>
@@ -1395,17 +1395,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยัน</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
         <source>不再提示</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ต้องแสดงอีก</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation type="unfinished"></translation>
+        <translation>เข้าใจแล้ว</translation>
     </message>
 </context>
 <context>
@@ -1413,19 +1413,21 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="81"/>
         <source>开始任务</source>
-        <translation type="unfinished"></translation>
+        <translation>เริ่มงาน</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="96"/>
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดงานชั่วคราว
+หลังจากหยุดชั่วคราว คุณสามารถปล่อยให้คอมพิวเตอร์อยู่ในโหมดไม่ได้ใช้งานหรือโหมดสลีปได้
+แต่หากปิดเครื่องหรือออกจากซอฟต์แวร์ เนื้อหาของงานจะถูกยกเลิก</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished"></translation>
+        <translation>ทำงานต่อ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
