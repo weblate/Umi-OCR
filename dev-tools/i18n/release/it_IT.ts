@@ -1362,32 +1362,32 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="38"/>
         <source>警告</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvertimento</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="44"/>
         <source>发生了一点小问题</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un piccolo problema</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="117"/>
         <source>复制</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>已复制报错信息 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sull&apos;errore copiate: %1</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="122"/>
         <source>请前往 Issues 页面寻找解答或反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai alla pagina Issues per trovare una soluzione o inviare un feedback</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBox.qml" line="129"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Segnalazione di problemi</translation>
     </message>
 </context>
 <context>
@@ -1395,17 +1395,17 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="113"/>
         <source>确定</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="149"/>
         <source>不再提示</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare più</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Popup_/MessageBoxWin.qml" line="150"/>
         <source>知道了</source>
-        <translation type="unfinished"></translation>
+        <translation>Ho capito</translation>
     </message>
 </context>
 <context>
@@ -1413,19 +1413,21 @@ Ad esempio, durante l&apos;elaborazione batch di screenshot di film o serie TV, 
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="81"/>
         <source>开始任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia attività</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="96"/>
         <source>暂停任务
 暂停后可以待机或休眠。
 但是关机或退出软件，将会丢弃任务内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Metti in pausa l&apos;attività
+Dopo la pausa, puoi lasciare il computer inattivo o in sospensione.
+Tuttavia, spegnendo il computer o uscendo dal software, il contenuto dell&apos;attività verrà eliminato.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="97"/>
         <source>继续任务</source>
-        <translation type="unfinished"></translation>
+        <translation>Riprendi attività</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
