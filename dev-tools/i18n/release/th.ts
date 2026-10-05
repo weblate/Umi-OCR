@@ -1433,32 +1433,33 @@
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>ยุติงาน
+ละทิ้งเนื้อหาที่ยังไม่เสร็จ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="220"/>
         <source>正在运行</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังทำงาน</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
         <source>正在保存</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังบันทึก</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
         <source>已暂停</source>
-        <translation type="unfinished"></translation>
+        <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="233"/>
         <source>任务停止</source>
-        <translation type="unfinished"></translation>
+        <translation>งานหยุดแล้ว</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="235"/>
         <source>任务完成</source>
-        <translation type="unfinished"></translation>
+        <translation>งานเสร็จสมบูรณ์</translation>
     </message>
 </context>
 <context>
@@ -1466,12 +1467,12 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="14"/>
         <source>保存并返回</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกและย้อนกลับ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="32"/>
         <source>返回</source>
-        <translation type="unfinished"></translation>
+        <translation>ย้อนกลับ</translation>
     </message>
 </context>
 <context>
