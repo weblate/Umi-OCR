@@ -1433,7 +1433,7 @@ No entanto, desligar ou sair do software descartará o conteúdo da tarefa.</tra
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation>Encerrar a tarefa
+        <translation>Terminar tarefa
 Descarte conteúdo inacabado.</translation>
     </message>
     <message>
