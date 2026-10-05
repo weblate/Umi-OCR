@@ -1433,32 +1433,33 @@ Tuttavia, spegnendo il computer o uscendo dal software, il contenuto dell&apos;a
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="136"/>
         <source>终止任务
 放弃未完成的内容。</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina attività
+Abbandona il contenuto non completato.</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="220"/>
         <source>正在运行</source>
-        <translation type="unfinished"></translation>
+        <translation>In esecuzione</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="222"/>
         <source>正在保存</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvataggio in corso</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="226"/>
         <source>已暂停</source>
-        <translation type="unfinished"></translation>
+        <translation>In pausa</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="233"/>
         <source>任务停止</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività arrestata</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/MissionCtrlPanel.qml" line="235"/>
         <source>任务完成</source>
-        <translation type="unfinished"></translation>
+        <translation>Attività completata</translation>
     </message>
 </context>
 <context>
@@ -1466,12 +1467,12 @@ Tuttavia, spegnendo il computer o uscendo dal software, il contenuto dell&apos;a
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="14"/>
         <source>保存并返回</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva e torna indietro</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/Widgets/ModalLayer.qml" line="32"/>
         <source>返回</source>
-        <translation type="unfinished"></translation>
+        <translation>Indietro</translation>
     </message>
 </context>
 <context>
