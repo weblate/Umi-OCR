@@ -1480,32 +1480,32 @@ Tamamlanmamış içeriği bırakın.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="23"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR&apos;a hoş geldiniz</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="26"/>
         <source>请选择功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen bir işlev sayfası seçin</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="32"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut sürüm</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>项目链接</source>
-        <translation type="unfinished"></translation>
+        <translation>Proje bağlantısı</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>Resmî web sitesi</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklenti uzantıları</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
