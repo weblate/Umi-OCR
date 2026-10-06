@@ -1480,32 +1480,32 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="23"/>
         <source>欢迎使用 Umi-OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>Umi-OCR-এ স্বাগতম</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="26"/>
         <source>请选择功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি ফাংশন পেজ নির্বাচন করুন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="32"/>
         <source>当前版本</source>
-        <translation type="unfinished"></translation>
+        <translation>বর্তমান সংস্করণ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>项目链接</source>
-        <translation type="unfinished"></translation>
+        <translation>প্রজেক্টের লিংক</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>官方网站</source>
-        <translation type="unfinished"></translation>
+        <translation>অফিসিয়াল ওয়েবসাইট</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>插件拓展</source>
-        <translation type="unfinished"></translation>
+        <translation>প্লাগইন এক্সটেনশন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
