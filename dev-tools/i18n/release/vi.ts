@@ -1510,17 +1510,17 @@ Bỏ nội dung chưa hoàn thành.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>Báo cáo sự cố</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
         <source>功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>Trang chức năng</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
         <source>请打开对应标签页（如批量OCR、批量文档），再拖入文件。</source>
-        <translation type="unfinished"></translation>
+        <translation>Hãy mở tab tương ứng (chẳng hạn OCR hàng loạt hoặc Tài liệu hàng loạt), sau đó kéo tệp vào đó.</translation>
     </message>
 </context>
 <context>
@@ -1528,7 +1528,7 @@ Bỏ nội dung chưa hoàn thành.</translation>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="14"/>
         <source>文字识别</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhận dạng văn bản</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
