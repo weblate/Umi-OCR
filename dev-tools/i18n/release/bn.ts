@@ -1510,17 +1510,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা প্রতিবেদন</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
         <source>功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>ফাংশন পেজ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
         <source>请打开对应标签页（如批量OCR、批量文档），再拖入文件。</source>
-        <translation type="unfinished"></translation>
+        <translation>সংশ্লিষ্ট ট্যাব (যেমন ব্যাচ OCR বা ব্যাচ ডকুমেন্ট) খুলুন, তারপর ফাইলগুলো সেখানে টেনে আনুন।</translation>
     </message>
 </context>
 <context>
@@ -1528,7 +1528,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="14"/>
         <source>文字识别</source>
-        <translation type="unfinished"></translation>
+        <translation>টেক্সট শনাক্তকরণ</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
