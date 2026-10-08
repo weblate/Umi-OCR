@@ -1510,17 +1510,17 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="35"/>
         <source>问题反馈</source>
-        <translation type="unfinished"></translation>
+        <translation>الإبلاغ عن مشكلة</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="75"/>
         <source>功能页</source>
-        <translation type="unfinished"></translation>
+        <translation>صفحة الوظائف</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/TabPages/Navigation/Navigation.qml" line="136"/>
         <source>请打开对应标签页（如批量OCR、批量文档），再拖入文件。</source>
-        <translation type="unfinished"></translation>
+        <translation>يُرجى فتح علامة التبويب المناسبة (مثل OCR الدفعي أو المستندات الدفعية)، ثم سحب الملفات إليها.</translation>
     </message>
 </context>
 <context>
@@ -1528,7 +1528,7 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="14"/>
         <source>文字识别</source>
-        <translation type="unfinished"></translation>
+        <translation>التعرّف على النص</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
