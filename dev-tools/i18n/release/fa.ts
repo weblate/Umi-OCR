@@ -1533,13 +1533,13 @@
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="18"/>
         <source>操作</source>
-        <translation type="unfinished"></translation>
+        <translation>عمل</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="20"/>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="115"/>
         <source>强制终止任务</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف اجباری کار</translation>
     </message>
     <message>
         <location filename="../../../UmiOCR-data/qt_res/qml/ApiManager/OcrManager.qml" line="22"/>
